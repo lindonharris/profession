@@ -1,0 +1,12 @@
+# Sensitive data
+*.env
+credentials/
+private/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
