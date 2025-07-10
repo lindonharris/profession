@@ -83,6 +83,12 @@ Transform recruiting from ad-hoc activities into a systematic, data-driven proce
 - Investment idea development and validation
 - Interview performance and offer success
 
+## Long Term Goals
+- Expand the recruiting OS into a full SaaS platform used across finance.
+- Integrate machine learning to identify success patterns and optimize strategies.
+- Build a community repository of best practices and case studies.
+- Achieve industry recognition, including participation in the Aspen Institute [Finance Leaders Fellowship](https://www.aspeninstitute.org/news/finance-leaders-fellowship-2025-class/).
+
 ## Technical Evolution Path
 1. **Phase 1**: Markdown files and manual organization
 2. **Phase 2**: CSV tracking and basic templates
