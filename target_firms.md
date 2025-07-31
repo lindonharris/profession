@@ -7,3 +7,4 @@ A running list of investment management firms for recruiting focus. Organized by
 - Elliott Management
 - Silver Point Capital
 - Baupost Group
+- King Street Capital
