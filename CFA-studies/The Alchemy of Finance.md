@@ -1,0 +1,6 @@
+by George Soros
+
+
+Page 2
+
+"The concept of [[Reflexivity]] is very simple. In situations that have thinking participants, there is a two-way interaction between the participants’ thinking and the situation in which they participate. On one hand, participants seek to understand the situation; on the other, they bring about a desired outcome. The two functions work in opposite directions: in the cognitive function, reality is the given; in the participating function, the participants’ understanding is the constant. The two functions can interfere with each other by rendering what is supposed to be given, contingent. I call the interference between the two functions “reflexivity.” I envision reflexivity as a feedback loop between the participants’ understanding and the situation in which they participate, and I contend that the concept of reflexivity is crucial to understanding situations that have thinking participants. Reflexivity renders the participants’ understanding imperfect and ensures that their actions will have unintended consequences."

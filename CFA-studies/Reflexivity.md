@@ -1,0 +1,3 @@
+from *The Alchemy of Finance*, by George Soros
+
+Reflexivity refers to the two-way feedback loop in which participants both interpret and influence a situation. This creates interference between their understanding (cognitive function) and their actions (participating function), making outcomes unpredictable and understanding imperfect. Reflexivity is essential for grasping situations involving thinking participants.
