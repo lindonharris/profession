@@ -4,25 +4,25 @@
 
 ## August 13, 2025
 
-### Investment Decision Process
-- Investment decisions are made **much faster** than traditional PE
+### Investment Decision Process- Investment Decisions Are Made **much Faster** Than Traditional PE
+
 - IC members are used to making decisions on a **daily basis**
 - Global investment team meets daily and makes decisions
 - When they find private opportunities, they can move **significantly faster** than PE-native competitors
 - This speed is a **real competitive advantage**
 
-### Market Competition Dynamics
-- **Private credit** is the most competitive market segment right now given growth in that area
+### Market Competition Dynamics- **private Credit** Is the Most Competitive Market Segment Right Now Given Growth in That Area
+
 - **Special situations strategies** are much more idiosyncratic and less marketed
   - Therefore, less direct competition between firms
   - More proprietary deal flow and unique opportunities
 
-### IC Materials & Process
-- IC materials are much more **cogent, practical, and concentrated**
+### Ic Materials & Process- Ic Materials Are Much More **cogent, Practical, and Concentrated**
+
 - Focused on actionable insights rather than lengthy presentations
 
-### Culture & Working Environment
-- Working hours are **intense and serious** - similar to Morgan Stanley experience
+### Culture & Working Environment- Working Hours Are **intense and Serious** - Similar to Morgan Stanley Experience
+
 - Not as fast-paced as pod shops, but still intense environment
 - Real estate team is more extraverted; some teams are more introverted
 - **Cultural identity matters** significantly in hedge fund selection

@@ -5,7 +5,7 @@
 
 ## August 13, 2025
 
-### My Top 10 Values (Ranked)
+### My Top 10 Values (ranked)
 
 1. **Intellectual Challenge**
 2. **Achievement**
@@ -24,7 +24,7 @@ Understanding values is key in career decision making. Values drive behavior as 
 
 Next step: Narrow down to top 3-5 values most relevant to career focus.
 
-### Complete Values List from Exercise
+### Complete Values List From Exercise
 
 - Relationships - building strong relationships and connections with others
 - Stability - having financial or emotional stability
@@ -52,16 +52,16 @@ Next step: Narrow down to top 3-5 values most relevant to career focus.
 
 ## August 16, 2025 - Friday Session
 
-### Identity Mutability & Vision
-- Discussed **identity mutability** and embodying "who I need to become" to pursue my vision
+### Identity Mutability & Vision- Discussed **identity Mutability** and Embodying "who I Need to Become" to Pursue My Vision
+
 - Need to **lean into identity as an athlete** when pitching firms
 - Stay **hyperfocused** on aligned strategies:
   - Special situations
   - Bespoke private credit/equity
   - Related strategies
 
-#### Archetype: Ian Charles (Founder & Managing Partner, Arctos)
-"Who I need to become" - Ian Charles represents the ideal archetype for self-construction:
+#### Archetype: Ian Charles (founder & Managing Partner, Arctos)"who I Need to Become" - Ian Charles Represents the Ideal Archetype for Self-Construction:
+
 - **Intellectual Excellence**: Incredibly intelligent yet maintains insatiable curiosity
 - **Work Ethic**: Hard working and hungry despite success
 - **Character**: Consummate professional and genuinely "good person"
@@ -71,22 +71,22 @@ Next step: Narrow down to top 3-5 values most relevant to career focus.
 - **Core Skills**: Innately skilled in both communication and analysis
 - This is the archetype upon which I want to self-construct
 
-### Relationship with Wealth
-- Must develop a **constructive, not destructive** relationship with wealth
+### Relationship with Wealth- Must Develop a **constructive, Not Destructive** Relationship with Wealth
+
 - Necessary to compete with those who view and utilize wealth as a tool for creating more
 - Need to approach wealth with:
   - Extreme proactivity and fervor
   - Without shame, guilt, or self-doubt
   - As a tool for value creation
 
-### Next Session
-- [ ] Will refine my narrative pitch
+### Next Session- [ ] Will Refine My Narrative Pitch
+
 - [ ] Include "narrative pitch refinement" in calendar event body
 
 ### Action Items
 
-#### King Street Capital - Zach Samuels
-- [x] Have conversation with Zach Samuels at King Street ✅ 2025-08-13
+#### King Street Capital - Zach Samuels- [x] Have Conversation with Zach Samuels at King Street ✅ 2025-08-13
+
 - [ ] Get contacts of a few more people from Zach
 
 ## Coach Contact

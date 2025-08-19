@@ -6,8 +6,8 @@ updated: 2024-10-25
 ---
 
 **
-## Discussion 10/1
-- 
+## Discussion 10/1- 
+
 Need for more mentorship in this transitional phase of my life
 
 - 

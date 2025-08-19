@@ -1,0 +1,49 @@
+# Fw: Admit Essentials - Edition #11 (academic Preparation: the Curriculum)
+
+**Date:** 8/18/2025, 3:12:37 PM  
+**From:** Harris, LinDon <lharris@mba2027.hbs.edu>
+
+---
+
+**
+
+---
+
+From:** HBS Admit Essentials <incomingMBA@hbs.edu>**Sent:** Sunday, May 4, 2025 5:00 PM**To:** Harris, LinDon <lharris@mba2027.hbs.edu>**Subject:** Admit Essentials - Edition #11 (Academic Preparation: The Curriculum) 
+ 
+
+*
+Admit Essentials
+Edition #11
+Our mission is to educate leaders who make a difference in the world, and the required curriculum (RC) is the foundation from which that mission builds. We are rare among business schools to require first year MBA students to cover so much ground, but we think that ground is essential.***
+Mitch Weiss
+Chair, MBA Required Curriculum
+The HBS Learning Model will be unlike anything you have experienced before, and some of the course content may similarly be unfamiliar to you. That’s exactly the point and is precisely why you have decided to join us: because you came here to grow, to stretch, and to prepare for leadership in a complex world. It is the goal of the MBA Faculty and Administration that you not only succeed academically at HBS but thrive. Deeply engaging in the curriculum and dedicating yourself to preparing for classes will get you there. 
+ 
+In your first year, you will learn the foundational elements of business in the Required Curriculum (RC) – which reflects HBS’s commitment to developing general managers. All essential aspects of management are reflected in the RC: 
+
+- Term One includes: Finance 1; Financial Reporting & Control (FRC); Leadership & Organizational Behavior (LEAD); Marketing; Strategy; and Technology & Operations Management (TOM). 
+- Term Two includes: Purpose of the Firm; Business, Government, & the International Economy (BGIE); Data Science & AI for Leaders (DSAIL); The Entrepreneurial Manager (TEM); Finance 2; Leadership & Corporate Accountability (LCA); and FIELD Global Capstone (CAP). 
+
+Your week will be full. You will have up to fifteen classes scheduled from Monday through Friday, with three classes on some days and two classes on others. Most of your classes will last from 80 to 100 minutes, with a typical three-class day running from approximately 8:00am - 4:00pm (including morning discussion group meetings and breaks). Academic commitments will occasionally be scheduled into the evening, and your daily class attendance is required. 
+ 
+Getting a head start and preparing for this rigor will serve you well. Establishing good study habits and class participation early in the RC year will result in a solid grasp of the case method pedagogy which will have lasting positive impacts. For students, preparing a case for discussion involves a series of skills that, with repetition, will build and enhance your development as a manager. You’ll leave HBS a better communicator, listener, decision-maker, and leader overall. 
+ 
+We appreciate that the decision you have made to join our intensive, immersive two-year MBA program is a big one that comes with tradeoffs. You might be pausing a career, relocating, or putting personal plans on hold. Whatever the sacrifices might be, they are temporary, and they will be well worth it. 
+ Key DeadlinesAUG
+14[CORe and Excel Required Coursework](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fclick.mc.email.hbs.edu%2F%3Fqs%3D1d6e2a1bd1006800d59dcf1a4268a28b0da022ae8e1efc45790dad2a6a5804103b57ffd3d6a19d1eea6dce9a512ec2ebaad749a47df0bab9&data=05%7C02%7C%7C3b51cf82df63484dd6dc08ddde8b2f32%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C638911411571233948%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=oL6dw0rfj3Xaey7r88XZeQv%2FAO4H%2B7MdOIljoG%2FnwdA%3D&reserved=0)****If any of the four courses are required for you after completing the diagnostics, items have been added to your Checklist which require completion by August 14. The courses are very time-intensive (totaling over 170 hours for all four courses) so please plan accordingly.**Key Resources
+**[Academics 101](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fclick.mc.email.hbs.edu%2F%3Fqs%3D1d6e2a1bd1006800cfa8ce2e226ed9dc1cc961d1b63dd930c6ce3da910e934045099dc029e81e29d7472a5e2601f30fa6e593b9cbd31e4c1&data=05%7C02%7C%7C3b51cf82df63484dd6dc08ddde8b2f32%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C638911411571257879%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=uTeP3txaKeoYqzyDP15GXeXpL59chvxXC1hBkB11P9c%3D&reserved=0)****Visit the "Academics 101" section of Admit Central for more information on what to expect from the academic experience at HBS.
+[Disability & Medical Accommodations](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fclick.mc.email.hbs.edu%2F%3Fqs%3D1d6e2a1bd1006800dfa95278182bbb279d97346c14d76d167f0d07d9d600191b2b3ffc27c4738328aef55969e8d93d38fbabcee53342698e&data=05%7C02%7C%7C3b51cf82df63484dd6dc08ddde8b2f32%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C638911411571269782%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=%2BgaXm9HKgY%2Fnh76MxyqM9L%2FDZc9srssivz8Qt9psw6g%3D&reserved=0)**
+Visit the "Disability & Medical Accommodations" section of Admit Central for information on the request and assessment process for academic accommodations.In Our Next Edition
+In our next edition, we will provide an orientation to your HBS Classcard.
+[YOUR CHECKLIST](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fclick.mc.email.hbs.edu%2F%3Fqs%3D1d6e2a1bd10068003a4706d14b8eb2c0a5f5372661c6b98f9676dc2a0fde20981c83c98c11b5b55afc1bf86eed481622bee423fa6c686f43&data=05%7C02%7C%7C3b51cf82df63484dd6dc08ddde8b2f32%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C638911411571280654%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=BXdRFAKFpNUTDVWrDclHeQMEtK3Mj%2BvupOg0pip92S4%3D&reserved=0) | [ADMIT CENTRAL](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fclick.mc.email.hbs.edu%2F%3Fqs%3D1d6e2a1bd10068008c8b3cf6c311ca21b1f62ddd847dce896c79feb9595b7d81ff82a05e8769e46ce7dd1889cb23486ee9e6788bade88959&data=05%7C02%7C%7C3b51cf82df63484dd6dc08ddde8b2f32%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C638911411571291414%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=wOHVNq7fDOV3zozRTPyCMeZTr3OakS4s3rgO2gOTZ6I%3D&reserved=0) | [PAST EDITIONS](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fclick.mc.email.hbs.edu%2F%3Fqs%3D1d6e2a1bd100680092793fe8c86b5814c945d614792f1919486c2b6c4255d9b8cbd7c4b9e9b31de168c3e56309e8f19571d198bc9e90e03d&data=05%7C02%7C%7C3b51cf82df63484dd6dc08ddde8b2f32%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C638911411571302092%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=wLCsL3jWwCa1RHtgZUf%2FQFL8knhs11RKD3qpvbfz9Vg%3D&reserved=0) | [QUESTIONS?](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fclick.mc.email.hbs.edu%2F%3Fqs%3D1d6e2a1bd1006800e285ce08e3ae276ffdbe5466e5596a82821f898c612db75d8dc1ac2e53df5b15f7176597f4e11388ae0c480f06468852&data=05%7C02%7C%7C3b51cf82df63484dd6dc08ddde8b2f32%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C638911411571312504%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=THbYINwG1NJ4M5V9J1reJ%2FW3O7j6q3stnGefTiKObBI%3D&reserved=0)
+
+Harvard Business School
+Soldiers Field, Boston, MA, 02163 US
+Copyright © 2025 President & Fellows of Harvard College. All Rights Reserved.
+[Update Profile](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fclick.mc.email.hbs.edu%2Fprofile_center.aspx%3Fqs%3D1b7ec934cc4d03d437c980823570b27983b2154de5f03cd5446ae538c69bcc02b371b9c8b73197ebffb55d253e7225356e6f5e90d769f3918c454888369ae365&data=05%7C02%7C%7C3b51cf82df63484dd6dc08ddde8b2f32%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C638911411571323225%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=D%2Fkwocy0epcJPxSGxZio%2FanJo1vEAL9ALCfksRJq4Lc%3D&reserved=0) [Unsubscribe](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fclick.mc.email.hbs.edu%2Fsubscription_center.aspx%3Fqs%3D1b7ec934cc4d03d42a39986aae4efde6860f10ae6a22f5da073323b495dff5c13dd40081777d13a45442d4a38f3725d93d52e6505182c8f04f65617367742fde&data=05%7C02%7C%7C3b51cf82df63484dd6dc08ddde8b2f32%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C638911411571333483%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=VdfVlN4FS5VbccrZJnlVustd9NB00xwLXUPOwmhxPpE%3D&reserved=0)
+To view this email as a web page, click [here](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fview.mc.email.hbs.edu%2F%3Fqs%3Dc554c9b2b3716390e146e0b0ce0eec8303c8a74a0ad4aa305b2fc720f837d808288eda2bd5065ac2728106ef6e10d3ab90854f9d83180f7a9125600364919340fa8058b82ed7c1c0&data=05%7C02%7C%7C3b51cf82df63484dd6dc08ddde8b2f32%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C638911411571343489%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=oKn8Kd0MKfo2z%2FsH8sSRz348uoxL0ggFDnIferqqrd0%3D&reserved=0).
+
+---
+
+*Email imported from Outlook on 8/18/2025*

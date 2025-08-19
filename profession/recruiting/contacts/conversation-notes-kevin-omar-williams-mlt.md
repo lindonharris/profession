@@ -5,8 +5,8 @@
 
 ## October 25, 2024
 
-### MLT Programs Overview
-Three programs under MLT:
+### MLT Programs Overviewthree Programs under Mlt:
+
 1. **AltFinance for undergrads** - Partners with both MLT and Wharton
 2. **MLT PE Accelerator** - For associate pipeline
 3. [Third program - details to be added]

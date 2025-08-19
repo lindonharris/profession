@@ -182,8 +182,8 @@ classDiagram
     Animal <|-- Cat
 ```
 
-## Tips
-- Change `TD` to `LR` for horizontal flow
+## Tips- Change `TD` to `LR` for Horizontal Flow
+
 - Add emojis for visual appeal: 🚀 ✅ ❌ ⚠️ 
 - Use subgraphs to group related nodes
 - Color nodes with `style` or `class` definitions

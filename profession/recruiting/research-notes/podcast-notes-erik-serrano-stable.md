@@ -1,4 +1,4 @@
-# [PODCAST NOTES] - Erik Serrano, Stable Asset Management
+# [podcast Notes] - Erik Serrano, Stable Asset Management
 
 **Contact / Firm**: Erik Serrano / Stable Asset Management
 **Role**: [Role from podcast]
@@ -6,9 +6,8 @@
 
 ## January 2-3, 2024
 
-### Firm Overview
-- One of the only firms selecting and seeding emerging GPs
+### Firm Overview- One of the Only Firms Selecting and Seeding Emerging Gps
+
 - "Think of what we do as 'building asset managers'"
 
-### Market Context
-- Dyal, Blackstone, and Goldman represent 80% of GP stakes market in terms of capital raised
+### Market Context- Dyal, Blackstone, and Goldman Represent 80% of GP Stakes Market in Terms of Capital Raised

@@ -1,4 +1,4 @@
-# SFS FAN-AB
+# Sfs Fan-Ab
 
 ---
 created: 2025-01-22

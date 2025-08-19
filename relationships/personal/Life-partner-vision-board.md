@@ -1,4 +1,4 @@
-# Life partner vision board
+# Life Partner Vision Board
 
 ---
 created: 2023-05-12

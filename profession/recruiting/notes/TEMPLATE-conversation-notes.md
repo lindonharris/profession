@@ -1,10 +1,10 @@
-# Conversation Notes - [Full Name, Company]
+# Conversation Notes - [full Name, Company]
 
 **Contact / Firm**: [Full Name] / [Company Name]  
 **Role**: [Their Title/Position]  
 **Connection Source**: [How you were connected - e.g., "Via Zach Samuels", "MLT Network", "Cold Outreach"]
 
-## [Date - Format: Month DD, YYYY]
+## [date - Format: Month Dd, Yyyy]
 
 ### Discussion Points
 
@@ -30,13 +30,13 @@
 
 ---
 
-## [Next Date - for future conversations]
+## [next Date - for Future Conversations]
 
 [Add new conversation notes here, keeping chronological order]
 
 ---
 
-# INSTRUCTIONS FOR USE:
+# Instructions for Use:
 
 1. **File Naming Convention**: 
    - Format: `firstname-lastname-company.md`

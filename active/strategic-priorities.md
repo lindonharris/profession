@@ -6,7 +6,7 @@ updated: 2025-05-23
 ---
 
 **
-### FRAMING FOR ACADEMIC PURSUITS
+### Framing for Academic Pursuits
 
 **
 - 
@@ -31,8 +31,8 @@ Paper says “I can generalize that insight to wider markets.”
 Track-record & grades say “I execute with discipline.”
 
 **
-### RESOURCES
-- 
+### Resources- 
+
 HBS Independent Projects (IP) Best Practices
 
 **

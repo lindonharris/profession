@@ -5,11 +5,11 @@
 
 ## August 26, 2024
 
-### Career Advice
-- Consider retaking GMAT
+### Career Advice- Consider Retaking Gmat
+
 - Target special situations or firms that value intellectual nuance vs volume/scale
 - Offered to write recommendations
 
 ## November 10, 2023
 
-### [Earlier discussion - details to be added]
+### [earlier Discussion - Details to Be Added]

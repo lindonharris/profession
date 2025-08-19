@@ -5,11 +5,10 @@
 
 ## January 10, 2025 - February 3, 2025
 
-### Firm Differentiation
-- "Where we want to excel and differentiate ourselves is value creation"
+### Firm Differentiation- "where We Want to Excel and Differentiate Ourselves Is Value Creation"
+
 - Operating partners fractionalized for emerging managers
   - IR/IR readiness
   - Talent procurement
 
-### Investment Team
-- [Details to be added]
+### Investment Team- [details to Be Added]

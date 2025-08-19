@@ -5,10 +5,9 @@
 
 ## May 11, 2023 - October 3, 2024
 
-### Background
-- Kappa member from St. Albans and Princeton
+### Background- Kappa Member From St. Albans and Princeton
+
 - Wife was COO at Fannie Mae
 - Early career in asset securitization
 
-### Firm Strategy
-- Focus: Telecom, Media, Technology
+### Firm Strategy- Focus: Telecom, Media, Technology

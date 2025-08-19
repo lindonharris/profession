@@ -1,13 +1,13 @@
 
-## 📋 Direct Tasks (This File Only)
+## 📋 Direct Tasks (this File Only)
+
 ```tasks
 not done
 path includes Task List
 hide backlink
 ```
 
-## 📂 All Tasks by Location
-```tasks
+## 📂 all tasks by location```tasks
 not done
 path does not include Task List
 group by folder
@@ -17,14 +17,14 @@ hide backlink
 ---
 
 ## ✅ Completed Today
+
 ```tasks
 done today
 group by folder
 hide backlink
 ```
 
-## 📅 Recently Completed
-```tasks
+## 📅 recently completed```tasks
 done
 sort by done reverse
 limit 10
@@ -36,17 +36,25 @@ hide backlink
 
 ### Add New Tasks Here:
 
-#### To do for me
-- [ ] 
+#### To Do for Me- [ ] Figure Out Parking in Cambridge
 
-#### To do for school
-- [ ] 
+- [ ] Get haircut 📅 2025-08-20
+- [ ] Figure out HBS gym situation 📅 2025-08-20
+ 
 
-#### To do for work
-- [ ] 
+#### To Do for School- [ ] Figure Out Immunizations Compliance
 
-#### To get
-- [ ] 
+- [ ] Register for classes on 8/21 📅 2025-08-21 (depends on: figure out immunizations compliance)
+- [ ] Get my HUID card
+- [ ] Figure out parking at HBS
+
+#### To Do for Work
+- [ ] Apply to Mercor finance expert position 📅 2025-08-21 
+
+
+#### To Get
+- [ ] More do rags 
+
 
 ---
 

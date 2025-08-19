@@ -36,7 +36,7 @@ flowchart TD
     Dashboard --> End([End])
 ```
 
-## OAuth Login Flow
+## Oauth Login Flow
 
 ```mermaid
 flowchart LR

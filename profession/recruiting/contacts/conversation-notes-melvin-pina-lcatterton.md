@@ -5,11 +5,11 @@
 
 ## August 6-7, 2024
 
-### Background
-- Career path: Baruch → Citi IB → ICV → Wharton → L Catterton
+### Background- Career Path: Baruch → Citi Ib → Icv → Wharton → L Catterton
+
 - Recruited by Wharton alum to L Catterton
 - Had 9-10 interviews at Catterton before getting offer
 
-### PE Recruiting Insights
-- MBA recruiting for PE is very competitive in a way that pre-MBA competition is not
+### PE Recruiting Insights- Mba Recruiting for PE Is Very Competitive in a Way That Pre-Mba Competition Is Not
+
 - [Additional insights to be captured]

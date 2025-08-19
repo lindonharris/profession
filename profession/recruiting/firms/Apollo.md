@@ -164,8 +164,8 @@ Will connect me with Sabora and Victoria Yao.
 Hybrid Value is much smaller (30-40)
 
 **
-## Jamal Cherry - 1/20/2025
-- 
+## Jamal Cherry - 1/20/2025- 
+
 Apollo NYC 1 year, Apollo Houston 2 y
 
 - 

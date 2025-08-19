@@ -5,7 +5,7 @@
 
 ## December 16, 2024 - January 22, 2025
 
-### NAIC Member Firms of Interest
-- Blackstone Strategic Partners
+### Naic Member Firms of Interest- Blackstone Strategic Partners
+
 - Siris Capital Group
 - Sycamore Partners

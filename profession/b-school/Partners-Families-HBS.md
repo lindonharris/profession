@@ -22,8 +22,8 @@ When students come to HBS with partners or families, the entire HBS community is
 Students can register their partners when they arrive on campus in August.
 
 **
-### Partner Benefits
-Section Involvement
+### Partner Benefitssection Involvement
+
 Partners are welcome to participate in section activities, where they can get to know their student's section at social events, group dinners, club sports, retreats, and more. Partners can even take a leadership role by becoming the Partner or Family Rep in their student's section.
 
 **
