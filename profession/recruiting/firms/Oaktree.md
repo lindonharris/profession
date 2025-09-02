@@ -1,5 +1,9 @@
 # Oaktree
 
+- Website: https://www.oaktreecapital.com
+- Industry: [ ]
+- Key contacts: [ ]
+
 ---
 created: 2024-11-15
 updated: 2024-11-16

@@ -5,6 +5,15 @@ created: 2024-08-31
 updated: 2025-02-25
 ---
 
+- Website: https://www.blackstone.com
+- Industry: [ ]
+- Key contacts: [[ifeanyi-isichei]], [[john-watson]]
+
+## Target Strategies
+1. **Primary**: Tactical Opportunities - Why (IMOW): Premier platform for special situations across industry. Advantaged deal flow. Learning from the best of the best.
+2. **Secondary**: Growth Equity
+3. **Other**: Strategic Partners
+
 **
 
 John Watson

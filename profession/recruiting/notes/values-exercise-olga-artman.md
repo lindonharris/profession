@@ -87,7 +87,7 @@ Next step: Narrow down to top 3-5 values most relevant to career focus.
 
 #### King Street Capital - Zach Samuels- [x] Have Conversation with Zach Samuels at King Street ✅ 2025-08-13
 
-- [ ] Get contacts of a few more people from Zach
+- [x] Get contacts of a few more people from Zach ✅ 2025-09-01
 
 ## Coach Contact
 

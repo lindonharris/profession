@@ -1,0 +1,7 @@
+max_guests,bedrooms,full_bathrooms,queen_beds,king_beds,double_beds,twin_beds,distance_to_lift_feet,ski_in_ski_out,total_cost_4_nights,cost_per_guest,hot_tub,url
+23,8,6,1,4,4,4,Unknown,N,$11792,$513,Y,https://www.vrbo.com/918513
+20,10,7,4,2,0,8,Unknown,N,$13535,$677,Y,https://www.vrbo.com/3658320
+19,7,6,3,1,2,2,Unknown,N,$11163,$588,Y,https://www.vrbo.com/4617029
+16,7,8,3,2,2,2,Unknown,N,$14608,$913,Y,https://www.vrbo.com/4548812
+16,8,9,4,2,3,2,Unknown,N,$16112,$1007,Y,https://www.vrbo.com/4549072
+16,5,5,1,2,0,4,Steps from resort,N,$9008,$563,Y,https://www.vrbo.com/651169

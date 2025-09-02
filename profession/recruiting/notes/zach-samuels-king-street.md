@@ -47,7 +47,7 @@
 
 ### Follow-up Actions
 
-- [ ] Wait for Zach to connect with HR about MBA summer positions status
+- [x] Wait for Zach to connect with HR about MBA summer positions status ✅ 2025-09-01
 - [ ] Wait for Zach to provide contacts to meet with across the firm (credit, special sits teams)
 - [ ] Maintain ongoing dialogue with Zach throughout MBA experience
 - [x] Send thank you note for the conversation ✅ 2025-08-17

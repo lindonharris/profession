@@ -1,5 +1,9 @@
 # Ares
 
+- Website: https://www.aresmgmt.com
+- Industry: [ ]
+- Key contacts: [[miles-jackson]]
+
 ---
 created: 2024-11-15
 updated: 2024-11-18

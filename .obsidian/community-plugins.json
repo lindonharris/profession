@@ -1,4 +1,6 @@
 [
   "obsidian-local-rest-api",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "templater-obsidian",
+  "buttons"
 ]
