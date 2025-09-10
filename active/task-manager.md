@@ -1,21 +1,23 @@
+
+
+
 ## 📥 Quick Entry
 
 #### To do for school
 - [ ] ⏫ Format resume in HBS format using VMock SmartEditor (target score: 85+) - Due: 3 weeks before HBS Resume Book deadline 📅 2025-09-10
-- [ ] [assignment] Complete Discussion Group Launch Document with team 📅 2025-08-27
-- [ ] Submit Statement to 12twenty (hbs.me/12t) - Profile > Add Summary (350 char limit)
-- [ ] Update pre-MBA experience in 12twenty profile
+- [ ] ⏫ Complete Alumni Board scoring matrix for Anna Wyeth - HIGH PRIORITY 📅 2025-09-08
+- [ ] Check in on all club activities for coming week - Review emails, join group chats, add events to calendar
 
 #### To do for me
 
 #### To do for work
-- [ ] Apply to Mercor finance expert position 📅 2025-08-21 
-- [x] Schedule send Devin a note saying I am registered and thank him for the opportunity to work together this summer. ✅ 2025-09-01
 - [ ] LegalNote: Plan and prepare launch promo materials
 - [ ] LegalNote: Investigate Wall St Oasis / Reddit cloning capacities via the web  
 - [ ] Read MIT AI study
 
 #### To get
+
+
 
 #### Logistics
 - [ ] ⏫ Book flights for Terrence & Morgan wedding in Miami 📅 ASAP
@@ -121,4 +123,18 @@
 - [x] ⏫ Bring laptop and earphones to Discussion Group Launch (START Day 2, Aug 27)  ✅ 2025-09-01
 - [x] ⏫ [assignment] Complete Your Identity Map worksheet  ✅ 2025-09-01
 - [x] ⏫ [assignment] Read pages 1-11 of "Uncovering Talent: A New Model of Inclusion"  ✅ 2025-09-01
+
+### Flushed on 2025-09-06
+- [x] Schedule send Devin a note saying I am registered and thank him for the opportunity to work together this summer. ✅ 2025-09-01
+
+### Flushed on 2025-09-08
+- [x] [assignment] Complete Discussion Group Launch Document with team  ✅ 2025-09-07
+
+### Flushed on 2025-09-08
+- [x] Submit Statement to 12twenty (hbs.me/12t) - Profile > Add Summary (350 char limit) ✅ 2025-09-08
+- [x] Update pre-MBA experience in 12twenty profile ✅ 2025-09-08
+
+### Flushed on 2025-09-08
+- [x] Review and manage time commitments for clubs - Be judicious with time ✅ 2025-09-08
+- [x] For shad locker: extra toiletries ✅ 2025-09-08
 </details>

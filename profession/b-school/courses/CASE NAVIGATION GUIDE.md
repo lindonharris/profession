@@ -1,42 +1,46 @@
 # Case Archive Navigation Guide
 
-## Post-Class Archive System
+## 🚀 Streamlined Archive System
+
+### For AI Agents Processing Cases
+**Start Here**: [[cases/CASE DIGESTION GUIDE|📖 CASE DIGESTION GUIDE]]
+**Drop PDFs**: `/courses/cases/incoming/`
 
 ### Central Archive
 **Location**: `/courses/cases/`
-**Purpose**: Comprehensive post-class case repository
-**Contains**: Complete analyses with all annotations, exhibits, and takeaways
+**Contains**: Complete post-class analyses with all annotations
 
 ### Course Links
 **Location**: `/courses/[COURSE]/Case Notes/`
-**Purpose**: Simple index pointing to archived cases
-**Contains**: Links organized by module/topic
+**Contains**: Links to archived cases by module/topic
 
-## How to Use the Archive
+## Your Workflow
 
-### Your Manual Workflow
-1. **Before class**: Prepare case with black ink annotations
-2. **During class**: Add blue ink insights
-3. **After class**: Write takeaways, send PDF to Claude
+1. **Before class**: Black ink annotations
+2. **During/After class**: Blue ink insights and takeaways
+3. **Drop PDF**: Place in `/courses/cases/incoming/`
+4. **Tell AI**: "Process the case using the CASE DIGESTION GUIDE"
 
-### Accessing Archived Cases
-1. **By course**: Navigate to course folder → Case Notes → Index
-2. **By company**: Search company name in Obsidian
-3. **By theme**: Check thematic sections in master index
-4. **For exam review**: Use Case Studies Index for comprehensive list
+## Finding Archived Cases
 
-### What Gets Archived
-- Your black ink pre-class analysis
-- Blue ink class discussion insights
-- Final page takeaways
-- All case exhibits and data
-- Key learnings and frameworks
+### Search Strategies
+- **By course**: Course folder → Case Notes → Index
+- **By company**: Search company name in Obsidian
+- **By theme**: Check Case Studies Index
+- **For exams**: Use master index for all cases
+
+### What's Archived
+- Black ink pre-class analysis
+- Blue ink class insights and takeaways
+- All exhibits and data
+- Key frameworks
 
 ## Quick Links
 
-### Central Resources
-- [[cases/Case Studies Index|All Cases Master Index]]
-- [[cases/Case Studies README|System Documentation]]
+### Essential Resources
+- [[cases/CASE DIGESTION GUIDE|📖 AI Processing Instructions]]
+- [[cases/Case Studies Index|🗂️ All Cases Master Index]]
+- 📥 Drop new PDFs in: `/courses/cases/incoming/`
 
 ### Course-Specific
 - [[STRAT - Strategy/Case Notes/Strategy Cases Index|Strategy Cases]]

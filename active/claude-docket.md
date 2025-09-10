@@ -11,15 +11,6 @@
   - [ ] Focus on MVP versions of acqui-hire worthy projects
 - [ ] Test building an automation natively without n8n 📅 2025-08-24
 
-#### Tools & Systems
-
-#### Calendar Items
-  - [ ] Friday 8/29: Mixer @ The Mix (6pm-10pm)
-  - [ ] Friday 8/29: Southern Comfort Party (10pm-2am)
-  - [ ] Saturday 8/30: HBCU Classic at Harvard Stadium (1pm-6pm)
-  - [ ] Sunday 8/31: Morning Worship at The Avenue (9:30am)
-  - [ ] Sunday 8/31: Boston Gospel Fest (5pm-8pm)
-
 ---
 
 > 💡 **Flush Tasks:** Press `Ctrl+Shift+F` (or your custom hotkey)

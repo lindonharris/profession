@@ -47,17 +47,19 @@ Transform Canvas chaos into organized, searchable, offline-accessible course com
    - Map course structure/modules
 
 ### Phase 3: Refinement
-1. **Create standardized structure**
-   - Follow the [[Course Folder Structure]] template
+1. **Create standardized structure EXACTLY per template**
+   - Follow the [[Course Folder Structure]] template precisely
    - Set up Professor file using [[Professor Template]]
+   - DO NOT create additional index or command center files
 
-2. **Distill information** into two core documents:
+2. **Distill information** into ONLY these documents:
    - **[Course] Syllabus.md**: All course logistics, schedule, grading, policies
    - **Professor [Name].md**: All people, contacts, office hours, support
 
 3. **Organize supporting materials**:
    - Original PDFs remain in folder for reference
    - Create Case Notes/ and Module Notes/ folders for future work
+   - Do NOT create raw export files (.json, raw .md dumps)
 
 ## Key Principles
 
@@ -95,10 +97,28 @@ Using consistent structure across courses means you always know where to find th
 - Canvas access with API token (stored in kymgr vault)
 - `/canvas` direct access tool for downloads
 - Obsidian for organization
+- Template-compliant mining script: `/tmp/canvas_mine_template_compliant.py`
 
 ### Conceptual
 - [[Course Folder Structure]] - Standard organization template
 - [[Professor Template]] - Faculty information template
+
+### Automated Mining Script
+A template-compliant Python script is available at `/tmp/canvas_mine_template_compliant.py` that:
+- Connects to Canvas API using token from vault
+- Extracts course data (announcements, assignments, pages)
+- Creates ONLY the template-required files:
+  - Professor [Name].md
+  - [Course] Syllabus.md
+  - Case Notes/ folder with individual case templates
+  - Module Notes/ folder (empty for future use)
+- Does NOT create extra index files or raw exports
+- Follows the Course Folder Structure template exactly
+
+Example usage:
+```python
+mine_course(API_TOKEN, COURSE_ID, COURSE_CODE, COURSE_NAME, OUTPUT_DIR)
+```
 
 ## Example: STRAT Canvas Mining
 

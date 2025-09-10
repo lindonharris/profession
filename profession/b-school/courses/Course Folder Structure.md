@@ -1,60 +1,150 @@
-# Standard Course Folder Structure
+# Course Folder Structure
 
-## Directory Structure Template
+## Standard Directory Template
 
-Each course folder should follow this structure:
+Every course follows this exact structure:
 
 ```
-[COURSE CODE] - [Course Name]/
-├── Professor [Name].md           # Professor info, teaching team, office hours
-├── [Course] Syllabus.md         # Comprehensive syllabus document
-├── Case Notes/                  # Individual case preparation notes
-│   └── [Case Name].md
-├── Module Notes/                 # Module-specific notes and frameworks
+[COURSE]/                         # Course code only (e.g., MKT, STRAT, FIN1)
+├── Professor [Name].md           # Professor info and teaching team
+├── [COURSE] Syllabus.md         # Official syllabus document
+├── case notes/                  # Individual case analyses
+│   └── [Case Number] [Company].md
+├── modules/                     # Module-specific notes and frameworks
 │   └── [Module Name].md
-└── [Original PDFs/Documents]    # Any downloaded course materials
+├── exercises/                   # Practice problems and worksheets
+│   └── [Exercise Name].md
+└── resources/                   # Supplementary materials
+    ├── [Resource].pdf
+    └── [Reference].md
 ```
 
-## Key Documents
+## Folder Definitions
 
-### 1. Professor [Name].md
-Contains:
-- Professor contact information
-- Teaching team (FSS, TAs, Teaching Fellows)
-- Office hours for all team members
-- Communication preferences
-- Special sessions (lunches, reviews)
+### Core Folders (Required)
 
-### 2. [Course] Syllabus.md
-Contains:
-- Course overview and purpose
-- Learning objectives
-- Module/topic structure
-- Complete class schedule with cases
-- Grading breakdown and key dates
-- Course policies and expectations
-- Required materials and readings
+**case notes/**
+- Individual case preparation and discussion notes
+- File naming: `[Case Number] [Company Name].md`
+- Example: `9-723-430 On (A).md`
 
-### 3. Case Notes/
-- Individual files for each case
-- Preparation questions
-- Key takeaways after discussion
-- Links to relevant frameworks
+**modules/**
+- Conceptual frameworks and module summaries
+- Organized by course module or topic
+- Cross-referenced with cases
 
-### 4. Module Notes/
-- Created as needed for major course modules
-- Framework explanations
-- Tool descriptions
-- Concept connections
+### Supporting Folders (As Needed)
 
-## Organization Principles
+**exercises/**
+- Quantitative problems
+- Practice sets
+- Formula sheets
+- Quick reference cards
 
-1. **Keep it flat** - Avoid deep nesting of folders
-2. **One source of truth** - Syllabus contains all logistics
-3. **Professor file is people-focused** - All human contacts in one place
-4. **Notes are work product** - Separate folders for actual coursework
-5. **Preserve originals** - Keep downloaded PDFs in root folder
+**resources/**
+- Course PDFs
+- Reading materials
+- External references
+- Supplementary documents
+
+## File Naming Conventions
+
+### Required Files
+
+1. **Professor File**: `Professor [Full Name].md`
+   - Teaching team contacts
+   - Office hours
+   - Communication preferences
+
+2. **Syllabus**: `[COURSE] Syllabus.md`
+   - Course overview
+   - Schedule and assignments
+   - Grading policies
+
+### Case Files
+
+Format: `[Case Number] [Company Name].md`
+- Keep official case numbers
+- Use full company names
+- Maintain consistent formatting
+
+### Module Files
+
+Format: `[Module Name].md`
+- Descriptive module titles
+- Match syllabus module names
+- Number if sequential (e.g., `Module 1 - Strategy Fundamentals.md`)
+
+## Content Organization Principles
+
+1. **Flat hierarchy** - Maximum two levels deep
+2. **Lowercase folders** - All folder names in lowercase
+3. **Consistent naming** - Follow exact patterns above
+4. **Single source** - One location per document type
+5. **Clear purpose** - Each folder has distinct content type
+
+## File Templates
+
+### Professor Template
+```markdown
+# Professor [Name]
+
+## Contact Information
+- Email: 
+- Office: 
+- Office Hours: 
+
+## Teaching Team
+### Teaching Fellow
+- Name: 
+- Email: 
+- Office Hours: 
+
+### Course Assistant
+- Name: 
+- Email: 
+```
+
+### Case Note Template
+```markdown
+# [Case Number] [Company Name]
+
+## Quick Facts
+- Course: [[COURSE]]
+- Date: YYYY-MM-DD
+- Industry: 
+
+## Key Decision
+
+
+## Analysis
+
+
+## Class Discussion
+
+
+## Takeaways
+
+```
+
+### Module Note Template
+```markdown
+# [Module Name]
+
+## Overview
+
+
+## Key Frameworks
+
+
+## Related Cases
+- [[Case 1]]
+- [[Case 2]]
+
+## Application
+
+```
 
 ---
-*Template created: September 1, 2025*
-*Applied to: STRAT, [other courses to follow]*
+*Standard established: September 2025*
+*Version: 2.0*

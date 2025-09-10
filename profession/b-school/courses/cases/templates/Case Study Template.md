@@ -106,6 +106,10 @@ teaching_objectives: [{{teaching_objectives}}]
 ## Class Discussion Notes
 > [To be filled during/after class discussion]
 
+### My Participation
+- **Times Spoken**: 0
+- **Cold Called**: No
+
 ### Key Insights from Discussion
 - 
 
