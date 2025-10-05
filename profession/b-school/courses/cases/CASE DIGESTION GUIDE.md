@@ -26,7 +26,9 @@ courses/
 
 ## 🖊️ Annotation Processing
 
-### What to Extract
+### What LinDon Will Provide
+*LinDon will manually transcribe and provide the black and blue ink notes rather than requiring extraction from PDFs*
+
 | Ink Color | Content Type | Destination Section |
 |-----------|-------------|-------------------|
 | **Black** | Pre-class prep | → "My Analysis & Recommendations" |

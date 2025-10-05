@@ -18,13 +18,19 @@ LEAD provides students with comprehensive leadership and organizational behavior
 *Available via Canvas under course files*
 
 ## Grading Structure
-*Complete grading standard detailed in visual format available on Canvas*
+
+### Grade Breakdown
+- **Class Participation**: 45%
+- **Midterms**: 10%
+- **Final Exam**: 45%
 
 ### Assessment Components
 - Class participation and case preparation
 - Individual assignments and reflections
 - Group projects and presentations
 - Leadership assessments and feedback exercises
+
+*Additional grading details available in visual format on Canvas*
 
 ## Course Focus Areas
 

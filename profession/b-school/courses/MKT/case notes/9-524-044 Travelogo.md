@@ -1,214 +1,215 @@
+---
+# Case Metadata
+case_number: "9-524-044"
+title: "Travelogo: Understanding Customer Journeys"
+course: "MKT"
+date_published: 2024-06-09
+date_read: 2025-09-09
+professor: "Professor Chip Bergh"
+tags: [case-study, marketing, segmentation, customer-journey, data-analytics, clickstream]
+industry: "Online Travel Services"
+company: "Travelogo"
+geographic_focus: "Global"
+key_topics: [market-segmentation, customer-personas, digital-marketing, behavioral-analytics]
+protagonists: ["Sarah Merino", "Mike Bower"]
+decision_point: "How to segment customers and develop targeted marketing strategies"
+teaching_objectives: ["Understanding customer segmentation", "Analyzing clickstream data", "Developing persona-based marketing strategies"]
+---
+
 # Travelogo: Understanding Customer Journeys
-**Case**: 9-524-044 | **Course**: MKT | **Date**: September 9, 2025
 
-## Case Summary
-**Company**: Travelogo - Online travel website for booking flights and collecting airline points  
-**Protagonist**: Sarah Merino, Manager of Customer Insights (1 month in role)  
-**Decision**: How to segment customers and develop targeted marketing strategies to increase traffic and conversions  
-**Timeline**: Must deliver report by Friday for next week's marketing meeting
+## Quick Facts
+- **Case #**: 9-524-044
+- **Course**: [[MKT]]
+- **Date Read**: 2025-09-09
+- **Industry**: Online Travel Services
+- **Geography**: Global
 
-## Key Players
-- **Sarah Merino**: Manager, Customer Insights (new - 1 month)
-- **Mike Bower**: Senior Director of Marketing (requesting insights)
-- **Data Analyst**: Team member conducting K-means cluster analysis
+## Executive Summary
+> Sarah Merino, new Manager of Customer Insights at Travelogo (online travel platform), must analyze clickstream data to identify customer personas and develop targeted marketing strategies. With a Friday deadline for recommendations to increase traffic and conversions, she needs to determine optimal segmentation variables and actionable insights for each customer segment.
 
-## Situation Analysis
+## Case Context
 
-### Business Context
-- Online travel platform enabling flight bookings worldwide
+### Company Background
+- **Travelogo**: Online travel website enabling flight bookings worldwide
 - Users can collect points from any airline
-- Need to understand user needs, origins, and how to attract/serve them better
+- Platform serves diverse customer base with varying travel needs
+- Focus on understanding user behavior through digital footprints
 
-### Available Data (Table 1)
-**Trip Characteristics**:
-- Distance, domestic vs. international
-- Duration, adults/children count
-- Seasonal patterns (Thanksgiving, winter, summer)
-- Weekend inclusion
+### Industry Landscape
+- Competitive online travel agency (OTA) market
+- Data-driven decision making becoming critical differentiator
+- Customer journey complexity increasing with multiple touchpoints
+- Personalization expected by modern travelers
 
-**Session Attributes**:
-- Search timing (weekend, advance booking)
-- User sign-in status
-- Channel source (email, display, organic)
-- Device type (mobile, web, app)
+### Timeline of Events
+- **May 22, 2023**: Sarah Merino completes first month as Manager, Customer Insights
+- **Same day**: Mike Bower (Senior Director of Marketing) assigns segmentation task
+- **By Friday (May 26)**: Report due for marketing team meeting
+- **Following week**: Marketing team to decide on new product and promotion strategies
 
-**Engagement Outcomes**:
-- Session time (minutes)
-- Number of clicks before purchase
-- Purchase conversion (yes/no)
+## Key Protagonists
+- **Sarah Merino**: Manager, Customer Insights
+  - Background: New to role (1 month)
+  - Key decisions: Segmentation approach, variable selection, number of personas
 
-## Strategic Issues
-1. **Segmentation Strategy**: Which variables to use for clustering?
-2. **Number of Segments**: How many personas are optimal?
-3. **Actionable Insights**: How to translate segments into marketing strategies?
-4. **Growth Focus**: How to increase customer base?
+- **Mike Bower**: Senior Director of Marketing
+  - Background: Requesting actionable insights
+  - Key decisions: Needs strategies to increase traffic and conversions
 
-## Analysis Framework
+- **Data Analyst**: Team member
+  - Background: Conducting technical analysis
+  - Key decisions: K-means clustering implementation
 
-### Segmentation Approach
-- Tool: K-means cluster analysis
-- Dashboard: "Travelogo: Customer Segmentation" (HBS No. 525-706)
-- Multiple combinations computed for Merino to evaluate
+## Central Problem/Decision
 
-### Key Questions
-1. How many distinct segments exist?
-2. What are customers looking for?
-3. How to summarize insights usefully?
-4. What actionable recommendations will grow the customer base?
+### The Question
+> How should Travelogo segment its customers using clickstream data to develop targeted marketing strategies that will increase both traffic and conversions?
 
-## Black Ink Analysis (Pre-Class)
+### Constraints
+1. Limited time frame (report due by Friday)
+2. Must use existing clickstream data only
+3. Recommendations must be actionable for marketing team
+4. Need to balance granularity with operational feasibility
 
-### Segmentation Variables to Consider
-**High Priority**:
-- Domestic vs. international travel patterns
-- Price sensitivity (via channel, device, timing)
-- Group composition (solo/couple vs. family)
-- Business vs. leisure indicators
+### Success Metrics
+- Increased platform traffic
+- Higher conversion rates
+- Better customer understanding
+- Actionable marketing strategies per segment
 
-**Medium Priority**:
-- Seasonal patterns
-- Advance booking behavior
-- Device preference
-- Channel source
+## Analysis
 
-### Expected Segments
-Based on clickstream patterns, likely personas:
-1. International travelers (long-distance, complex needs)
-2. Domestic price-seekers (comparison shopping behavior)
-3. Family groups (multiple travelers, specific timing)
-4. Business travelers (last-minute, weekday, desktop)
+### Strengths
+- Rich clickstream data capturing comprehensive user behavior
+- Multiple data dimensions (trip characteristics, session attributes, engagement)
+- Real-time behavioral insights beyond demographics
+- K-means clustering tool available for analysis
 
-### Marketing Implications
-- Personalized promotions by segment
-- Channel optimization by persona
-- Conversion funnel improvements per segment
+### Weaknesses
+- New manager with limited institutional knowledge
+- Time pressure for analysis and recommendations
+- No demographic data available
+- Family segment showing lowest conversion rates
+
+### Opportunities
+- Personalized marketing by segment
+- Channel optimization based on personas
+- Conversion funnel improvements
 - Targeted acquisition strategies
 
-## Blue Ink Insights (Class Discussion)
+### Threats
+- Competitive OTA market
+- Customer privacy concerns with data usage
+- Risk of over-segmentation reducing actionability
+- Missing segments if wrong variables selected
 
-### Final Segmentation (4 Personas)
-1. **Globetrotters**: International only, snowbird patterns
-2. **Budget-Conscious Adults**: Price-sensitive domestic travelers
-3. **Family Vacationers**: Groups with children, lowest conversion
-4. **Business Travelers**: Desktop, corporate cards, high prices
+## Financial Analysis
+| Metric | Globetrotters | Budget-Conscious | Family Vacationers | Business Travelers |
+|--------|--------------|------------------|-------------------|-------------------|
+| Segment Size | ~20% | ~35% | ~25% | ~20% |
+| Avg Trip Distance | International only | Domestic focus | Mixed | Mixed |
+| Price Sensitivity | Low | High | High | Low |
+| Conversion Rate | Moderate | Moderate | Lowest | Highest |
+| Device Preference | Mixed | Mobile/App | Mobile | Desktop |
 
-### Key Learnings
-- Clickstream data reveals behavioral patterns beyond demographics
-- Device type signals use context (desktop = business)
-- Conversion rates vary significantly by segment
-- Family segment needs simplified booking flow
+## Key Exhibits
+- Exhibit 1: Table 1 - Variable descriptions for clickstream data
+- Dashboard: "Travelogo: Customer Segmentation" (HBS No. 525-706)
+- Visualization tool showing various segmentation result sets
 
-### Strategic Recommendations
-- **Globetrotters**: Seasonal campaigns, international packages
-- **Budget-Conscious**: Price alerts, flash sales, loyalty programs
-- **Families**: School holiday promotions, group discounts
-- **Business**: Corporate accounts, flexible booking, expense integration
+## Discussion Questions
+1. What are the main customer personas (or "archetypes") you see in the data?
+2. Which variables would you include to create these customer personas? Why those?
+3. How many segments do you find to provide the most useful and actionable solution?
+4. Which specific promotional strategies do you recommend for each segment?
 
-## Connections to Course Concepts
-- **STP Framework**: Segmentation → Targeting → Positioning
-- **Customer Journey Mapping**: Understanding path to purchase
-- **Data-Driven Marketing**: Behavioral over demographic segmentation
-- **Digital Analytics**: Clickstream as strategic asset
+## My Analysis & Recommendations
 
-## Key Takeaways
-1. Behavioral data (clickstream) more predictive than demographics
-2. Optimal segmentation balances granularity with actionability
-3. Each segment requires distinct marketing approach
-4. Conversion optimization must be segment-specific
-5. Digital footprints reveal unmet customer needs
+### Option 1: Three-Segment Solution
+**Pros**:
+- Simpler to operationalize
+- Clear distinctions between segments
+- Easier to develop targeted strategies
 
-## Assignment Questions & Answers
+**Cons**:
+- May miss important nuances
+- Business travelers potentially grouped with others
+- Less precision in targeting
 
-### Question 1: Customer Personas/Archetypes
-**What are the main customer personas (or "archetypes") you see in the data?**
+### Option 2: Four-Segment Solution
+**Pros**:
+- Captures distinct business traveler segment
+- Better reflects actual user behavior
+- More targeted marketing possible
 
-**Answer**: 4 distinct personas identified in the customer base
+**Cons**:
+- More complex to manage
+- Higher operational costs
+- Risk of over-segmentation
 
-### Question 2: Segmentation Variables
-**Which variables would you include to create these customer personas? Why those?**
+### Recommended Action
+> Implement four-segment solution with distinct personas: Globetrotters, Budget-Conscious Adults, Family Vacationers, and Business Travelers. Each requires tailored marketing approach based on unique characteristics and journey patterns.
 
-**Answer**: Trip + Session Data
-- **Trip Characteristics**: Distance (domestic vs. international), Duration, Adults/children count, Seasonal timing (Thanksgiving, winter, summer)
-- **Session Attributes**: Search timing (weekend, advance booking), Channel source (email, display, organic), Device type (mobile, web, app), Sign-in status
-- **Rationale**: Combining trip characteristics with session behavior provides complete view of customer needs and context
+### Implementation Plan
+1. **Immediate (Week 1)**: Finalize segmentation and create persona profiles
+2. **Short-term (Month 1)**: Develop segment-specific marketing campaigns
+3. **Medium-term (Quarter 1)**: Launch targeted promotions and measure impact
+4. **Long-term (Year 1)**: Refine segments based on performance data
 
-### Question 3: Optimal Number of Segments
-**How many segments do you find to provide the most useful and actionable solution?**
+## Class Discussion Notes
 
-**Answer**: 4 segments - Balance between granularity and operational feasibility
+### My Participation
+- **Times Spoken**: 2
+- **Cold Called**: No
 
-### Question 4: Segment Profiles
-**Describe each segment's needs and customer journey.**
+### Key Insights from Discussion
+- Clickstream data reveals behavioral patterns invisible in traditional demographics
+- Device type serves as proxy for use context (desktop = business context)
+- Conversion rates vary significantly by segment, requiring different approaches
+- Family segment needs simplified booking flow to improve conversion
 
-**Segment 1: Globetrotters**
-- Characteristics: Never traveling domestically, archetypal snowbird
-- Key Needs: International destinations, seasonal migration patterns
-- Journey: Long-distance travel, extended stays
-- Pain Points: Complex international bookings, visa/documentation
+### Alternative Perspectives
+- Some argued for five segments to separate solo business from group business travel
+- Discussion on whether international-only travelers warranted separate segment
+- Debate on using purchase data vs. just search behavior for segmentation
 
-**Segment 2: Budget-Conscious Adults**
-- Characteristics: Price-sensitive, single or in relationships, frequent domestic travel
-- Key Needs: Best deals, value optimization
-- Journey: Domestic focus, price comparison behavior
-- Pain Points: Finding affordable options, balancing cost vs. convenience
+### Professor's Takeaways
+- "Behavioral segmentation trumps demographic segmentation in digital contexts"
+- "The best segmentation balances statistical validity with business practicality"
+- "Each segment should have a distinct marketing strategy, or it's not worth separating"
+- "Focus on segments where you can win, not trying to be everything to everyone"
 
-**Segment 3: Family Vacationers**
-- Characteristics: Adults booking for multiple children, price-optimizing, lower Thanksgiving travel
-- Key Needs: Family-friendly accommodations, group bookings
-- Journey: Lowest purchase conversion in engagement stats
-- Pain Points: Managing multiple travelers, finding suitable family options
+## Personal Reflections & Key Takeaways
 
-**Segment 4: Business Travelers**
-- Characteristics: Desktop users, corporate cards, high ticket prices, sometimes short-notice
-- Key Needs: Efficiency, flexibility, business amenities
-- Journey: Desktop purchasing, corporate payment methods
-- Pain Points: Last-minute availability, expense reporting integration
+### Synthesis of Learning
+1. **Digital footprints as strategic assets**: Classroom discussion revealed how clickstream data provides richer insights than surveys or demographics, with professor emphasizing that "every click tells a story" - this transforms how we think about customer understanding from static profiles to dynamic journeys.
 
-### Question 5: Promotional Strategies
-**Which specific promotional strategies do you recommend for each segment?**
+2. **Segmentation as strategy, not statistics**: The integration of professor's framework with case analysis showed that optimal clustering isn't about mathematical purity but business actionability - four segments balanced analytical rigor with operational feasibility.
 
-**Globetrotters Strategy**
-- Target: International travel enthusiasts, snowbirds
-- Promotion Characteristics: Seasonal packages, international destination deals
-- Implementation: Email campaigns before migration seasons, targeted international route promotions
-- Timing: Pre-winter (Oct-Nov) and pre-summer (Mar-Apr)
+3. **Device as context indicator**: Professor's insight that "device choice reveals intent" connected with the data showing business travelers' desktop preference - this principle extends beyond travel to any digital business where context drives behavior.
 
-**Budget-Conscious Adults Strategy**
-- Target: Price-sensitive domestic travelers
-- Promotion Characteristics: Flash sales, early-bird discounts, last-minute deals
-- Implementation: Price alerts, comparison tools, loyalty rewards
-- Timing: Off-peak periods, advance booking windows
+### Applications to Future Situations
+- Use behavioral data to challenge assumptions about customer needs
+- Test segmentation solutions against "so what?" criterion - can we act differently?
+- Consider customer journey stage when analyzing conversion metrics
+- Balance personalization benefits against operational complexity
 
-**Family Vacationers Strategy**
-- Target: Parents booking family trips
-- Promotion Characteristics: Family packages, kids-stay-free deals, group discounts
-- Implementation: School holiday promotions, family-friendly destination highlights
-- Timing: School vacation periods (except Thanksgiving)
+### Questions for Further Research
+- How do segments evolve as customers mature in their relationship with platform?
+- What role does competitive activity play in segment behavior?
+- Can machine learning improve real-time segment identification?
+- How to measure ROI of segment-specific marketing investments?
 
-**Business Travelers Strategy**
-- Target: Corporate travelers
-- Promotion Characteristics: Flexible booking, premium services, corporate accounts
-- Implementation: Business travel portals, expense integration, loyalty programs
-- Timing: Weekday focus, conference seasons
+## Related Cases & Readings
+- [[9-509-049 HubSpot]] - Inbound marketing and customer personas
+- [[9-518-024 Chase Sapphire]] - Customer acquisition and segmentation in financial services
+- "Customer Journey Mapping" (HBR Article) - Framework for understanding touchpoints
 
-**How promotional strategies change across segments:**
-- Globetrotters: Focus on destination and experience
-- Budget-Conscious: Lead with price and value
-- Family Vacationers: Emphasize convenience and family features
-- Business Travelers: Prioritize efficiency and flexibility
-
-### Question 6: Additional Marketing Recommendations
-**Do you have any other marketing recommendations from the insights you gleaned?**
-
-1. **Device optimization**: Business travelers use desktop; families and budget travelers likely mobile-first
-2. **Conversion funnel**: Family vacationers show lowest conversion - need simplified booking flow
-3. **Seasonal patterns**: Leverage travel timing differences (e.g., families avoid Thanksgiving)
-
-## Questions for Reflection
-- How might segments evolve post-COVID?
-- What additional data would improve segmentation?
-- How to balance personalization with privacy?
-- Should Travelogo focus on all segments equally?
+## Additional Resources
+- K-means Clustering Methodology Guide
+- Digital Marketing Analytics Frameworks
+- Customer Persona Development Templates
 
 ---
-*Case prepared by Professors Eva Ascarza (HBS), Nicolas Padilla (Columbia), and Oded Netzer (LBS)*
+*Original PDF*: [[9-524-044 Travelogo.pdf]]

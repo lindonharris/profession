@@ -49,13 +49,18 @@
 
 ## Grading & Assessment
 
-### Course Requirements
-*Grading breakdown and requirements are available in the FIN1 Course Requirements and Grading PDF (referenced in Canvas)*
+### Grade Breakdown
+- **Class Participation**: 50%
+- **Midterms**: 20% (2 midterms at 10% each)
+- **Final Exam**: 30%
 
+### Course Requirements
 - Class participation and case preparation
 - Individual assignments
 - Group projects
 - Final examination
+
+*Additional grading details available in the FIN1 Course Requirements and Grading PDF (referenced in Canvas)*
 
 ## Course Resources
 

@@ -167,30 +167,54 @@ teaching_objectives: [managing-former-peers, crisis-leadership, asking-for-help,
 - **Cold Called**: No
 
 ### Key Insights from Discussion
-- 
+
+#### Leadership Assessment Framework
+- **Jackie Hu's Profile**: High EQ (emotional intelligence) as primary strength
+- **Strong relationships**: Foundation for navigating complex organizational dynamics
+- **Ineffective role transition**: Gap between interpersonal strengths and execution
+- **Lacking delegation skills**: Critical operational weakness undermining effectiveness
+
+#### Crisis Response Analysis
+- **Project Reality**: Went live 4 days post intended go-live date
+- **Organizational Support**: "Super proactive team reset whereby teams cleared calendars for two days to attack reds"
+- **Escalation Behavior**: Asked for help from org leadership when facing serious challenges
+- **Key Insight**: Crisis revealed both leadership gaps and organizational support systems
 
 ### Alternative Perspectives
-- 
+- Even leaders with strong emotional intelligence can struggle with tactical aspects of new responsibilities
+- Technical competence and relationship skills insufficient without delegation capabilities
+- Success requires balancing emotional intelligence with operational excellence
 
 ### Professor's Takeaways
-- 
+- Systematic processes and delegation skills necessary for managing complex projects
+- Trust-based leadership style needs verification mechanisms
+- Well-intentioned leaders can struggle without proper frameworks and milestones 
 
-## Personal Reflections
+## Personal Reflections & Key Takeaways
 
-### Key Learnings
-1. First-time leaders need different skills than individual contributors - trust but verify
-2. Asking for help early is strength, not weakness
-3. Cultural integration is harder than technical integration in M&A/partnerships
+### Synthesis of Learning
+1. **First-time leaders need different skills than individual contributors** - trust but verify
+2. **Asking for help early is strength, not weakness** - appropriate escalation demonstrates judgment
+3. **Cultural integration is harder than technical integration** in M&A/partnerships
+4. **Action Plan Framework Learned**:
+   - Increase prep time for complex transitions
+   - Use prioritization frameworks systematically
+   - Pre-frame deliverables with clear expectations
+   - Advocate for common objectives across teams
+   - Establish key milestones with verification points
 
 ### Applications to Future Situations
 - When promoted to manage former peers, establish new relationship dynamics immediately
 - Create transparent communication protocols for project status reporting
 - Build coalition across cultural divides before launching major initiatives
+- Implement structured approaches to team management, not just rely on relationships
+- Balance high EQ with operational excellence and delegation capabilities
 
 ### Questions for Further Research
 - How do successful companies handle peer-to-manager transitions?
 - What are best practices for distributed team leadership?
 - How can organizations maintain subculture identity during integration?
+- What frameworks help high-EQ leaders develop delegation skills?
 
 ## Related Cases & Readings
 - [[Leadership Transitions]]

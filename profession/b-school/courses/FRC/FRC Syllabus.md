@@ -93,7 +93,13 @@
 - General questions: Contact faculty or refer to HBS AI Policy
 
 ## Assessment Structure
-*Detailed grading information available in FRC Course Overview Note PDF*
+
+### Grade Breakdown
+- **Class Participation**: 40%
+- **Midterms**: 20%
+- **Final Exam**: 40%
+
+*Additional grading details available in FRC Course Overview Note PDF*
 
 ## Important Documents
 - **Faculty/FSS Directory**: Complete staff contact information (PDF)

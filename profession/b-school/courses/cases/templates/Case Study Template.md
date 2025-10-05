@@ -117,17 +117,17 @@ teaching_objectives: [{{teaching_objectives}}]
 - 
 
 ### Professor's Takeaways
-- 
+-
 
-## Personal Reflections
+## Personal Reflections & Key Takeaways
 
-### Key Learnings
-1. 
-2. 
-3. 
+### Synthesis of Learning
+1. **[Major insight combining theory and practice]**: [Explanation of how classroom discussion and personal analysis connect]
+2. **[Key principle learned]**: [Application to broader business context]
+3. **[Integration of professor's insights with personal understanding]**: [Deeper implications]
 
 ### Applications to Future Situations
-- 
+-
 
 ### Questions for Further Research
 - 

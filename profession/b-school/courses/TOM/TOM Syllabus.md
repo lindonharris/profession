@@ -55,9 +55,9 @@ The RC Technology and Operations Management (TOM) course provides foundations ne
 - **Topics**: Bullwhip effect, vendor-managed inventory, risk pooling
 
 ## Grading Components
-- **Class Engagement**: 40%
+- **Class Participation**: 40%
 - **Problem Sets**: 5% (7 required sets, machine-graded)
-- **Midterm Quiz**: 20% (October 16)
+- **Quizzes**: 20% (Midterm Quiz - October 16)
 - **Final Exam**: 35% (December 11)
 
 ## Assessment Schedule

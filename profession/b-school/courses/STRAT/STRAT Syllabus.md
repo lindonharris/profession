@@ -54,6 +54,11 @@ After each session, relevant handouts are uploaded under "Post-class Materials" 
 
 ## Assessment & Participation
 
+### Grade Breakdown
+- **Class Participation**: 40%
+- **Quizzes**: 20%
+- **Final Exam**: 40%
+
 ### Class Engagement and Participation
 Assessment focuses on quality of contributions to case discussions. See "[Note on Class Participation](https://canvas.instructure.com/courses/2353~15728/files/2353~1129186)" for detailed evaluation criteria.
 
