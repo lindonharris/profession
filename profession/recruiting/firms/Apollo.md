@@ -61,7 +61,7 @@ Tom Delong... tell him Victoria Yeow said hello
 Victoria's career path
 
 - 
-Like's the variety and stimulation of PE investing...  enjoys structuring
+Like's the variety and stimulation of PE investing...  enjoys structuring
 
 - 
 Apollo is a monster at structuring really creative deals.. you can make a contract say whatever you want... Apollo has led the world in creative structuring
@@ -175,19 +175,19 @@ Apollo NYC 1 year, Apollo Houston 2 y
 - 
 Just promoted to principal July 2024
 
- 
+ 
 
-You’re doing great
+You're doing great
 - 
 Started reaching out to alumni early of his matriculating year
 
 - 
-Big opportunity to give yourself a pre-MBA internship… I didn’t because I wasn’t ready
+Big opportunity to give yourself a pre-MBA internship… I didn't because I wasn't ready
 
 - 
 Internship recruiting kicks off at the beginning of the school year
 
- 
+ 
 
 How he got apollo
 - 
@@ -196,7 +196,7 @@ Reached out to an alum, cold email
 - 
 Random connections are useful
 
- 
+ 
 
 HBS
 - 
@@ -209,9 +209,9 @@ Leverage the folks who are a year, two years ahead of you
 Got a list of people from someone who was a year older that gave him a useful contact list
 
 - 
-HBS absolutely gets people’s attention
+HBS absolutely gets people's attention
 
- 
+ 
 
 Apollo
 - 
@@ -248,7 +248,7 @@ Number of value creation and capital markets teams across the firm
 In most situations, management teams get very excited about all the resources available
 
 - 
-Apollo has a reputation for paying the highest on the street, so JC doesn’t see a huge reason to think about doing something else
+Apollo has a reputation for paying the highest on the street, so JC doesn't see a huge reason to think about doing something else
 
 - 
 Bonuses can be normalized for market volatility across strategies
@@ -259,9 +259,9 @@ Product diversity allows for less risky talent management
 - 
 Still a ton of room to take more on if you show the aptitude and build that trust
 
- 
+ 
 
- 
+ 
 
 Another HBS alum
 - 

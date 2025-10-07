@@ -5,6 +5,7 @@ title: "{{title}}"
 course: "{{course}}"
 date_published: {{date_published}}
 date_read: {{date}}
+class_number: {{class_number}}
 professor: "{{professor}}"
 tags: [case-study, {{tags}}]
 industry: "{{industry}}"
@@ -21,6 +22,7 @@ teaching_objectives: [{{teaching_objectives}}]
 ## Quick Facts
 - **Case #**: {{case_number}}
 - **Course**: [[{{course}}]]
+- **Class #**: {{class_number}}
 - **Date Read**: {{date}}
 - **Industry**: {{industry}}
 - **Geography**: {{geographic_focus}}

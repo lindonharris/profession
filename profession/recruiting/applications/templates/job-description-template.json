@@ -1,0 +1,58 @@
+{
+  "company": "",
+  "role": "",
+  "location": "",
+  "type": "Full-time | Internship | Contract",
+  "application_date": "YYYY-MM-DD",
+  "application_time": "",
+  "application_status": "Not Applied | Applied | Interview | Offer | Rejected | Withdrawn",
+  "application_deadline": "YYYY-MM-DDTHH:MM:SS-TZ:TZ",
+  "anticipated_start_date": "YYYY-MM-DD",
+  "salary": {
+    "min": 0,
+    "max": 0,
+    "currency": "USD",
+    "period": "annual | monthly | hourly"
+  },
+  "requirements": {
+    "education": "",
+    "experience": "",
+    "work_authorization": "",
+    "office_presence": ""
+  },
+  "interview_process": {
+    "format": "Virtual | In-person | Hybrid",
+    "rounds": 0,
+    "types": [],
+    "attire": ""
+  },
+  "company_info": {
+    "industry": "",
+    "size": "",
+    "focus": "",
+    "culture": ""
+  },
+  "key_responsibilities": [],
+  "application_method": "",
+  "warm_intro": {
+    "name": "",
+    "link": "",
+    "relationship": ""
+  },
+  "application_documents": {
+    "resume": "required | optional",
+    "cover_letter": "required | optional",
+    "other": []
+  },
+  "contact": {
+    "name": "",
+    "email": "",
+    "phone": ""
+  },
+  "links": {
+    "posting": "",
+    "company": "",
+    "other": []
+  },
+  "notes": ""
+}

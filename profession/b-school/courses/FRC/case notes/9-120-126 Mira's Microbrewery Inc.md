@@ -5,6 +5,7 @@ title: "Mira's Microbrewery Inc."
 course: "FRC"
 date_published: 2023-07-18
 date_read: 2025-09-04
+class_number: 2
 professor: "Brian Baik"
 tags: [case-study, financial-statements, manufacturing, accounting, inventory, startup]
 industry: "Craft Beer/Microbrewery"
@@ -228,5 +229,5 @@ teaching_objectives: ["Understand basic financial statements", "Learn inventory 
 
 ---
 *Original PDF*: [[9-120-126 Mira's Microbrewery Inc.pdf]]
-*Part 1 Takeaways*: [[Mira Microbrewery Part 1 Takeaway Slides.pdf]]
-*Part 2 Takeaways*: [[Mira Microbrewery Part 2 Takeaway Slides.pdf]]
+*Part 1 Takeaways*: [[9-120-126 Mira's Microbrewery Inc - Part 1 Takeaway Slides.pdf]]
+*Part 2 Takeaways*: [[9-120-126 Mira's Microbrewery Inc - Part 2 Takeaway Slides.pdf]]

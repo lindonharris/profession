@@ -5,7 +5,8 @@ title: "For-Profit Higher Education: University of Phoenix"
 course: "FRC"
 date_published: 2013-10-23
 date_read: 2025-09-18
-professor: "Wang & Heese"
+class_number: 6
+professor: "Brian Baik"
 tags: [case-study, accounts-receivable, revenue-recognition, bad-debt, for-profit-education]
 industry: "Higher Education"
 company: "Apollo Group / University of Phoenix"

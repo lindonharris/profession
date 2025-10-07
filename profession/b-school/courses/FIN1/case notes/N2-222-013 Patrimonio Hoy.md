@@ -5,6 +5,7 @@ title: "Patrimonio Hoy: A Financial Perspective (Abridged)"
 course: "FIN1"
 date_published: 2021-07-16
 date_read: 2025-09-30
+class_number: 5
 professor: "Sam Hanson"
 tags: [case-study, finance, social-enterprise, microfinance, emerging-markets]
 industry: "Construction Materials / Housing Finance"
@@ -461,8 +462,8 @@ If we focus on **build-to-rent** scenario:
 
 ### Case Materials Location
 - Original PDF: [[N2-222-013 Patrimonio Hoy.pdf]]
-- Tools Document: [[N2-222-013 Patrimonio Hoy Tools.pdf]]
-- Excel Template: [[N2-222-013 Patrimonio Hoy Template.xlsx]]
+- Tools Document: [[N2-222-013 Patrimonio Hoy - Tools.pdf]]
+- Excel Template: [[N2-222-013 Patrimonio Hoy - Template.xlsx]]
 - Located in: `/courses/cases/attachments/`
 
 ### Key Data Points for Calculations

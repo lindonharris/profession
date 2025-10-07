@@ -5,6 +5,7 @@ title: "Travelogo: Understanding Customer Journeys"
 course: "MKT"
 date_published: 2024-06-09
 date_read: 2025-09-09
+class_number: 4
 professor: "Professor Chip Bergh"
 tags: [case-study, marketing, segmentation, customer-journey, data-analytics, clickstream]
 industry: "Online Travel Services"

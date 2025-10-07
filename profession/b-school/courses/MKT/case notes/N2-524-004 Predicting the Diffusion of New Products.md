@@ -5,6 +5,7 @@ title: "Predicting the Diffusion of New Products"
 course: "MKT"
 date_published: 2024-06-25
 date_read: 2025-09-17
+class_number: 6
 professor: "Jill Avery"
 tags: [case-study, marketing, product-diffusion, innovation, B2B, B2C, new-product-development]
 industry: "Multiple (Food Processing, Sports Equipment, Condiments, Agriculture Tech)"
@@ -290,13 +291,36 @@ The case covers four distinct industries:
 - **Cold Called**: No
 
 ### Key Insights from Discussion
-- [To be added during class]
+
+**Rogers' 5 Factors Framework for Product Diffusion**:
+
+1. **Complexity**: How difficult is the innovation to understand and use?
+   - Lower complexity → faster diffusion
+   - Simpler products adopted more quickly
+
+2. **Compatibility**: How consistent is the innovation with existing values, experiences, and needs?
+   - Higher compatibility → faster diffusion
+   - Must fit existing behaviors and beliefs
+
+3. **Relative Advantage**: How much better is the innovation than what it replaces?
+   - Greater relative advantage → faster diffusion
+   - Must provide clear, meaningful benefit
+
+4. **Observability**: How visible are the results of using the innovation?
+   - Higher observability → faster diffusion
+   - Social proof accelerates adoption
+
+5. **Trialability**: How easily can potential adopters experiment with the innovation?
+   - Higher trialability → faster diffusion
+   - Reduces perceived risk
 
 ### Alternative Perspectives
 - [To be added during class]
 
 ### Professor's Takeaways
-- [To be added during class]
+- Rogers' 5 Factors provide systematic framework for predicting and accelerating product diffusion
+- Products should be optimized across all five dimensions when possible
+- Marketing mix can be designed to improve scores on each factor
 
 ## Personal Reflections & Key Takeaways
 

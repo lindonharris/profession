@@ -1,5 +1,20 @@
 # All Tasks Overview
 
+## ⚡ High Priority Tasks
+
+```dataview
+TABLE WITHOUT ID
+  task.text as "Task",
+  task.due as "Due Date",
+  choice(contains(task.text, "⏫"), "🔴 HIGH", "") as "Priority",
+  task.subtasks[0].text as "Key Action"
+FROM "active"
+WHERE file.tasks
+FLATTEN file.tasks as task
+WHERE !task.completed AND contains(task.text, "⏫")
+SORT task.due ASC
+```
+
 ## Focus
 
 ### Overdue

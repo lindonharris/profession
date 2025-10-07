@@ -5,6 +5,7 @@ title: "Cola Wars Continue: Coke and Pepsi in 2010 (Abridged)"
 course: "STRAT"
 date_published: 2016-11-29
 date_read: 2025-09-08
+class_number: 3
 professor: "Ramon Casadesus-Masanell"
 tags: [case-study, strategy, competitive-dynamics, industry-analysis, duopoly]
 industry: "Beverage / Carbonated Soft Drinks"
@@ -360,8 +361,8 @@ teaching_objectives: [industry-analysis, competitive-dynamics, value-creation, s
 ---
 *Original PDF*: [[N2-713-470 Cola Wars Continue.pdf]]
 *Supplemental Materials*:
-- [[Cola Wars_Unit Economics.pdf]]
-- [[Cola Wars_5 Forces Analysis.pdf]]
-- [[Cola Wars_Coke & Pepsi Performance_Till 2000.pdf]]
+- [[N2-713-470 Cola Wars Continue - Unit Economics.pdf]]
+- [[N2-713-470 Cola Wars Continue - 5 Forces Analysis.pdf]]
+- [[N2-713-470 Cola Wars Continue - Coke & Pepsi Performance Till 2000.pdf]]
 - [[Cola Wars Update_Performance Since 2000.pdf]]
-- [[Cola Wars_Reflections.pdf]]
+- [[N2-713-470 Cola Wars Continue - Reflections.pdf]]

@@ -5,6 +5,7 @@ title: "Yanhai Aluminum Co.: A Question of Costs"
 course: "STRAT"
 date_published: 2025
 date_read: 2025-09-03
+class_number: 2
 professor: "Ashish Nanda"
 tags: [case-study, strategy, cost-analysis, commodity-markets, green-aluminum, supply-curve]
 industry: "Aluminum / Primary Metals"
@@ -310,7 +311,7 @@ China Hongqiao's actual investment and subsequent success when aluminum prices r
 
 *Original PDF*: [[N1-726-353 Yanhai Aluminum.pdf]]
 *Post-class Materials*:
-- [[Yanhai Aluminum_Reflections.pdf]]
-- [[Yanhai Aluminum_Context & Update.pdf]]
-- [[Yanhai Aluminum_Building an Industry Supply Curve.pdf]]
-- [[Yanhai Aluminum_RoI Calculations.pdf]]
+- [[N1-726-353 Yanhai Aluminum - Reflections.pdf]]
+- [[N1-726-353 Yanhai Aluminum - Context & Update.pdf]]
+- [[N1-726-353 Yanhai Aluminum - Building Supply Curve.pdf]]
+- [[N1-726-353 Yanhai Aluminum - ROI Calculations.pdf]]

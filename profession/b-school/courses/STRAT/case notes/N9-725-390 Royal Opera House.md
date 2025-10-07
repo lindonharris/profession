@@ -5,6 +5,7 @@ title: "Royal Opera House: Setting the Stage for the Future"
 course: "STRAT"
 date_published: 2024-08-08
 date_read: 2025-09-17
+class_number: 6
 professor: "Casadesus-Masanell and Baron"
 tags: [case-study, strategy, performing-arts, nonprofit, funding-cuts, portfolio-management]
 industry: "Performing Arts"

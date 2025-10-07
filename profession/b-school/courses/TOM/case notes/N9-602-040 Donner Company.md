@@ -5,7 +5,8 @@ title: "Operations at the Donner Company"
 course: "TOM"
 date_published: 2024-06-24
 date_read: 2025-09-09
-professor: "TBD"
+class_number: 2
+professor: "Allison Mnookin"
 tags: [case-study, operations, manufacturing, process-analysis, bottlenecks, capacity-planning]
 industry: "Electronics Manufacturing"
 company: "Donner Company"

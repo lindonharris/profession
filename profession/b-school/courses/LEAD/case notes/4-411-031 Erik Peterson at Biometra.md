@@ -5,7 +5,8 @@ title: "Erik Peterson at Biometra (A-E) and Richard Jenkins at SciMat"
 course: "LEAD"
 date_published: 2010
 date_read: 2025-09-04 (Day 1), 2025-09-05 (Day 2)
-professor: ""
+class_number: 1
+professor: "James Riley"
 class_structure: "Two-day case series"
 tags: [case-study, leadership, organizational-behavior, first-time-manager, crisis-management]
 industry: "Medical Devices / Biotechnology"

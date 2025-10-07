@@ -5,6 +5,7 @@ title: "Butler Lumber Company (Abridged)"
 course: "FIN1"
 date_published: 2022-06-28
 date_read: 2025-09-22 (Day 1), 2025-09-23 (Day 2)
+class_number: 1
 professor: "Sam Hanson"
 class_structure: "Two-day case"
 tags: [case-study, working-capital, growth-financing, banking-relationships, cash-flow]

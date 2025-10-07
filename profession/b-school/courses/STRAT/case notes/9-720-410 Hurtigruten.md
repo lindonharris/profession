@@ -5,6 +5,7 @@ title: "Hurtigruten: Sailing into Warm Water?"
 course: "STRAT"
 date_published: 2020-01-14
 date_read: 2025-09-22
+class_number: 7
 professor: "Casadesus-Masanell & Baron"
 tags: [case-study, strategy, expedition-cruising, geographic-expansion, competitive-dynamics]
 industry: "Expedition Cruise"
@@ -273,27 +274,82 @@ Using Porter's Five Forces:
 4. **Ongoing**: Maintain environmental leadership across all regions
 
 ## Class Discussion Notes
-> [To be filled during/after class discussion]
 
 ### My Participation
-- **Times Spoken**: 0
+- **Times Spoken**: Not tracked
 - **Cold Called**: No
 
+### Class Consensus: Should Hurtigruten Expand into Warm Waters?
+**Answer: YES**
+
+#### Arguments For Expansion
+1. **Increased Utilization**: Spreading huge fixed costs over more trips throughout the year
+2. **Cross-Sell Opportunities**: Ability to offer diverse itineraries to repeat customers
+3. **Off-Season Revenue**: Generate revenue during polar off-seasons (Arctic/Antarctic transitions)
+4. **Geographic Diversification**: Scale footprint geographically, creating greater exit potential
+5. **Lower Competition**: Only one other player in warm-water luxury niche—market not as saturated as polar
+
+#### Arguments Against Expansion
+1. **Greater Overall Competition**: More competitors across warm-water markets globally
+2. **Established Niche**: Strong positioning within cold-water expedition market already achieved
+
 ### Key Insights from Discussion
--
+
+#### Strategic Framework: "What Do You Need To Believe?" (WDYNTB)
+The class applied WDYNTB framework to analyze the warm-water expansion decision:
+
+**External Conditions:**
+- Warm-water demand is increasing
+- Consumers have amenable willingness-to-pay (WTP) for expedition cruises in warm destinations
+- Current demand trends will continue
+
+**Internal Capabilities:**
+- Hurtigruten has the competitive advantage to capture warm-water demand
+- Operational capabilities are transferable/leverageable across both cold and warm markets
+- SG&A (Selling, General & Administrative) costs will remain controlled during expansion
+
+**Competitive Dynamics:**
+- Competitive interaction doesn't provoke strong counteraction (competitors won't respond aggressively)
 
 ### Alternative Perspectives
--
+
+**Fixed Cost Leverage**: The class emphasized that Hurtigruten's 500-bed ships create massive fixed costs that MUST be spread over maximum utilization. Warm-water expansion isn't just an opportunity—it's operationally necessary to make the cost structure work.
+
+**Niche Saturation**: Discussion highlighted that warm-water luxury expedition segment is less saturated than polar, despite having more total competitors. This suggests blue ocean opportunities.
+
+**Exit Value**: Geographic diversification increases strategic value and potential exit multiples for private equity owner TDR Capital.
 
 ### Professor's Takeaways
--
+
+#### Four Steps in Strategy Development
+The professors outlined a systematic framework for strategic decision-making:
+
+1. **Come up with a strategy** (really a set of strategies which are comparable)
+   - Generate multiple strategic options to evaluate
+   - Ensure options are mutually exclusive and collectively exhaustive
+
+2. **Where are you relative to competitors?**
+   - Assess competitive positioning and relative advantages
+   - Understand differentiation and cost position
+
+3. **What Do You Need To Believe (WDYNTB)?**
+   - Identify critical assumptions (external, internal, competitive dynamics)
+   - Make implicit beliefs explicit for testing
+
+4. **Conduct empirical analysis**
+   - Test assumptions against data and evidence
+   - Quantify risks and returns
+
+**Application to Hurtigruten**: The case demonstrates how WDYNTB framework forces rigorous examination of expansion assumptions before committing $1B+ in capital over 5 years with 3-year decision lead times.
 
 ## Personal Reflections & Key Takeaways
 
 ### Synthesis of Learning
-1. **[Major insight combining theory and practice]**: [Explanation of how classroom discussion and personal analysis connect]
-2. **[Key principle learned]**: [Application to broader business context]
-3. **[Integration of professor's insights with personal understanding]**: [Deeper implications]
+1. **WDYNTB Framework Makes Assumptions Testable**: The "What Do You Need To Believe?" framework transforms vague strategic intuitions into explicit, testable hypotheses. For Hurtigruten, rather than debating whether warm-water expansion is "good," the framework forces us to articulate specific beliefs (e.g., "operational capabilities are transferable") that can be validated or refuted with evidence. This shift from opinion to hypothesis-testing dramatically improves strategic decision quality.
+
+2. **Fixed Cost Structures Create Strategic Imperatives, Not Just Options**: My pre-class analysis treated warm-water expansion as a strategic choice. Class discussion revealed it's more like a strategic necessity driven by Hurtigruten's 500-bed cost structure. The math is unforgiving: at 30% occupancy, costs per passenger exceed competitors by 35-40%. Warm-water expansion isn't about growth ambitions—it's about survival economics. This reframes the question from "Should we expand?" to "How do we expand successfully?"
+
+3. **Four-Step Strategy Framework Provides Systematic Rigor**: The professors' framework (1. Generate comparable strategies, 2. Assess competitive position, 3. WDYNTB, 4. Empirical analysis) offers a repeatable process for strategic decisions. Hurtigruten demonstrates why Step 3 (WDYNTB) is critical—it forces explicit articulation of assumptions about external conditions, internal capabilities, and competitive dynamics before committing capital. Without this step, strategies fail not because they're wrong in theory but because untested assumptions don't hold in practice.
 
 ### Applications to Future Situations
 - Geographic expansion decisions require 3+ year commitments

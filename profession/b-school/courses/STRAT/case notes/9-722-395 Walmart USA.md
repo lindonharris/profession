@@ -5,6 +5,7 @@ title: "Walmart USA - Searching for Growth"
 course: "STRAT"
 date_published: 2022-01-03
 date_read: 2025-09-16
+class_number: 5
 professor: "Casadesus-Masanell & Baron"
 tags: [case-study, retail, competitive-advantage, e-commerce, growth-strategy]
 industry: "Retail/Discount Retail"

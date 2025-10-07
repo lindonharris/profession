@@ -5,6 +5,7 @@ title: "Chase Sapphire: Creating a Millennial Cult Brand"
 course: "MKT"
 date_published: 2017-09-08
 date_read: 2025-09-16
+class_number: 5
 professor: "Jill Avery"
 tags: [case-study, marketing, credit-cards, branding, millennials, financial-services]
 industry: "Financial Services / Credit Cards"

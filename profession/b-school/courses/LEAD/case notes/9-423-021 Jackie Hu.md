@@ -5,7 +5,8 @@ title: "Jackie Hu: Launching into Leadership"
 course: "LEAD"
 date_published: 2025-01-27
 date_read: 2025-09-10
-professor: "Anthony J. Mayo"
+class_number: 3
+professor: "James Riley"
 tags: [case-study, leadership, first-time-leader, crisis-management, digital-transformation]
 industry: "Retail/E-commerce"
 company: "Nordstrom Rack"

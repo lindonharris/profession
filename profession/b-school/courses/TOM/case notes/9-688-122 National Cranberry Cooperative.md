@@ -5,7 +5,8 @@ title: "National Cranberry Cooperative, 1996"
 course: "TOM"
 date_published: 1988
 date_read: 2025-09-17
-professor: "Mnookin & Zhu"
+class_number: 5
+professor: "Allison Mnookin"
 tags: [case-study, operations-management, process-flow, capacity-analysis, bottleneck, agriculture, cooperatives]
 industry: "Agricultural Processing"
 company: "National Cranberry Cooperative"

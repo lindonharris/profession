@@ -1,0 +1,1494 @@
+[
+  {
+    "term": "Abnormal return",
+    "definition": "The amount by which a security’s actual combines a fixed-rate period with a variable-rate period, return differs from its expected return, given the security’s which fluctuates based on market reference rates. risk and the market’s return. Adjusted funds from operations Funds from opera-"
+  },
+  {
+    "term": "Absolute convergence",
+    "definition": "The idea that developing countries, tions adjusted to remove any non-cash rent reported regardless of their particular characteristics, will eventually under straight-line rent accounting and to subtract catch up with the developed countries and match them in maintenance-type capital expenditures and leasing costs, per capita output. including leasing agents’ commissions and tenants’"
+  },
+  {
+    "term": "Absolute valuation model",
+    "definition": "A model that specifies an asset’s improvement allowances. intrinsic value. Adjusted present value As an approach to valuing a company,"
+  },
+  {
+    "term": "Absolute version of PPP",
+    "definition": "An extension of the law of one price the sum of the value of the company, assuming no use of whereby the prices of goods and services will not differ debt, and the net present value of any effects of debt on internationally once exchange rates are considered. company value."
+  },
+  {
+    "term": "Accuracy",
+    "definition": "The percentage of correctly predicted classes out the FRA expiration date. of total predictions. It is an overall performance metric Agglomerative clustering A bottom-up hierarchical clustering in classification problems. method that begins with each observation being treated as"
+  },
+  {
+    "term": "Acquisition",
+    "definition": "When one company, the acquirer, purchases from its own cluster. The algorithm finds the two closest clus- the seller most or all of another company’s (the target) ters, based on some measure of distance (similarity), and shares to gain control of either an entire company, a seg- combines them into one new larger cluster. This process ment of another company, or a specific group of assets in is repeated iteratively until all observations are clumped exchange for cash, stock, or the assumption of liabilities, into a single large cluster. alone or in combination. Once an acquisition is complete, Akaike’s information criterion (AIC) A statistic used to com- the acquirer and target merge into a single entity and con- pare sets of independent variables for explaining a depen- solidate management, operations, and resources. dent variable. It is preferred for finding the model that is"
+  },
+  {
+    "term": "Activation function",
+    "definition": "A functional part of a neural network’s best suited for prediction. node that transforms the total net input received into the Allowance for loan losses A balance sheet account; it is a final output of the node. The activation function operates contra asset account to loans. like a light dimmer switch that decreases or increases the Alpha The return on an asset in excess of the asset’s required strength of the input. rate of return. Sometimes referred to as an abnormal"
+  },
+  {
+    "term": "Active factor risk",
+    "definition": "The contribution to active risk squared return. resulting from the portfolio’s different-than-benchmark American Depositary Receipt A negotiable certificate issued exposures relative to factors specified in the risk model. by a depositary bank that represents ownership in a non-US"
+  },
+  {
+    "term": "Active return",
+    "definition": "The return on a portfolio minus the return on company’s deposited equity (i.e., equity held in custody the portfolio’s benchmark. by the depositary bank in the company’s home market)."
+  },
+  {
+    "term": "Active risk",
+    "definition": "The standard deviation of active returns. Analysis of variance (ANOVA) A table that presents the sums of"
+  },
+  {
+    "term": "Active risk squared",
+    "definition": "The variance of active returns; active risk squares, degrees of freedom, mean squares, and F-statistic raised to the second power. for a regression model."
+  },
+  {
+    "term": "Active share",
+    "definition": "A measure of how similar a portfolio is to its Application programming interface (API) A set of well-defined benchmark. A manager who precisely replicates the bench- methods of communication between various software mark will have an active share of zero; a manager with no components and typically used for accessing external data. holdings in common with the benchmark will have an Appraisals Professional estimates of current market value for active share of one. a real estate property."
+  },
+  {
+    "term": "Active specific risk",
+    "definition": "The contribution to active risk squared Arbitrage (1) The simultaneous purchase of an undervalued resulting from the portfolio’s active weights on individual asset or portfolio and sale of an overvalued but equiva- assets as those weights interact with assets’ residual risk. lent asset or portfolio in order to obtain a riskless profit"
+  },
+  {
+    "term": "Activist short selling",
+    "definition": "A hedge fund strategy in which the on the price differential. Taking advantage of a market manager takes a short position in a given security and then inefficiency in a risk-free manner. (2) The condition in publicly presents his/her research backing the short thesis. a financial market in which equivalent assets or combi- nations of assets sell for two different prices, creating an"
+  },
+  {
+    "term": "Adjustable rate",
+    "definition": "Interest rate for a mortgage or other loan that"
+  },
+  {
+    "term": "Advanced set",
+    "definition": "An arrangement in which the reference interest depreciable assets, the salvage value of depreciable assets, rate is set at the time the money is deposited. product returns, warranty costs, and the amount of uncol- Advanced settled An arrangement in which a forward rate lectible receivables. agreement (FRA) expires and settles at the same time, at"
+  },
+  {
+    "term": "Also known Segmented markets theory",
+    "definition": "A term structure theory that as heteroskedasticity-consistent standard errors or contends yields are solely a function of the supply and"
+  },
+  {
+    "term": "Also see Term premium",
+    "definition": "The additional return required by lenders to backfill bias. invest in a bond to maturity net of the expected return"
+  },
+  {
+    "term": "Arbitrage opportunity",
+    "definition": "An opportunity to conduct an arbi- price. As the maturity date of the futures contract nears, trage; an opportunity to earn an expected positive net the basis converges toward zero. profit without risk and with no net investment of money. Basis trade A trade based on the pricing of credit in the bond"
+  },
+  {
+    "term": "Arbitrage portfolio",
+    "definition": "The portfolio that exploits an arbitrage market versus the price of the same credit in the CDS opportunity. market. To execute a basis trade, go long the “underpriced”"
+  },
+  {
+    "term": "Arbitrage-free valuation",
+    "definition": "An approach to valuation that in a flatter yield curve. determines security values consistent with the absence of Benchmark value of the multiple In using the method of com- any opportunity to earn riskless profits without any net parables, the value of a price multiple for the comparison investment of money. asset; when we have comparison assets (a group), the mean"
+  },
+  {
+    "term": "At market contract",
+    "definition": "When a forward contract is established, volume (assuming it is not large enough to constitute a the forward price is negotiated so that the market value of controlling ownership). the forward contract on the initiation date is zero. Bond indenture A legal document between a bond issuer"
+  },
+  {
+    "term": "Authorized participants (APs)",
+    "definition": "A special group of institutional and investors that governs each party’s rights and investors who are authorized by the ETF issuer to partic- responsibilities. ipate in the creation/redemption process. APs are large Bond risk premium The expected excess return of a default-free broker/dealers, often market makers. long-term bond less that of an equivalent short-term bond."
+  },
+  {
+    "term": "Autocorrelations",
+    "definition": "The correlations of a time series with its Bond yield plus risk premium (BYPRP) approach An esti- own past values. mate of the cost of common equity that is produced by"
+  },
+  {
+    "term": "Autoregressive model (AR)",
+    "definition": "A time series regressed on its own summing the before-tax cost of debt and a risk premium past values in which the independent variable is a lagged that captures the additional yield on a company’s stock value of the dependent variable. relative to its bonds."
+  },
+  {
+    "term": "Back-testing",
+    "definition": "The process that approximates the real-life invest- Bonus issue of shares A type of dividend in which a com- ment process, using historical data, to assess whether an pany distributes additional shares of its common stock to investment strategy would have produced desirable results. shareholders instead of cash."
+  },
+  {
+    "term": "Backward propagation",
+    "definition": "The process of adjusting weights in Book value Shareholders’ equity (total assets minus total a neural network, to reduce total error of the network, by liabilities) minus the value of preferred stock; common moving backward through the network’s layers. shareholders’ equity."
+  },
+  {
+    "term": "Backwardation",
+    "definition": "A downward-sloping, or inverted, forward Book value of equity Shareholders’ equity (total assets minus curve in a futures market. total liabilities) minus the value of preferred stock; common"
+  },
+  {
+    "term": "Bag-of-words (BOW)",
+    "definition": "A collection of a distinct set of tokens shareholders’ equity. from all the texts in a sample dataset. BOW does not cap- Book value per share The amount of book value (also called ture the position or sequence of words present in the text. carrying value) of common equity per share of common"
+  },
+  {
+    "term": "Bankruptcy Legal proceedings, which vary by jurisdiction, Bootstrap aggregating (or bagging)",
+    "definition": "A technique whereby allowing a firm whose liabilities exceed its assets to restruc- the original training dataset is used to generate n new ture existing debt obligations or liquidate assets in an training datasets or bags of data. Each new bag of data is orderly manner. generated by random sampling with replacement from the"
+  },
+  {
+    "term": "Basis",
+    "definition": "The difference between the spot price and the futures"
+  },
+  {
+    "term": "Bias error",
+    "definition": "Describes the degree to which a model fits the sway their decision making. training data. Algorithms with erroneous assumptions"
+  },
+  {
+    "term": "Bill-and-hold basis Sales on a bill-and-hold basis involve\nAsset-based valuation",
+    "definition": "An approach to valuing natural selling products but not delivering those products until resource companies that estimates company value on the a later date. basis of the market value of the natural resources the Blockage factor An illiquidity discount that occurs when an company controls. investor sells a large amount of stock relative to its trading"
+  },
+  {
+    "term": "Bootstrapping",
+    "definition": "The use of a forward substitution process to"
+  },
+  {
+    "term": "Breusch–Godfrey (BG) test",
+    "definition": "A test used to detect autocor- required to protect against credit risk. related residuals up to a predesignated order of the lagged Ceiling analysis A systematic process of evaluating different residuals. components in the pipeline of model building. It helps"
+  },
+  {
+    "term": "Breusch–Pagan (BP) test",
+    "definition": "A test for the presence of heteroske- to understand what part of the pipeline can potentially dasticity in a regression. improve in performance by further tuning."
+  },
+  {
+    "term": "Bullet portfolio",
+    "definition": "A fixed-income portfolio concentrated in a Centroid The center of a cluster formed using the k-means single maturity. clustering algorithm."
+  },
+  {
+    "term": "Bullish flattening Term structure change in which the yield Chain rule of forecasting",
+    "definition": "A forecasting process in which the curve flattens in response to a greater decline in long-term next period’s value as predicted by the forecasting equation rates than short-term rates. is substituted into the right-hand side of the equation to"
+  },
+  {
+    "term": "Buyback",
+    "definition": "A transaction in which a company buys back its categorical target variable, producing a classification tree, own shares. Unlike stock dividends and stock splits, share or a continuous target variable, producing a regression repurchases use corporate cash. tree. CART is commonly applied to binary classification"
+  },
+  {
+    "term": "Callable bond",
+    "definition": "A bond containing an embedded call option or regression. that gives the issuer the right to buy the bond back from Clean surplus relation The relationship between earnings, the investor at specified prices on predetermined dates. dividends, and book value in which ending book value"
+  },
+  {
+    "term": "Capital asset pricing model (CAPM)",
+    "definition": "An equation describing Club convergence The idea that only rich and middle-income the expected return on any asset (or portfolio) as a linear countries sharing a set of favorable attributes (i.e., are function of its beta relative to the market portfolio. members of the “club”) will converge to the income level"
+  },
+  {
+    "term": "Capital charge",
+    "definition": "The company’s total cost of capital in money of the richest countries. terms. Cluster A subset of observations from a dataset such that all the"
+  },
+  {
+    "term": "Capital deepening",
+    "definition": "An increase in the capital-to-labor ratio. observations within the same cluster are deemed “similar.”"
+  },
+  {
+    "term": "Capitalization rate",
+    "definition": "The rate used to discount expected NOI, Clustering The sorting of observations into groups (clusters) which combines the required rate of return on similar such that observations in the same cluster are more similar properties with an implied constant growth rate. to each other than they are to observations in other clusters."
+  },
+  {
+    "term": "Capitalized cash flow method",
+    "definition": "In the context of private com- Cobb–Douglas production function A function of the form pany valuation, a valuation model based on an assumption Y = Kα L1−α relating output (Y) to labor (L) and capital of a constant growth rate of free cash flow to the firm or (K) inputs. a constant growth rate of free cash flow to equity. Also Coefficient of determination A measure of how well data called capitalized cash flow model. points fit a linear statistical model, indicated in percent-"
+  },
+  {
+    "term": "Carry arbitrage model",
+    "definition": "A no-arbitrage approach in which the Collateral return The component of the total return on a underlying instrument is either bought or sold along with commodity futures position attributable to the yield for an opposite position in a forward contract. the bonds or cash used to maintain the futures position."
+  },
+  {
+    "term": "Cash settlement",
+    "definition": "A procedure used in certain derivative trans- earnings growth, earnings variability, earnings momentum, actions that specifies that the long and short parties settle and financial leverage. the derivative’s difference in value between them by making Company share-related factors Valuation measures and other a cash payment. factors related to share price or the trading characteristics"
+  },
+  {
+    "term": "Catalyst",
+    "definition": "An event or piece of information that causes the of the shares, such as earnings yield, dividend yield, and marketplace to re-evaluate the prospects of a company. book-to-market value."
+  },
+  {
+    "term": "Cheapest-to-deliver",
+    "definition": "The debt instrument that can be pur- steeper term structure. chased and delivered at the lowest cost yet has the same"
+  },
+  {
+    "term": "Classification and regression tree",
+    "definition": "A supervised machine institutions. learning technique that can be applied to predict either a"
+  },
+  {
+    "term": "Closed DB plan",
+    "definition": "A DB plan that is not accepting new enrollees."
+  },
+  {
+    "term": "Cointegrated",
+    "definition": "Describes two time series that have a long-term ified maximum rate. It protects the issuer against rising financial or economic relationship such that they do not interest rates. diverge from each other without bound in the long run."
+  },
+  {
+    "term": "Collection frequency (CF)",
+    "definition": "The number of times a given word coupon payments. appears in the whole corpus (i.e., collection of sentences)"
+  },
+  {
+    "term": "Comparables Assets used as benchmarks when applying the Contraction risk",
+    "definition": "The risk of earlier repayment of a method of comparables to value an asset. Also called comps, mortgage-backed security than expected. guideline assets, or guideline companies. Control premium An increment or premium to value associ-"
+  },
+  {
+    "term": "Complexity",
+    "definition": "A term referring to the number of features, param- the price of a newly created forward or futures contract eters, or branches in a model and to whether the model is will approach the price of a spot transaction. At expira- linear or non-linear (non-linear is more complex). tion, a forward or futures contract is equivalent to a spot"
+  },
+  {
+    "term": "Composite variable",
+    "definition": "A variable that combines two or more transaction in the underlying. variables that are statistically strongly related to each other. Conversion period The period over which a convertible bond"
+  },
+  {
+    "term": "Comps Assets used as benchmarks when applying the method Conversion value",
+    "definition": "The current contingency feature value of comparables to value an asset. derived by comparing a convertible bond’s price with its"
+  },
+  {
+    "term": "Conditional VaR (CVaR)",
+    "definition": "The weighted average of all loss Core real estate Real estate investments in well-developed, outcomes in the statistical (i.e., return) distribution that stable-income-producing commercial and residential exceed the VaR loss. Thus, CVaR is a more comprehensive properties. measure of tail loss than VaR is. Sometimes referred to as Corpus A collection of text data in any form, including list, the expected tail loss or expected shortfall. matrix, or data table forms."
+  },
+  {
+    "term": "Conditional convergence",
+    "definition": "The idea that convergence of per shares in the issuing company. capita income is conditional on the countries having the Convexity The second order, usually a positive change in the same savings rate, population growth rate, and production price of a bond for a given change in yield, which can be function. negative for a callable bond such as a high-yield bond."
+  },
+  {
+    "term": "Conditional heteroskedasticity",
+    "definition": "A condition in which the Core earnings Earnings excluding nonrecurring components. variance of residuals of a regression are correlated with Also referred to as continuing earnings, persistent earnings, the value of the independent variables. or underlying earnings."
+  },
+  {
+    "term": "Confirmation bias",
+    "definition": "A type of cognitive bias that makes indi- Cost of carry model A model that relates the forward price of viduals view information that confirms beliefs they already an asset to the spot price by considering the cost of carry hold as more salient. (also referred to as future-spot parity model)."
+  },
+  {
+    "term": "Confusion matrix",
+    "definition": "A grid used for error analysis in classifi- Cost of debt The required return on debt financing for a cation problems, it presents values for four evaluation company, such as when it issues a bond, takes out a bank metrics including true positive (TP), false positive (FP), loan, or leases an asset through a finance lease. true negative (TN), and false negative (FN). Cost of equity The return required by equity investors to"
+  },
+  {
+    "term": "Conglomerate discount",
+    "definition": "When an issuer is trading at a val- compensate for both the time value of money and the risk. uation lower than the sum of its parts, which is generally Also referred to as the required rate of return on common the result of diseconomies of scale or scope or the result stock or the required return on equity. of the capital markets having overlooked the business and Cost restructuring Actions to reduce costs by improving oper- its prospects. ational efficiency and profitability, often to raise margins to"
+  },
+  {
+    "term": "Constant dividend payout ratio policy",
+    "definition": "A policy in which a a historical level or to those of comparable industry peers. constant percentage of net income is paid out in dividends. Country risk premium (CRP) The additional return required"
+  },
+  {
+    "term": "Constant returns to scale",
+    "definition": "The condition that if all inputs into by investors to compensate for the risk associated with the production process are increased by a given percentage, investing in a foreign country relative to the investor’s then output rises by that same percentage. domestic market."
+  },
+  {
+    "term": "Contango",
+    "definition": "Refers to spot price below forward price in a futures Country risk rating (CRR) The rating of a country based on market. many risk factors, including economic prosperity, political"
+  },
+  {
+    "term": "Continuing residual income Residual income after the fore- Covered bonds",
+    "definition": "A senior debt obligation of a financial insti- cast horizon. tution that gives recourse to the originator/issuer and a"
+  },
+  {
+    "term": "Continuing value",
+    "definition": "The analyst’s estimate of a stock’s value at predetermined underlying collateral pool. a particular point in the future."
+  },
+  {
+    "term": "Convergence",
+    "definition": "The property by which as expiration approaches,"
+  },
+  {
+    "term": "Convertible bond",
+    "definition": "A bond that gives the bondholder the right with the ability to exercise control over the corporation. to exchange the bond for a specified number of common"
+  },
+  {
+    "term": "Covariance stationary",
+    "definition": "Describes a time series when its agreed-on occurrences. expected value and variance are constant and finite in"
+  },
+  {
+    "term": "Creation basket",
+    "definition": "The list of securities (and share amounts) factor affects mid-maturity interest rates, resulting in the the authorized participant (AP) must deliver to the ETF term structure becoming either more or less hump-shaped. manager in exchange for ETF shares. The creation basket Curve trade Buying a CDS of one maturity and selling a CDS is published each business day. on the same reference entity with a different maturity."
+  },
+  {
+    "term": "Creation units Large blocks of ETF shares transacted between Customer concentration risk",
+    "definition": "The risk associated with sales the authorized participant (AP) and the ETF manager that dependent on a few customers. are usually but not always equal to 50,000 shares of the ETF. Cyclical businesses Businesses with high sensitivity to"
+  },
+  {
+    "term": "Creation/redemption",
+    "definition": "The process in which ETF shares are business- or industry-cycle influences. created or redeemed by authorized participants transacting Data preparation (cleansing) The process of examining, iden- with the ETF issuer. tifying, and mitigating (i.e., cleansing) errors in raw data."
+  },
+  {
+    "term": "Credit correlation",
+    "definition": "The correlation of credit (or default) risks Data snooping The subconscious or conscious manipulation of the underlying single-name CDS contained in an index of data in a way that produces a statistically significant"
+  },
+  {
+    "term": "Credit curve",
+    "definition": "The credit spreads for a range of maturities of sufficiently large to indicate statistical significance), such a company’s debt. as by running multiple simulations and naively accepting"
+  },
+  {
+    "term": "Credit default swap",
+    "definition": "A derivative contract between two parties the best result. Also known as p-hacking. in which the buyer makes a series of cash payments to the Data wrangling (preprocessing) This task performs transfor- seller and receives a promise of compensation for credit mations and critical processing steps on cleansed data to losses resulting from the default. make the data ready for ML model training (i.e., preprocess-"
+  },
+  {
+    "term": "Credit derivative",
+    "definition": "A derivative instrument in which the under- ing), and includes dealing with outliers, extracting useful lying is a measure of the credit quality of a borrower. variables from existing data points, and scaling the data."
+  },
+  {
+    "term": "Credit event",
+    "definition": "An occurrence that triggers the settlement of a Debt service coverage ratio A key indicator of credit per-"
+  },
+  {
+    "term": "Credit protection buyer One party to a credit default swap; Dedicated short-selling",
+    "definition": "A hedge fund strategy in which the the buyer makes a series of cash payments to the seller manager takes short-only positions in equities deemed to and receives a promise of compensation for credit losses be expensively priced versus their deteriorating fundamen- resulting from the default. tal situations. Short exposures may vary only in terms of"
+  },
+  {
+    "term": "Credit risk",
+    "definition": "The expected economic loss under a potential non-linear data processing to identify patterns. Also called borrower default over the life of the contract. deep learning nets."
+  },
+  {
+    "term": "Credit spread",
+    "definition": "The compensation for the risk of default in a Deep neural networks Neural networks with many hidden debt security, typically measured by the yield-to-maturity layers—at least 2 but potentially more than 20—that have difference between a bond and a comparable government proven successful across a wide range of artificial intelli- benchmark security. gence applications."
+  },
+  {
+    "term": "Credit valuation adjustment",
+    "definition": "The value of the credit risk of a Default risk See credit risk. bond in present value terms. Delta The sensitivity of the derivative price to a small change"
+  },
+  {
+    "term": "Cross-sectional momentum",
+    "definition": "A managed futures trend follow- in the value of the underlying asset. ing strategy implemented with a cross-section of assets Dendrogram A type of tree diagram used for visualizing a (within an asset class) by going long those that are rising hierarchical cluster analysis; it highlights the hierarchical in price the most and by shorting those that are falling relationships among the clusters. the most. This approach generally results in holding a net Depository Trust and Clearinghouse Corporation A zero (market-neutral) position and works well when a US-headquartered entity providing post-trade clearing, market’s out- or underperformance is a reliable predictor settlement, and information services. of its future performance. Depreciable base Total construction or original acquisition"
+  },
+  {
+    "term": "Cross-validation",
+    "definition": "A technique for estimating out-of-sample cost plus any property improvements less the cost of land error directly by determining the error in validation written down over the estimated useful life, as in the case samples. of a company’s fixed assets."
+  },
+  {
+    "term": "Deep learning",
+    "definition": "An area of artificial intelligence in which losses resulting from the default. a system uses neural networks to perform multistage,"
+  },
+  {
+    "term": "Dilution",
+    "definition": "An increase in the number of shares outstanding dividend. from share issuance that decreases the percentage of shares Dividend recapitalization A change in the mix of debt and owned by existing shareholders. equity outstanding for an existing corporate issuer which"
+  },
+  {
+    "term": "Dimension reduction",
+    "definition": "A set of techniques for reducing the increases leverage via debt-financed dividends or share number of features in a dataset while retaining variation repurchases to benefit existing shareholders. across observations to preserve the information contained Dividend yield Annual dividends per share divided by share in that variation. price."
+  },
+  {
+    "term": "Diminishing marginal productivity",
+    "definition": "When each additional Dividends Distributions of profits and/or net assets from a cor- unit of an input, keeping the other inputs unchanged, poration to its shareholders. While often in cash, dividends increases output by a smaller increment. can be also be paid in stock or assets, such as property."
+  },
+  {
+    "term": "Direct capitalization method Valuation approach that esti- Divisive clustering",
+    "definition": "A top-down hierarchical clustering method mates the value of an income-producing property using that starts with all observations belonging to a single large a discounted cash flow approach based on a single year’s cluster. The observations are then divided into two clus- net operating income. ters based on some measure of distance (similarity). The"
+  },
+  {
+    "term": "Discount",
+    "definition": "To reduce the value of a future payment in allowance algorithm then progressively partitions the intermediate for how far away it is in time; to calculate the present value clusters into smaller ones until each cluster contains only of some future amount. Also, the amount by which an one observation. instrument is priced below its face (par) value. Document frequency (DF) The number of documents (texts)"
+  },
+  {
+    "term": "Discount factor",
+    "definition": "The price equivalent of a zero rate. Also that contain a particular token divided by the total number may be stated as the present value of a currency unit on of documents. It is the simplest feature selection method a future date. and often performs well when many thousands of tokens"
+  },
+  {
+    "term": "Discount for lack of control",
+    "definition": "An amount or percentage are present. deducted from the pro rata share of 100% of the value of Document term matrix (DTM) A matrix where each row an equity interest in a business to reflect the absence of belongs to a document (or text file), and each column some or all of the powers of control. represents a token (or term). The number of rows is equal"
+  },
+  {
+    "term": "Discount for lack of marketability",
+    "definition": "An amount of percentage to the number of documents (or text files) in a sample text deducted from the value of an ownership interest to reflect dataset. The number of columns is equal to the number of the relative absence of marketability. tokens from the BOW built using all the documents in the"
+  },
+  {
+    "term": "Discounted abnormal earnings model",
+    "definition": "A model of stock with a risk-free payoff in the future must have a positive valuation that views intrinsic value of stock as the sum of price today. book value per share plus the present value of the stock’s Double taxation system Corporate earnings are taxed twice expected future residual income per share. when paid out as dividends. First, corporate pretax earnings"
+  },
+  {
+    "term": "Discounted cash flow method",
+    "definition": "A valuation method involving are taxed regardless of whether they will be distributed as a series of income projections discounted to the present dividends or retained at the corporate level. Second, div- with a terminal value. idends are taxed again at the individual shareholder level."
+  },
+  {
+    "term": "Discounted cash flow model",
+    "definition": "A model of intrinsic value that Downstream A transaction between two related companies, an views the value of an asset as the present value of the asset’s investor company (or a parent company) and an associate expected future cash flows. company (or a subsidiary) such that the investor company"
+  },
+  {
+    "term": "Divestiture",
+    "definition": "When a seller sells a company, segment of a com- Dual-class shares Shares that grant one share class superior pany, or group of assets to an acquirer. Once complete, or even sole voting rights, whereas the other share class control of the target is transferred to the acquirer. has inferior or no voting rights."
+  },
+  {
+    "term": "Dividend coverage ratio",
+    "definition": "The ratio of net income to dividends. Due diligence Investigation and analysis in support of an"
+  },
+  {
+    "term": "Dividend discount model (DDM)",
+    "definition": "The model of the value investment action, decision, or recommendation. of stock that is the present value of all future dividends, Dummy variable An independent variable that takes a value discounted at the required return on equity. of either 1 or 0, depending on a specified condition. Also"
+  },
+  {
+    "term": "Dividend displacement of earnings",
+    "definition": "The concept that div- known as an indicator variable. idends paid now displace earnings in all future periods. Duration The first-order, linear change in a bond’s price for a"
+  },
+  {
+    "term": "Dividend imputation tax system",
+    "definition": "A taxation system that effec- given yield change in yield, which is a negative or inverse tively assures corporate profits distributed as dividends are relationship. taxed just once and at the shareholder’s tax rate. Durbin–Watson (DW) test A test for the presence of first-order"
+  },
+  {
+    "term": "Dividend index point",
+    "definition": "A measure of the quantity of dividends serial correlation. attributable to a particular index. Dutch disease A situation in which currency appreciation"
+  },
+  {
+    "term": "Dividend payout ratio",
+    "definition": "The ratio of cash dividends paid to driven by strong export demand for resources makes other earnings for a period. segments of the economy (particularly manufacturing) globally uncompetitive."
+  },
+  {
+    "term": "Dominance",
+    "definition": "An arbitrage opportunity when a financial asset"
+  },
+  {
+    "term": "EPS that Dividend policy",
+    "definition": "The strategy a company follows with regard would result if all dilutive securities were converted into to the amount and timing of dividend payments. common shares. Dividend rate The annualized amount of the most recent"
+  },
+  {
+    "term": "Economic profit Equal to accounting profit less the implicit Error autocorrelations",
+    "definition": "The autocorrelations of the error term. opportunity costs not included in total accounting costs; ESG integration The inclusion of ESG considerations within the difference between total revenue (TR) and total cost financial analysis and investment decisions. This may be (TC). Also called abnormal profit or supernormal profit. done in various ways, tailored to the investment style and"
+  },
+  {
+    "term": "Economic value added (EVA®)",
+    "definition": "A commercial implementation Ex ante tracking error A measure of the degree to which the of the residual income concept; the computation of EVA® is performance of a given investment portfolio might be the net operating profit after taxes minus the cost of capital, expected to deviate from its benchmark; also known as where these inputs are adjusted for a number of items. relative VaR."
+  },
+  {
+    "term": "Edwards–Bell–Ohlson model",
+    "definition": "A model of stock valuation that Ex ante version of PPP The hypothesis that expected changes views intrinsic value of stock as the sum of book value per in the spot exchange rate are equal to expected differences share plus the present value of the stock’s expected future in national inflation rates. An extension of relative pur- residual income per share. chasing power parity to expected future changes in the"
+  },
+  {
+    "term": "Effective convexity",
+    "definition": "An interest rate risk statistic that mea- exchange rate. sures the non-linear/second-order effect of changes in the Ex-dividend Trading ex-dividend refers to shares that no longer benchmark yield curve on a bond’s price. carry the right to the next dividend payment."
+  },
+  {
+    "term": "Effective duration",
+    "definition": "The sensitivity of the bond’s price to an Ex-dividend date The first date that a share trades without instantaneous parallel shift in a benchmark yield curve—for (i.e., “ex”) the right to receive the declared dividend for example, the government par curve. the period."
+  },
+  {
+    "term": "Eigenvalue",
+    "definition": "A measure that gives the proportion of total future earnings in excess of the estimated return require- variance in the initial dataset that is explained by each ments associated with working capital and fixed assets. eigenvector. Excess tax benefit The amount by which the tax deduction"
+  },
+  {
+    "term": "Eigenvector",
+    "definition": "A vector that defines new mutually uncorrelated associated with a share-based award exceeds the cumu- composite variables that are linear combinations of the lative share-based compensation expense recognized in original features. accordance with US GAAP or IFRS. Excess tax benefits"
+  },
+  {
+    "term": "Ensemble learning",
+    "definition": "A technique of combining the predictions CAPM a premium for small size and company-specific risk. from a collection of models to achieve a more accurate Expectations approach A procedure for obtaining the value of prediction. an option derived from discounting at the risk-free rate its"
+  },
+  {
+    "term": "Ensemble method",
+    "definition": "The method of combining multiple learning expected future payoff based on risk neutral probabilities. algorithms, as in ensemble learning. Expected exposure The projected amount of money an inves-"
+  },
+  {
+    "term": "Enterprise value",
+    "definition": "A measure of a company’s total market value tor could lose if an event of default occurs, before factoring from which the value of cash and short-term investments in possible recovery. have been subtracted. Expected shortfall The average loss conditional on exceeding"
+  },
+  {
+    "term": "Enterprise value multiple",
+    "definition": "A valuation multiple that relates the VaR cutoff; sometimes referred to as conditional VaR the total market value of all sources of a company’s capital or expected tail loss. (net of cash) to a measure of fundamental value for the Expected tail loss See conditional VaR. entire company (such as a pre-interest earnings measure). Exploratory data analysis (EDA) The preliminary step in data"
+  },
+  {
+    "term": "Equity charge",
+    "definition": "The estimated cost of equity capital in money exploration, where graphs, charts, and other visualizations terms. (heat maps and word clouds) as well as quantitative meth-"
+  },
+  {
+    "term": "Equity investment",
+    "definition": "A company purchasing another company’s currency due to a change in exchange rates. equity but less than 50% of its shares. The two companies Extendible bond Bond with an embedded option that gives maintain their independence, but the investor company the bondholder the right to keep the bond for a number has investment exposure to the investee and, in some cases of years after maturity, possibly with a different coupon. depending on the size of the investment, can have repre- Extension risk The risk of later repayment of a mortgage-backed sentation on the investee’s board of directors to influence security than expected. operations. Extra dividend A dividend paid by a company that does not"
+  },
+  {
+    "term": "Exposure to foreign exchange risk",
+    "definition": "The risk of a change in erty purchase price less the mortgage loan outstanding. value of an asset or liability denominated in a foreign"
+  },
+  {
+    "term": "F1 score",
+    "definition": "The harmonic mean of precision and recall. F1 score Fixed price tender offer Offer made by a company to repur- is a more appropriate overall performance metric (than chase a specific number of shares at a fixed price that is accuracy) when there is unequal class distribution in the typically at a premium to the current market price. dataset and it is necessary to measure the equilibrium of Fixed-rate perpetual preferred stock Non-convertible, precision and recall. non-callable preferred stock with a specified dividend"
+  },
+  {
+    "term": "FX carry trade",
+    "definition": "An investment strategy that involves taking for the company being valued. long positions in high-yield currencies and short positions Guideline public company method A variation of the mar- in low-yield currencies. ket approach; establishes a value estimate based on the"
+  },
+  {
+    "term": "Factor",
+    "definition": "A common or underlying element with which several rate that has a claim on earnings senior to the claim of variables are correlated. common stock, and no maturity date."
+  },
+  {
+    "term": "Factor betas",
+    "definition": "An asset’s sensitivity to a particular factor; a Flight to quality During times of market stress, investors sell measure of the response of return to each unit of increase higher-risk asset classes such as stocks and commodities in a factor, holding all other factors constant. in favor of default-risk-free government bonds."
+  },
+  {
+    "term": "Factor risk premium",
+    "definition": "The expected return in excess of the specified minimum rate. It protects the investor against risk-free rate for a portfolio with a sensitivity of 1 to one declining interest rates. factor and a sensitivity of 0 to all other factors. Also called Flotation cost Fees charged to companies by investment bank- factor price. ers and other costs associated with raising new capital."
+  },
+  {
+    "term": "Factor risk premiums",
+    "definition": "The expected return in excess of the Forced conversion For a convertible bond, when the issuer calls risk-free rate for a portfolio with a sensitivity of 1 to one the bond and forces bondholders to convert their bonds factor and a sensitivity of 0 to all other factors. Also called into shares, which typically happens when the underlying factor price. share price increases above the conversion price."
+  },
+  {
+    "term": "Failure to pay",
+    "definition": "When a borrower does not make a scheduled Foreign currency transactions Transactions that are denom- payment of principal or interest on any outstanding obli- inated in a currency other than a company’s functional gations after a grace period. currency."
+  },
+  {
+    "term": "Fair market value",
+    "definition": "The price, expressed in terms of cash equiv- Forward curve The term structure of forward rates for loans alents, at which a property (asset) would change hands made on a specific initiation date. between a hypothetical willing and able buyer and a hypo- Forward dividend yield A dividend yield based on the antic- thetical willing and able seller, acting at “arm’s length” in ipated dividend during the next 12 months. an open and unrestricted market, when neither is under Forward P/E A P/E calculated on the basis of a forecast of compulsion to buy or sell and when both have reasonable EPS; a stock’s current price divided by next year’s expected knowledge of the relevant facts. Fair market value is most earnings. often used in a tax reporting context in the United States. Forward price Represents the price agreed upon in a forward"
+  },
+  {
+    "term": "Fair value",
+    "definition": "A market-based measure of an investment based contract to be exchanged at the contract’s maturity date, on observable or derived assumptions to determine a price T. This price is shown in equations as F (T). 0 that market participants would use to exchange an asset or Forward pricing model The model that describes the valuation liability in an orderly transaction at a specific time. of forward contracts."
+  },
+  {
+    "term": "Fama–French models Factor models that explain the drivers Forward propagation",
+    "definition": "The process of adjusting weights in a of returns related to three, four, or five factors. neural network, to reduce total error of the network, by"
+  },
+  {
+    "term": "Feature engineering",
+    "definition": "A process of creating new features by moving forward through the network’s layers. changing or transforming existing features. Forward rate An interest rate determined today for a loan that"
+  },
+  {
+    "term": "Feature selection",
+    "definition": "A process whereby only pertinent features will be initiated in a future period. from the dataset are selected for model training. Selecting Forward rate agreement An over-the-counter forward con- fewer features decreases model complexity and training tract in which the underlying is an interest rate on a deposit. time. A forward rate agreement (FRA) calls for one party to make"
+  },
+  {
+    "term": "Features",
+    "definition": "The independent variables (X’s) in a labeled dataset. a fixed interest payment and the other to make an interest"
+  },
+  {
+    "term": "Finance (or capital) lease",
+    "definition": "A lease that is viewed as a financing payment at a rate to be determined at contract expiration. arrangement. Forward rate model The forward pricing model expressed in"
+  },
+  {
+    "term": "Financial buyer",
+    "definition": "An owner seeking to earn investment returns terms of spot and forward interest rates. from an existing company without identifying or capital- Forward rate parity The proposition that the forward exchange izing on synergies from a controlling interest. rate is an unbiased predictor of the future spot exchange"
+  },
+  {
+    "term": "Financial leverage",
+    "definition": "The use of debt in the capital structure. rate."
+  },
+  {
+    "term": "First-differencing",
+    "definition": "A transformation that subtracts the value expectations. Also referred to as ex ante estimates. of the time series in period t − 1 from its value in period t. Franchising A situation where an owner of an asset and asso-"
+  },
+  {
+    "term": "First-order serial correlation",
+    "definition": "The correlation of residuals with ciated intellectual property divests the asset and licenses residuals adjacent in time. intellectual property to a third-party operator (franchisee)"
+  },
+  {
+    "term": "Fitting curve",
+    "definition": "A curve which shows in- and out-of-sample error in exchange for royalties. Franchisees operate under the rates (E and E ) on the y-axis plotted against model constraints of a franchise agreement. in out complexity on the x-axis. Franking credit A tax credit received by shareholders for the taxes that a corporation paid on its distributed earnings."
+  },
+  {
+    "term": "Float Amounts collected as premium and not yet paid out\nFactor price",
+    "definition": "The expected return in excess of the risk-free rate as benefits. for a portfolio with a sensitivity of 1 to one factor and a Floored floater Floating-rate bond with a floor provision sensitivity of 0 to all other factors. that prevents the coupon rate from decreasing below a"
+  },
+  {
+    "term": "Free cash flow to equity model",
+    "definition": "A model of stock valuation purchase price of an acquired company over the value of that views a stock’s intrinsic value as the present value of the net identifiable assets acquired. expected future free cash flows to equity. Gordon growth model A DDM that assumes dividends grow"
+  },
+  {
+    "term": "Free cash flow to the firm",
+    "definition": "The cash flow available to the at a constant rate into the future. company’s suppliers of capital after all operating expenses Green bond Bonds in which the proceeds are designated by (including taxes) have been paid and necessary investments issuers to fund a specific project or portfolio of projects in working and fixed capital have been made. that have environmental or climate benefits."
+  },
+  {
+    "term": "Free cash flow to the firm model",
+    "definition": "A model of stock valua- Greenmail The purchase of the accumulated shares of a hos- tion that views the value of a firm as the present value of tile investor by a company that is targeted for takeover expected future free cash flows to the firm. by that investor, usually at a substantial premium over"
+  },
+  {
+    "term": "Frequency analysis",
+    "definition": "The process of quantifying how important market price. tokens are in a sentence and in the corpus as a whole. It Greenwashing The risk that a green bond’s proceeds are helps in filtering unnecessary tokens (or features). not actually used for a beneficial environmental or"
+  },
+  {
+    "term": "Frozen DB plan",
+    "definition": "A DB plan that is no longer accruing benefits climate-related project. for employee service. Grid search A method of systematically training a model by"
+  },
+  {
+    "term": "Functional currency",
+    "definition": "The currency of the primary economic Gross domestic product The market value of all final goods environment in which an entity operates. and services produced within the economy during a given"
+  },
+  {
+    "term": "Fundamental factor models",
+    "definition": "A multifactor model in which government within the economy during a given period the factors are attributes of stocks or companies that (income definition). are important in explaining cross-sectional differences Gross potential rental income Equal to the current market in stock prices. rent of a property at full occupancy."
+  },
+  {
+    "term": "Fundamentals Economic characteristics of a business, such Gross rent",
+    "definition": "The average lease or rental price realized per square as profitability, financial strength, and risk. foot multiplied by the total rentable space."
+  },
+  {
+    "term": "Funded status",
+    "definition": "The present value of the DB obligation less the Ground truth The known outcome (i.e., target variable) of fair value of plan assets (if any). each observation in a labelled dataset."
+  },
+  {
+    "term": "Funds available for distribution See adjusted funds from Growth accounting equation",
+    "definition": "The production function written operations. in the form of growth rates. For the basic Cobb–Douglas"
+  },
+  {
+    "term": "Futures price",
+    "definition": "The pre-agreed price at which a futures contract Guideline assets Assets used as benchmarks when applying buyer (seller) agrees to pay (receive) for the underlying at the method of comparables to value an asset. the maturity date of the futures contract. Guideline companies Assets used as benchmarks when apply-"
+  },
+  {
+    "term": "Futures value",
+    "definition": "The monetary value of an existing futures ing the method of comparables to value an asset. contract. Guideline public companies Public-company comparables"
+  },
+  {
+    "term": "GDP growth equals the growth rate of the labor\nInternational CAPM (ICAPM)",
+    "definition": "A two-factor model with a global input plus the growth rate of labor productivity. index and a wealth-weighted currency index. Lack of marketability discount An extra return to inves-"
+  },
+  {
+    "term": "Gamma",
+    "definition": "A numerical measure of how sensitive an option’s delta observed multiples from trading activity in the shares of (the sensitivity of the derivative’s price) is to a change in public companies viewed as reasonably comparable to the the value of the underlying. subject private company."
+  },
+  {
+    "term": "General linear F-test",
+    "definition": "A test statistic used to assess the good- Guideline transactions method A variation of the market ness of fit for an entire regression model, so it tests all approach; establishes a value estimate based on pricing independent variables in the model. multiples derived from the acquisition of control of entire"
+  },
+  {
+    "term": "Generalize",
+    "definition": "When a model retains its explanatory power when public or private companies that were acquired. predicting out-of-sample (i.e., using new data). Hard-catalyst event-driven approach An event-driven"
+  },
+  {
+    "term": "Global CAPM (GCAPM)",
+    "definition": "A single-factor model with a global approach in which investments are made in reaction to index representing the single factor. an already announced corporate event (mergers and acqui-"
+  },
+  {
+    "term": "Glossary G-11",
+    "definition": "Interest rate risk The risk that interest rates will rise and Labor force participation rate The percentage of the working therefore the market value of current portfolio holdings age population that is in the labor force. will fall so that their current yields to maturity then match Labor productivity The quantity of real GDP produced by comparable instruments in the marketplace. an hour of labor. More generally, output per unit of labor"
+  },
+  {
+    "term": "Glossary G-15\nPerpetuity",
+    "definition": "A perpetual annuity, or a set of never-ending level Prior transaction method A variation of the market approach; sequential cash flows, with the first cash flow occurring considers actual transactions in the stock of the subject one period from now. private company."
+  },
+  {
+    "term": "Glossary G-17\nRestricted stock units (RSUs)",
+    "definition": "An instrument used in Root mean squared error (RMSE) The square root of the share-based compensation plans that represents the right average squared forecast error; used to compare the to receive a common share upon vesting. RSUs are not out-of-sample forecasting performance of forecasting tradeable, nor do they have voting rights or participate models. in dividends. Sale-leaseback A situation in which a company sells the"
+  },
+  {
+    "term": "Glossary G-19\nStrategic buyer",
+    "definition": "An investor seeking to capitalize on synergies Takeover premium The amount by which the per-share take- by extending the value creation process initiated by a GP, over price exceeds the unaffected price expressed as a combining a business with another portfolio company, or percentage of the unaffected price. It reflects the amount taking other actions to increase firm value. shareholders require to relinquish their control of the"
+  },
+  {
+    "term": "Glossary G-21\nWeb spidering (scraping or crawling) programs Programs Write-down",
+    "definition": "A reduction in the value of an asset as stated in that extract raw content from a source, typically web pages. the balance sheet."
+  },
+  {
+    "term": "Glossary G-3\nBreakup value",
+    "definition": "The value derived using a sum-of-the-parts CDS spread A periodic premium paid by the buyer to the valuation. seller that serves as a return over a market reference rate"
+  },
+  {
+    "term": "Glossary G-5\nCovered interest rate parity",
+    "definition": "The relationship among the spot Current exchange rate For accounting purposes, the spot exchange rate, the forward exchange rate, and the interest exchange rate on the balance sheet date. rates in two currencies that ensures that the return on a Current rate method Approach to translating foreign cur- hedged (i.e., covered) foreign risk-free investment is the rency financial statements for consolidation in which all same as the return on a domestic risk-free investment. assets and liabilities are translated at the current exchange"
+  },
+  {
+    "term": "Glossary G-7\nEarnings surprise",
+    "definition": "The difference between reported EPS and Equity swap A swap transaction in which at least one cash expected EPS. Also referred to as unexpected earnings. flow is tied to the return to an equity portfolio position,"
+  },
+  {
+    "term": "Glossary G-9\nFree cash flow to equity",
+    "definition": "The cash flow available to a company’s Going-in cap rate The capitalization rate based on the first common shareholders after all operating expenses, interest, year of ownership used to discount the initial annual cash and principal payments have been made and necessary flow from a real estate property. investments in working and fixed capital have been made. Goodwill An intangible asset that represents the excess of the"
+  },
+  {
+    "term": "Going-concern assumption",
+    "definition": "The assumption that the business sitions, bankruptcies, share issuances, buybacks, capital will maintain its business activities into the foreseeable restructurings, re-organizations, accounting changes) in future. which security prices related to the event have yet to fully"
+  },
+  {
+    "term": "Going-concern value",
+    "definition": "A business’s value under a going-concern converge. assumption."
+  },
+  {
+    "term": "Harmonic mean",
+    "definition": "A type of weighted mean computed as the Implied volatility The volatility that option traders use to reciprocal of the arithmetic average of the reciprocals. price an option, implied by the price of the option and a"
+  },
+  {
+    "term": "Hazard rate",
+    "definition": "The probability that an event will occur, given particular option-pricing model. that it has not already occurred. In-sample forecast errors The residuals from a fitted"
+  },
+  {
+    "term": "Hedonic index",
+    "definition": "A real estate index that is not based on repeat time-series model within the sample period used to fit sales of the same property but, rather, that controls for the model. differences in property characteristics, such as size, age, iNAVs “Indicated” net asset values are intraday “fair value” quality of construction, and location, for the properties estimates of an ETF share based on its creation basket. sold in each period. Income approach A valuation approach that values an asset as"
+  },
+  {
+    "term": "Heteroskedastic",
+    "definition": "When the variance of the residuals differs the present discounted value of the income expected from across observations in a regression. it. In the context of real estate, this approach estimates the"
+  },
+  {
+    "term": "High-leverage point",
+    "definition": "An observation of an independent vari- Incremental borrowing rate (IBR) The rate of interest that the able that has an extreme value and is potentially influential. lessee would have to pay to borrow using a collateralized"
+  },
+  {
+    "term": "Historical scenario analysis",
+    "definition": "A technique for exploring the ence between the portfolio’s VaR while including a specified performance and risk of investment strategies in different asset and the portfolio’s VaR with that asset eliminated. structural regimes. Indenture A written contract between a lender and borrower"
+  },
+  {
+    "term": "Historical simulation",
+    "definition": "A simulation method that uses past that specifies the terms of the loan, such as interest rate, return data and a random number generator that picks interest payment schedule, or maturity. observations from the historical series to simulate an Independent board directors Directors with no material asset’s future returns. relationship with the company with regard to employment,"
+  },
+  {
+    "term": "Historical simulation method",
+    "definition": "The application of historical ownership, or remuneration. price changes to the current portfolio. Index CDS A type of credit default swap that involves a com-"
+  },
+  {
+    "term": "Historical stress testing",
+    "definition": "The process that tests how investment bination of borrowers. strategies would perform under some of the most negative Indexed rents Contractually agreed periodic rent changes (i.e., adverse) combinations of events and scenarios. based on an observed market variable, such as the con-"
+  },
+  {
+    "term": "Holding period return",
+    "definition": "The single-period internal rate of return sumer price index. for a real estate property that includes property income Industry risk premium (IP) The additional return that is and the change in property value over the period. required to bear industry -specific risk."
+  },
+  {
+    "term": "Horizontal ownership Companies with mutual business Industry structure",
+    "definition": "An industry’s underlying economic and interests (e.g., key customers or suppliers) that have technical characteristics. cross-holding share arrangements with each other. Influential observation An observation in a statistical analysis"
+  },
+  {
+    "term": "Household formation",
+    "definition": "An economic statistic which tracks whose inclusion may significantly alter regression results. the establishment of new residences as a group of people Information gain A metric which quantifies the amount of (or household) decide to live together, which increases information that the feature holds about the response. housing demand. Information gain can be regarded as a form of non-linear"
+  },
+  {
+    "term": "Ho–Lee model",
+    "definition": "The first arbitrage-free term structure model. correlation between Y and X."
+  },
+  {
+    "term": "Human capital",
+    "definition": "The present value of an individual’s future shareholders of a company. expected labor income. Intangible assets Assets without a physical form, such as"
+  },
+  {
+    "term": "Hyperparameter",
+    "definition": "A parameter whose value must be set by the patents and trademarks. researcher before learning begins. Inter-temporal rate of substitution The ratio of the mar-"
+  },
+  {
+    "term": "ISDA Master Agreement",
+    "definition": "A standard or “master” agreement Leading dividend yield Forecasted dividends per share over published by the International Swaps and Derivatives the next year divided by current stock price."
+  },
+  {
+    "term": "Illiquidity discount",
+    "definition": "A reduction or discount to value that (the denominator). reflects the lack of depth of trading or liquidity in that Interaction term A term that combines two or more indepen- asset’s market. dent variables and represents their joint influence on the"
+  },
+  {
+    "term": "Impairment of capital rule",
+    "definition": "A legal restriction that dividends regression model to estimate two lines of best fit, each with cannot exceed retained earnings. differing intercepts, depending on whether the dummy takes a value of 1 or 0."
+  },
+  {
+    "term": "Incremental VaR (IVaR)",
+    "definition": "A measure of the incremental effect of were initially recorded. an asset on the VaR of a portfolio by measuring the differ-"
+  },
+  {
+    "term": "Intercept dummy",
+    "definition": "An indicator variable that allows a single"
+  },
+  {
+    "term": "International Fisher effect",
+    "definition": "The proposition that nominal tors to compensate for lack of a public market or lack of interest rate differentials across currencies are determined marketability. by expected inflation differentials. LASSO Least absolute shrinkage and selection operator is a type"
+  },
+  {
+    "term": "Inverse price ratio",
+    "definition": "The reciprocal of a price multiple—for of the absolute values of the regression coefficients. LASSO example, in the case of a P/E, the “earnings yield” E/P can also be used for regularization in neural networks. (where P is share price and E is earnings per share). Law of one price A principle that states that if two investments"
+  },
+  {
+    "term": "Investment value",
+    "definition": "The value to a specific buyer, taking account have the same or equivalent future cash flows regardless of of potential synergies based on the investor’s requirements what will happen in the future, then these two investments and expectations. should have the same current price."
+  },
+  {
+    "term": "Joint test of hypotheses",
+    "definition": "The test of hypotheses that spec- earnings. ify values for two or more independent variables in the Learning curve A curve that plots the accuracy rate (= 1 – error hypotheses. rate) in the validation or test samples (i.e., out-of-sample)"
+  },
+  {
+    "term": "Justified (fundamental) P/E",
+    "definition": "The price-to-earnings ratio that Lessor Property owner or manager that leases a property to a is fair, warranted, or justified on the basis of forecasted tenant or property user. fundamentals. Level One of the three factors (the other two are steepness and"
+  },
+  {
+    "term": "Justified price multiple",
+    "definition": "The estimated fair value of the price curvature) that empirically explain most yield curve shape multiple, usually based on forecasted fundamentals or changes. A shock to the level factor changes the yield for comparables. all maturities by an almost identical amount."
+  },
+  {
+    "term": "K-fold cross-validation",
+    "definition": "A technique in which data (excluding Leverage A measure for identifying a potentially influential test sample and fresh data) are shuffled randomly and then high-leverage point. are divided into k equal sub-samples, with k – 1 samples Leveraged buyout (LBO) A transaction in which a private used as training samples and one sample, the kth, used as acquiror uses equity and a high proportion of debt to a validation sample. acquire a public or private company in order to make"
+  },
+  {
+    "term": "K-means",
+    "definition": "A clustering algorithm that repeatedly partitions changes to increase value over an investment period. observations into a fixed number, k, of non-overlapping Libor–OIS spread The difference between Libor and the over- clusters. night indexed swap rate."
+  },
+  {
+    "term": "K-nearest neighbor",
+    "definition": "A supervised learning technique that Life settlement The sale of a life insurance contract to a third classifies a new observation by finding similarities (“near- party. The valuation of a life settlement typically requires ness”) between this new observation and the existing data. detailed biometric analysis of the individual policyholder"
+  },
+  {
+    "term": "Kalotay–Williams–Fabozzi (KWF) model",
+    "definition": "An arbitrage-free and an understanding of actuarial analysis. term structure model that describes the dynamics of the Likelihood ratio (LR) test A method to assess the fit of logistic log of the short rate and assumes constant drift, no mean regression models that is based on the log-likelihood metric reversion, and constant volatility. that describes the model’s fit to the data."
+  },
+  {
+    "term": "Key rate durations Sensitivity of a bond’s price to changes Linear classifier",
+    "definition": "A binary classifier that makes its classification in specific maturities on the benchmark yield curve. Also decision based on a linear combination of the features of called partial durations. each data point. kth-order autocorrelation The correlation between observa- Linear trend A trend in which the dependent variable changes tions in a time series separated by k periods. at a constant rate with time."
+  },
+  {
+    "term": "Key ratios, such as\nSlope dummy",
+    "definition": "An indicator variable that allows a single regres- the capital–output ratio, are constant on the steady-state sion model to estimate two lines of best fit, each with growth path. differing slopes, depending on whether the dummy takes Steepness The difference between long-term and short-term a value of 1 or 0. yields that constitutes one of the three factors (the other"
+  },
+  {
+    "term": "Labeled dataset",
+    "definition": "A dataset that contains matched sets of Liquidating dividend A dividend that is a return of capi- observed inputs or features (X’s) and the associated output tal rather than a distribution from earnings or retained or target (Y). earnings."
+  },
+  {
+    "term": "Labor force Everyone of working age (ages 16 to 64) who Liquidation value",
+    "definition": "The value of a company if the company either is employed or is available for work but not working. were dissolved and its assets sold individually."
+  },
+  {
+    "term": "Liquidity preference theory",
+    "definition": "A term structure theory that Market conversion premium per share For a convertible asserts liquidity premiums exist to compensate investors bond, the difference between the market conversion price for the added interest rate risk they face when lending and the underlying share price, which allows investors to long term. identify the premium or discount payable when buying a"
+  },
+  {
+    "term": "Liquidity premium",
+    "definition": "The compensation for liquidity risk that convertible bond rather than the underlying common stock. increases in proportion to the investment’s illiquidity. Market conversion premium ratio For a convertible bond,"
+  },
+  {
+    "term": "Loan-to-value ratio",
+    "definition": "A primary measure of leverage involving the market conversion premium per share expressed as the ratio of mortgage principal outstanding to the prop- a percentage of the current market price of the shares. erty’s current value. Market efficiency A finance perspective on capital markets"
+  },
+  {
+    "term": "Local currency",
+    "definition": "The currency of the country where a company that deals with the relationship of price to intrinsic value. is located. The traditional efficient markets formulation asserts that"
+  },
+  {
+    "term": "Local expectations theory",
+    "definition": "A term structure theory that con- an asset’s price is the best available estimate of its intrinsic tends the return for all bonds over short periods is the value. The rational efficient markets formulation asserts risk-free rate. that investors should expect to be rewarded for the costs of"
+  },
+  {
+    "term": "Log odds",
+    "definition": "The natural log of the odds of an event or character- information gathering and analysis by higher gross returns. istic happening. Also known as the logit function. Market model A regression model with the return on a stock"
+  },
+  {
+    "term": "Logistic regression (logit)",
+    "definition": "A regression in which the depen- and equity. dent variable uses a logistic transformation of the event Mature growth rate The earnings growth rate in a compa- probability. ny’s mature phase; an earnings growth rate that can be"
+  },
+  {
+    "term": "Logistic transformation",
+    "definition": "The log of the probability of an sustained long term. occurrence of an event or characteristic divided by the Maximum drawdown The worst cumulative loss ever sustained probability of the event or characteristic not occurring. by an asset or portfolio. More specifically, maximum draw-"
+  },
+  {
+    "term": "Long/short credit trade",
+    "definition": "A credit protection seller with respect down is the difference between an asset’s or a portfolio’s to one entity combined with a credit protection buyer with maximum cumulative return and its subsequent lowest respect to another entity. cumulative return."
+  },
+  {
+    "term": "Look-ahead bias",
+    "definition": "The bias created by using information that Maximum likelihood estimation (MLE) A method that esti- was unknown or unavailable in the time periods over which mates values for the intercept and slope coefficients in a backtesting is conducted. Survivorship bias is a type of logistic regression that make the data in the regression look-ahead bias. sample most likely."
+  },
+  {
+    "term": "Lookback period",
+    "definition": "The time period used to gather a historical Mean reversion The tendency of a time series to fall when its data set. level is above its mean and rise when its level is below its"
+  },
+  {
+    "term": "Loss given default",
+    "definition": "The amount that will be lost if a default mean; a mean-reverting time series tends to return to its occurs. long-term mean."
+  },
+  {
+    "term": "Loss to lease",
+    "definition": "The difference between rental rates on existing Metadata Data that describes and gives information about leases and current market rents. other data."
+  },
+  {
+    "term": "Macroeconomic factor model",
+    "definition": "A multifactor model in which Method based on forecasted fundamentals An approach the factors are surprises in macroeconomic variables that to using price multiples that relates a price multiple to significantly explain equity returns. forecasts of fundamentals through a discounted cash flow"
+  },
+  {
+    "term": "Majority-vote classifier",
+    "definition": "A classifier that assigns to a new value of the multiple. data point the predicted label with the most votes (i.e., Minority interest The proportion of the ownership of a sub- occurrences). sidiary not held by the parent (controlling) company."
+  },
+  {
+    "term": "Marginal VaR (MVaR)",
+    "definition": "A measure of the effect of a small change Minority shareholders Particular shareholders or a block of in a position size on portfolio VaR. shareholders holding a small proportion of a company’s"
+  },
+  {
+    "term": "Market conditions",
+    "definition": "Interest rates, inflation rates, and other high on depressed EPS at the bottom of a business cycle economic characteristics that comprise the macroeconomic and tend to be low on unusually high EPS at the top of a environment. business cycle."
+  },
+  {
+    "term": "Market value of invested capital",
+    "definition": "The market value of debt"
+  },
+  {
+    "term": "Measured using ratios such as operating income to oper- Forward value",
+    "definition": "The monetary value of an existing forward ating income less interest expense, total assets to total contract. equity, or debt to equity. Forward-looking estimates Estimates based on current and"
+  },
+  {
+    "term": "Method of comparables",
+    "definition": "An approach to valuation that sector membership. involves using a price multiple to evaluate whether an"
+  },
+  {
+    "term": "Mispricing Any departure of the market price of an asset from\nMarket condition",
+    "definition": "A performance condition that is related to the asset’s estimated intrinsic value. the market price (or value) of the entity’s equity instru- Mixed-use development Commercial real estate properties ments such as attaining a specified share price or a specified that combine more than one tenant type and economic use. target based on the market price (or value) of the entity’s Model specification The set of independent variables included equity instruments relative to an index of market prices in a model and the model’s functional form. of other companies. Molodovsky effect The observation that P/Es tend to be"
+  },
+  {
+    "term": "Monte Carlo simulation",
+    "definition": "A technique that uses the inverse Network externalities The impact that users of a good, a ser- transformation method for converting a randomly gener- vice, or a technology have on other users of that product; ated uniformly distributed number into a simulated value it can be positive (e.g., a critical mass of users makes a of a random variable of a desired distribution. Each key product more useful) or negative (e.g., congestion makes decision variable in a Monte Carlo simulation requires an the product less useful). assumed statistical distribution; this assumption facilitates Neural networks A type of computer program design based incorporating non-normality, fat tails, and tail dependence on how the human brain learns and processes information. as well as solving high-dimensionality problems. No-arbitrage approach A procedure for obtaining the value"
+  },
+  {
+    "term": "Multi-class trading",
+    "definition": "An equity market-neutral strategy that of an option based on the creation of a portfolio that rep- capitalizes on misalignment in prices and involves buying licates the payoffs of the option and deriving the option and selling different classes of shares of the same company, value from the value of the replicating portfolio. such as voting and non-voting shares. No-growth company A company without positive expected"
+  },
+  {
+    "term": "Multi-strategy fund",
+    "definition": "A fund in which teams of portfolio man- This figure is one of the deductions made from FFO to agers trade and invest in multiple different strategies within calculate AFFO. the same fund. Non-convergence trap A situation in which a country remains"
+  },
+  {
+    "term": "Multicollinearity",
+    "definition": "When two or more independent variables relatively poor, or even falls further behind, because it fails are highly correlated with one another or are approximately to implement necessary institutional reforms and/or adopt linearly related. leading technologies."
+  },
+  {
+    "term": "Mutual information",
+    "definition": "Measures how much information is Non-renewable resources Finite resources that are depleted contributed by a token to a class of texts. MI will be 0 if once they are consumed; oil and coal are examples. the token’s distribution in all text classes is the same. MI Nonearning assets Cash and investments (specifically cash, approaches 1 as the token in any one class tends to occur cash equivalents, and short-term investments). more often in only that particular class of text. Normal EPS The EPS that a business could achieve currently"
+  },
+  {
+    "term": "N-grams",
+    "definition": "A representation of word sequences. The length of a under mid-cyclical conditions. Also called normalized EPS. sequence varies from 1 to n. When one word is used, it is a Normal Q-Q plot A visual used to compare the distribution unigram; a two-word sequence is a bigram; and a 3-word of the residuals from a regression to a theoretical normal sequence is a trigram; and so on. distribution. n-Period moving average The average of the current and Normalized earnings The expected level of mid-cycle earnings immediately prior n − 1 values of a time series. for a company in the absence of any unusual or tempo-"
+  },
+  {
+    "term": "NTM P/E Next 12-month P/E: current market price divided by Overnight indexed swap (OIS) rate",
+    "definition": "An interest rate swap an estimated next 12-month EPS. in which the periodic floating rate of the swap equals the"
+  },
+  {
+    "term": "Naked credit default swap",
+    "definition": "A position where the owner of rary factors that affect profitability (either positively or the CDS does not have a position in the underlying credit. negatively)."
+  },
+  {
+    "term": "Name entity recognition",
+    "definition": "An algorithm that analyzes individual Normalized EPS The EPS that a business could achieve cur- tokens and their surrounding semantics while referring to rently under mid-cyclical conditions. Also called normal its dictionary to tag an object class to the token. EPS."
+  },
+  {
+    "term": "Net asset balance sheet exposure",
+    "definition": "When assets translated fixed amount of currency. Examples are cash, accounts at the current exchange rate are greater in amount than receivable, accounts payable, bonds payable, and mortgages liabilities translated at the current exchange rate. Assets payable. Inventory is not a monetary asset. Most liabilities exposed to translation gains or losses exceed the exposed are monetary. liabilities."
+  },
+  {
+    "term": "Net liability balance sheet exposure",
+    "definition": "When liabilities trans- at the current exchange rate. Non-monetary assets and lated at the current exchange rate are greater assets trans- liabilities are translated at historical exchange rates (the lated at the current exchange rate. Liabilities exposed to exchange rates that existed when the assets and liabilities translation gains or losses exceed the exposed assets. were acquired). Net operating income A commonly used measure of"
+  },
+  {
+    "term": "No-growth value per share",
+    "definition": "The value per share of a no-growth ers trade and invest in multiple different strategies within company, equal to the expected level amount of earnings the same fund; the second type is a fund of hedge funds divided by the stock’s required rate of return. (or fund-of-funds) in which the manager allocates capital Non-cash rent An amount equal to the difference between the to separate, underlying hedge funds that themselves run average contractual rent over a lease term (the straight-line a range of different strategies. rent) and the cash rent actually paid during a period."
+  },
+  {
+    "term": "Notional amount",
+    "definition": "The amount of protection being purchased the present value of the DB obligation is less than the fair in a CDS. value of plan assets."
+  },
+  {
+    "term": "Offshoring",
+    "definition": "Refers to relocating operations from one country to Pairs trading An equity market-neutral strategy that capitalizes another, mainly to reduce costs through lower labor costs on the misalignment in prices of pairs of similar under- or to achieve economies of scale through centralization, and overvalued equities. The expectation is the differential but still maintaining operations within the corporation. valuations or trading relationships will revert to their"
+  },
+  {
+    "term": "One hot encoding",
+    "definition": "The process by which categorical variables Treasury securities that assumes all securities are priced are converted into binary form (0 or 1) for machine read- at par. ing. It is one of the most common methods for handling Par swap A swap in which the fixed rate is set so that no money categorical features in text data. is exchanged at contract initiation."
+  },
+  {
+    "term": "One-sided durations Effective durations when interest rates Parametric method",
+    "definition": "A method of estimating VaR that uses go up or down, which are better at capturing the interest the historical mean, standard deviation, and correlation rate sensitivity of bonds with embedded options that do of security price movements to estimate the portfolio not react symmetrically to positive and negative changes VaR. Generally assumes a normal distribution but can be in interest rates of the same magnitude. adapted to non-normal distributions with the addition of"
+  },
+  {
+    "term": "Option-adjusted spread Or OAS for a bond is its Z-spread Payout policy",
+    "definition": "The principles by which a company distributes adjusted for the value of an embedded option. cash to common shareholders by means of cash dividends"
+  },
+  {
+    "term": "Orderly liquidation value",
+    "definition": "The estimated gross amount of and/or share repurchases. money that could be realized from the liquidation sale of Payouts Cash dividends and the value of shares repurchased an asset or assets, given a reasonable amount of time to in any given year. find a purchaser or purchasers. PEG ratio The P/E-to-growth ratio, calculated as the stock’s"
+  },
+  {
+    "term": "Out-of-sample forecast errors",
+    "definition": "The differences between actual any plan assets, of expected future payments required to and predicted values of time series outside the sample settle the obligation resulting from employee service in period used to fit the model. the current and prior periods."
+  },
+  {
+    "term": "Outlier",
+    "definition": "An observation that has an extreme value of the depen- Perfect capital markets Markets in which, by assumption, dent variable and is potentially influential. there are no taxes, no transaction costs, and no bankruptcy"
+  },
+  {
+    "term": "Overfitting",
+    "definition": "When a machine learning model learns the input market condition. and target dataset too precisely, making the system more Performance shares Shares used in a share-based compen- likely to discover false relationships or unsubstantiated sation arrangement that have performance-based vesting patterns that will lead to prediction errors. conditions."
+  },
+  {
+    "term": "Overfunded plan",
+    "definition": "A DB plan with a positive funded status;"
+  },
+  {
+    "term": "Par curve",
+    "definition": "A hypothetical yield curve for coupon-paying"
+  },
+  {
+    "term": "Parts of speech",
+    "definition": "An algorithm that uses language structure market conditions. and dictionaries to tag every token in the text with a"
+  },
+  {
+    "term": "Payout amount",
+    "definition": "The loss given default times the notional."
+  },
+  {
+    "term": "Penalized regression",
+    "definition": "A regression that includes a constraint between comprehensive income and net income. such that the regression coefficients are chosen to mini-"
+  },
+  {
+    "term": "Pension obligation",
+    "definition": "The present value, without deducting"
+  },
+  {
+    "term": "Performance condition",
+    "definition": "A vesting condition comprising a"
+  },
+  {
+    "term": "Persistent earnings Earnings excluding nonrecurring compo- Private market value",
+    "definition": "The value derived using a nents. Also referred to as core earnings, continuing earnings, sum-of-the-parts valuation. or underlying earnings. Pro forma financial statements Financial statements that"
+  },
+  {
+    "term": "Portfolio balance approach",
+    "definition": "A theory of exchange rate Projection error The vertical (perpendicular) distance between determination that emphasizes the portfolio investment a data point and a given principal component. decisions of global investors and the requirement that Property classes A relative ranking of properties based on global investors willingly hold all outstanding securities a combination of features such as location, property age, denominated in each currency at prevailing prices and local income levels, recent property appreciation, and exchange rates. relative condition."
+  },
+  {
+    "term": "Positive serial correlation",
+    "definition": "A situation in which residuals are Property maintenance allowance Expenses incurred to main- positively related to other residuals. tain a property’s current level of income generation."
+  },
+  {
+    "term": "Potential GDP",
+    "definition": "The maximum amount of output an economy Prospective P/E A P/E calculated on the basis of a forecast of can sustainably produce without inducing an increase in EPS; a stock’s current price divided by next year’s expected the inflation rate. The output level that corresponds to full earnings. employment with consistent wage and price expectations. Protection leg The contingent payment that the credit protec-"
+  },
+  {
+    "term": "Precision",
+    "definition": "In error analysis for classification problems it is tion seller may have to make to the credit protection buyer. ratio of correctly predicted positive classes to all predicted Protection period Period during which a bond’s issuer cannot positive classes. Precision is useful in situations where the call the bond. cost of false positives (FP), or Type I error, is high. Provision for loan losses An income statement expense"
+  },
+  {
+    "term": "Preferred habitat theory",
+    "definition": "A term structure theory that con- account that increases the amount of the allowance for tends that investors have maturity preferences and require loan losses. yield incentives before they will buy bonds outside of their Pruning A regularization technique used in CART to reduce preferred maturities. the size of the classification or regression tree—by prun-"
+  },
+  {
+    "term": "Premium leg",
+    "definition": "The series of payments the credit protection ing, or removing, sections of the tree that provide little buyer promises to make to the credit protection seller. classifying power."
+  },
+  {
+    "term": "Premiums Amounts paid by the purchaser of insurance Purchasing power gain",
+    "definition": "A gain in value caused by changes products. in price levels. Monetary liabilities experience purchasing"
+  },
+  {
+    "term": "Prepayment risk",
+    "definition": "The risk that the some or all of a power gains during periods of inflation. mortgage-backed security’s principal is repaid at a differ- Purchasing power loss A loss in value caused by changes in ent speed than expected, either in the form of contraction price levels. Monetary assets experience purchasing power risk (or earlier repayment than expected) or extension risk loss during periods of inflation. (later repayment). Purchasing power parity (PPP) The idea that exchange"
+  },
+  {
+    "term": "Present value model",
+    "definition": "A model of intrinsic value that views rates move to equalize the purchasing power of different the value of an asset as the present value of the asset’s currencies. expected future cash flows. Pure expectations theory A term structure theory that con-"
+  },
+  {
+    "term": "Present value of growth opportunities",
+    "definition": "The difference tends the forward rate is an unbiased predictor of the future between the actual value per share and the no-growth spot rate. Also called the unbiased expectations theory. value per share. Also called value of growth. Pure factor portfolio A portfolio with sensitivity of 1 to the"
+  },
+  {
+    "term": "Presentation currency",
+    "definition": "The currency in which financial state- factor in question and a sensitivity of 0 to all other factors. ment amounts are presented. Putable bond Bond that includes an embedded put option,"
+  },
+  {
+    "term": "Price momentum",
+    "definition": "A valuation indicator based on past price which gives the bondholder the right to put back the bonds movement. to the issuer prior to maturity, typically when interest rates"
+  },
+  {
+    "term": "Price multiples",
+    "definition": "The ratio of a stock’s market price to some have risen and higher-yielding bonds are available. measure of value per share. Qualitative dependent variable A dependent variable that is"
+  },
+  {
+    "term": "Price-to-earnings ratio (P/E)",
+    "definition": "The ratio of share price to earn- discrete (binary). Also known as a categorical dependent ings per share. variable."
+  },
+  {
+    "term": "Priced risk Risk for which investors demand compensation Quality of earnings analysis",
+    "definition": "The investigation of issues for bearing (e.g., equity risk, company-specific factors, relating to the accuracy of reported accounting results as macroeconomic factors). reflections of economic performance. Quality of earnings"
+  },
+  {
+    "term": "Principal components analysis (PCA)",
+    "definition": "An unsupervised ML analysis is broadly understood to include not only earnings technique used to transform highly correlated features of management but also balance sheet management. data into a few main, uncorrelated composite variables. Quantitative market-neutral An approach to building"
+  },
+  {
+    "term": "Principle of no arbitrage",
+    "definition": "In well-functioning markets, prices market-neutral portfolios in which large numbers of secu- will adjust until there are no arbitrage opportunities. rities are traded and positions are adjusted on a daily or even an hourly basis using algorithm-based models."
+  },
+  {
+    "term": "Probability of default",
+    "definition": "The likelihood that a borrower defaults seller of the notional amount of the contract. or fails to meet its obligation to make full and timely pay-"
+  },
+  {
+    "term": "Probability of survival",
+    "definition": "The probability that a bond issuer will"
+  },
+  {
+    "term": "Random forest classifier",
+    "definition": "A collection of a large number of Reinvestment rate A company’s rate of investment in working decision trees trained via a bagging method. capital and long-term assets necessary to maintain opera-"
+  },
+  {
+    "term": "Random walk",
+    "definition": "A time series in which the value of the series in tions and support assumed growth. one period is the value of the series in the previous period Related-party transactions A business transaction between plus an unpredictable random error. parties which share economic or other interests and may"
+  },
+  {
+    "term": "Rate implicit in the lease (RIIL)",
+    "definition": "The discount rate that equates not take place at fair market value. the present value of the lease payment with the fair value Relative valuation models A model that specifies an asset’s of the leased asset, considering also the lessor’s direct costs value relative to the value of another asset. and the present value of the leased asset’s residual value. Relative value volatility arbitrage A volatility trading strategy"
+  },
+  {
+    "term": "Real interest rate parity",
+    "definition": "The proposition that real interest rates Renewable resources Resources that can be replenished, will converge to the same level across different markets. such as a forest."
+  },
+  {
+    "term": "Real options",
+    "definition": "Refers to the right but not the obligation to take Rental price of capital The cost per unit of time to rent a future action. The existence of such options may affect the unit of capital. value of a real estate investment. Reorganization A court-supervised restructuring process"
+  },
+  {
+    "term": "Rebalance return",
+    "definition": "A return from rebalancing the component available in some jurisdictions for companies facing insol- weights of an index. vency from burdensome debt levels. A bankruptcy court"
+  },
+  {
+    "term": "Recency bias",
+    "definition": "The behavioral tendency to place more relevance multiple sales of the same property. on recent events. Replacement cost Estimate of expenses associated with pur-"
+  },
+  {
+    "term": "Reconstitution",
+    "definition": "When dealers recombine appropriate individ- chasing land and building a new property on a site with ual zero-coupon securities and reproduce an underlying the same features and economic use as a property being coupon Treasury. appraised."
+  },
+  {
+    "term": "Recovery rate",
+    "definition": "The percentage of the loss recovered. Required rate of return on equity The minimum rate of"
+  },
+  {
+    "term": "Redemption basket",
+    "definition": "The list of securities (and share amounts) return required by an investor to invest in an asset, given the authorized participant (AP) receives when it redeems the asset’s riskiness. Also known as the required return"
+  },
+  {
+    "term": "Reference entity",
+    "definition": "The borrower (debt issuer) covered by a the residuals. single-name CDS. Residual income Earnings for a given period, minus a deduc-"
+  },
+  {
+    "term": "Reference obligation",
+    "definition": "A particular debt instrument issued tion for common shareholders’ opportunity cost in gener- by the borrower that is the designated instrument being ating the earnings. Also called economic profit or abnormal covered. earnings."
+  },
+  {
+    "term": "Regime",
+    "definition": "The governing set of relationships (between variables) Residual income model (RIM) A model of stock valuation that that stem from technological, political, legal, and regulatory views intrinsic value of stock as the sum of book value per environments. Changes in such environments or policy share plus the present value of the stock’s expected future stances can be described as changes in regime. residual income per share. Also called discounted abnormal"
+  },
+  {
+    "term": "Regular expression (regex)",
+    "definition": "A series of texts that contains earnings model or Edwards–Bell–Ohlson model. characters in a particular order. Regex is used to search Restricted model A regression model with a subset of the for patterns of interest in a given text. complete set of independent variables."
+  },
+  {
+    "term": "Regularization",
+    "definition": "A term that describes methods for reducing Restricted stock A share with selling or other restrictions, statistical variability in high-dimensional data estimation commonly used in share-based compensation arrange- problems. ments with employees."
+  },
+  {
+    "term": "Relative VaR",
+    "definition": "The minimum portfolio loss expected to occur"
+  },
+  {
+    "term": "Relative version of PPP",
+    "definition": "The hypothesis that changes in (nomi-"
+  },
+  {
+    "term": "Repeat sales index",
+    "definition": "A real estate price index that relies on"
+  },
+  {
+    "term": "Residual autocorrelations",
+    "definition": "The sample autocorrelations of"
+  },
+  {
+    "term": "Return on invested capital",
+    "definition": "A measure of the profitability of the company then signs a long-term lease with the buyer a company relative to the amount of capital invested by to continue to occupy the building. At the end of the lease, the equity- and debtholders. use of the property reverts to the landlord."
+  },
+  {
+    "term": "Reverse carry arbitrage",
+    "definition": "A strategy involving the short sale Sales comparison approach Real estate valuation approach of the underlying and an offsetting opposite position in that considers the price at which similar or comparable the derivative. properties (comparables) are purchased and sold in the"
+  },
+  {
+    "term": "Reverse stock split",
+    "definition": "A reduction in the number of shares current market; also referred to as the market approach. outstanding with a corresponding increase in share price Sales risk The uncertainty regarding the price and number of but no change to the company’s underlying fundamentals. units sold of a company’s products."
+  },
+  {
+    "term": "Reverse stress testing",
+    "definition": "A risk management approach in which Scaled earnings surprise Unexpected earnings divided by the the user identifies key risk exposures in the portfolio and standard deviation of analysts’ earnings forecasts. subjects those exposures to extreme market movements. Scaling The process of adjusting the range of a feature by"
+  },
+  {
+    "term": "Reviewed financial statements",
+    "definition": "A type of non-audited finan- shifting and changing the scale of the data. Two of the cial statements; typically provide an opinion letter with most common ways of scaling are normalization and representations and assurances by the reviewing accountant standardization. that are less than those in audited financial statements. Scatterplot matrix A visualization technique that shows the"
+  },
+  {
+    "term": "Rho",
+    "definition": "The change in a given derivative instrument for a given scatterplots between different sets of variables, often with small change in the risk-free interest rate, holding every- the histogram for each variable on the diagonal. Also thing else constant. Rho measures the sensitivity of the referred to as a pairs plot. option to the risk-free interest rate. Schwarz’s Bayesian information criterion (BIC or SBC) A"
+  },
+  {
+    "term": "Risk budgeting",
+    "definition": "The establishment of objectives for individ- statistic used to compare sets of independent variables for uals, groups, or divisions of an organization that takes explaining a dependent variable. It is preferred for finding into account the allocation of an acceptable level of risk. the model with the best goodness of fit."
+  },
+  {
+    "term": "Risk decomposition",
+    "definition": "The process of converting a set of hold- Scree plots A plot that shows the proportion of total variance ings in a portfolio into a set of exposures to risk factors. in the data explained by each principal component."
+  },
+  {
+    "term": "Risk factors Variables or characteristics with which individual Screening",
+    "definition": "The application of a set of criteria to reduce a set asset returns are correlated. Sometimes referred to simply of potential investments to a smaller set having certain as factors. desired characteristics."
+  },
+  {
+    "term": "Risk parity",
+    "definition": "A portfolio allocation scheme that weights stocks Seasonality A characteristic of a time series in which the data or factors based on an equal risk contribution. experience regular and predictable periodic changes; for"
+  },
+  {
+    "term": "Risk-free rate",
+    "definition": "The minimum rate of return expected on a lateralized by US Treasuries that is expected to replace security that has no default risk. Libor as a floating reference rate for swaps."
+  },
+  {
+    "term": "Roll",
+    "definition": "When an investor moves its investment position from an Sell-side analysts Analysts who work at brokerages. older series to the most current series. Sensitivity analysis A form of analysis used to determine the"
+  },
+  {
+    "term": "Roll return",
+    "definition": "The component of the return on a commodity impact of a change in one or more key variables affecting futures contract attributable to rolling long futures posi- investment returns or valuation. tions forward through time. Also called roll yield. Sentence length The number of characters, including spaces,"
+  },
+  {
+    "term": "Rolling down the yield curve",
+    "definition": "A maturity trading strategy in a sentence. that involves buying bonds with a maturity longer than Serial correlation A condition found most often in time series the intended investment horizon. Also called riding the in which residuals are correlated across observations. Also yield curve. known as autocorrelation."
+  },
+  {
+    "term": "Rolling windows",
+    "definition": "A backtesting method that uses a Serial-correlation consistent standard errors Method for rolling-window (or walk-forward) framework, rebalances correcting serial correlation. Also known as serial cor- the portfolio after each period, and then tracks perfor- relation and heteroskedasticity adjusted standard errors, mance over time. As new information arrives each period, Newey–West standard errors, and robust standard errors. the investment manager optimizes (revises and tunes) the Service condition A vesting condition that requires the model and readjusts stock positions. employee to complete a period of service provision to the"
+  },
+  {
+    "term": "Rollover risk",
+    "definition": "The likelihood that a property owner will lose an employer. A service condition does not require a perfor- existing tenant and forgo income until a new one is found. mance target to be met."
+  },
+  {
+    "term": "Secured overnight financing rate (SOFR)",
+    "definition": "A daily volume- to these factors. weighted index of rates on qualified cash borrowings col-"
+  },
+  {
+    "term": "Settled in arrears",
+    "definition": "An arrangement in which the interest pay- Split-rate tax system In reference to corporate taxes, a ment is made (i.e., settlement occurs) at the maturity of split-rate system taxes earnings to be distributed as div- the underlying instrument. idends at a different rate than earnings to be retained."
+  },
+  {
+    "term": "Settlement",
+    "definition": "The closing date at which the counterparties of a Corporate profits distributed as dividends are taxed at a derivative contract exchange payment for the underlying lower rate than those retained in the business. as required by the contract. Spot curve Yields-to-maturity on a series of default-risk-free"
+  },
+  {
+    "term": "Shaping risk",
+    "definition": "The sensitivity of a bond’s price to the changing modities, the current price to deliver a physical commodity shape of the yield curve. to a specific location or purchase and transport it away"
+  },
+  {
+    "term": "Share repurchase",
+    "definition": "A transaction in which a company buys from a designated location. back its own shares. Unlike stock dividends and stock Spot rate The interest rate that is determined today for a splits, share repurchases use corporate cash. risk-free, single-unit payment at a specified future date."
+  },
+  {
+    "term": "Shareholder activism",
+    "definition": "A range of actions by a corporation’s Spot yield curve The term structure of spot rates for loans shareholders that are intended to result in some change in made today. the corporation, typically a change in the board of directors, Stabilized NOI Normalized or expected long-term level of net management, or business strategy. operating income level used to value real estate properties."
+  },
+  {
+    "term": "Shareholders’ equity Assets less liabilities; the residual interest Stable dividend policy",
+    "definition": "A policy in which regular dividends are in the assets after subtracting the liabilities. paid that reflect long-run expected earnings. In contrast to"
+  },
+  {
+    "term": "Single-manager fund",
+    "definition": "A fund in which one portfolio manager per share divided by the standard deviation of unexpected or team of portfolio managers invests in one strategy or earnings per share over a specified prior time period. style. Statistical factor model A multifactor model in which sta-"
+  },
+  {
+    "term": "Sinking fund bond",
+    "definition": "A bond that requires the issuer to set aside to determine portfolios that best explain either historical funds over time to retire the bond issue, thus reducing return covariances or variances. credit risk. Steady-state rate of growth The constant growth rate of"
+  },
+  {
+    "term": "Soft margin classification",
+    "definition": "An adaptation in the support vector two are level and curvature) that empirically explain most machine algorithm which adds a penalty to the objec- of the changes in the shape of the yield curve. tive function for observations in the training set that are Step-up clauses Pre-specified contractual future rent increases. misclassified. Stock dividend A type of dividend in which a company distrib-"
+  },
+  {
+    "term": "Soft-catalyst event-driven approach",
+    "definition": "An event-driven utes additional shares of its common stock to shareholders approach in which investments are made proactively in instead of cash. anticipation of a corporate event (mergers and acquisi- Stop-loss limit Constraint used in risk management that tions, bankruptcies, share issuances, buybacks, capital requires a reduction in the size of a portfolio, or its com- restructurings, re-organizations, accounting changes) that plete liquidation, when a loss of a particular size occurs has yet to occur. in a specified period."
+  },
+  {
+    "term": "Sovereign yield spread",
+    "definition": "The spread between the yield on a Straight bond An underlying option-free bond with a specified foreign country’s sovereign bond and a similar-maturity issuer, issue date, maturity date, principal amount and domestic sovereign bond. repayment structure, coupon rate and payment structure,"
+  },
+  {
+    "term": "Special dividend",
+    "definition": "A dividend paid by a company that does not and currency denomination. pay dividends on a regular schedule, or a dividend that Straight debt Debt with no embedded options. supplements regular cash dividends with an extra payment. Straight voting A shareholder voting process in which share-"
+  },
+  {
+    "term": "Spin off",
+    "definition": "When a company separates a distinct part of its busi- during the life of the lease. ness into a new, independent company. The term is used Straight-line rent adjustment See non-cash rent. to describe both the transaction and the separated com- Stranded assets A resource that is no longer economically ponent, while the company that conducts the transaction valuable owing to changes in demand, regulations, or and formerly owned the spin off is known as the parent. availability of substitutes—for example, a newly discovered oil well that will not be brought into production."
+  },
+  {
+    "term": "Spot price",
+    "definition": "The current price of an asset or security. For com-"
+  },
+  {
+    "term": "Standardized beta With reference to fundamental factor\nSimulation",
+    "definition": "A technique for exploring how a target variable models, the value of the attribute for an asset minus the (e.g. portfolio returns) would perform in a hypothetical average value of the attribute across all stocks, divided by environment specified by the user, rather than a historical the standard deviation of the attribute across all stocks. setting. Standardized unexpected earnings Unexpected earnings"
+  },
+  {
+    "term": "Straight-line rent",
+    "definition": "The average annual rent under a multi-year company-specific risk. lease agreement that contains contractual increases in rent"
+  },
+  {
+    "term": "Stress tests",
+    "definition": "A risk management technique that assesses the company to the acquirer. portfolio’s response to extreme market movements. Tangible assets Identifiable, physical assets such as property,"
+  },
+  {
+    "term": "Stripping",
+    "definition": "A dealer’s ability to separate a bond’s individual cash plant, and equipment. flows and trade them as zero-coupon securities. Tangible book value per share Common shareholders’ equity"
+  },
+  {
+    "term": "Stub trading",
+    "definition": "An equity market-neutral strategy that capitalizes minus intangible assets reported on the balance sheet, on misalignment in prices and entails buying and selling divided by the number of shares outstanding. stock of a parent company and its subsidiaries, typically Target In machine learning, the dependent variable (Y) in a weighted by the percentage ownership of the parent com- labeled dataset; the company in a merger or acquisition pany in the subsidiaries. that is being acquired."
+  },
+  {
+    "term": "Studentized deleted residual",
+    "definition": "A deleted residual divided by Target capital structure Management’s desired proportions of its estimated standard deviation. debt and equity financing, usually stated on a book value"
+  },
+  {
+    "term": "Subject property",
+    "definition": "A real estate property that is being appraised. Target payout ratio A strategic corporate goal representing"
+  },
+  {
+    "term": "Succession event",
+    "definition": "A change of corporate structure of the the long-term proportion of earnings that the company reference entity, such as through a merger, a divestiture, intends to distribute to shareholders as dividends. a spinoff, or any similar action, in which ultimate respon- Taxable REIT subsidiaries Subsidiaries that pay income sibility for the debt in question is unclear. taxes on earnings from non-REIT-qualifying activities,"
+  },
+  {
+    "term": "Sum-of-the-parts valuation",
+    "definition": "A valuation approach that con- such as merchant development or third-party property siders the value of a firm’s business segments if they are management. sold separately. Technical indicators Momentum indicators based on price."
+  },
+  {
+    "term": "Summation operator",
+    "definition": "A functional part of a neural network’s TED spread A measure of perceived credit risk determined node that multiplies each input value received by a weight as the difference between Libor and the T-bill yield of and sums the weighted values to form the total net input, matching maturity. which is then passed to the activation function. Temporal method A variation of the monetary/non-monetary"
+  },
+  {
+    "term": "Supervised learning",
+    "definition": "A type of machine learning in which the that are measured at their current value on the balance system attempts to learn to model relationships based on sheet date to be translated at the current exchange rate. labeled training data. Assets and liabilities are translated at rates consistent with"
+  },
+  {
+    "term": "Support vector machine",
+    "definition": "A linear classifier that determines the timing of their measurement value. This method is the hyperplane that optimally separates the observations typically used when the functional currency is other than into two sets of data points. the local currency."
+  },
+  {
+    "term": "Sustainable growth rate",
+    "definition": "The rate of dividend (and earnings) from continually reinvesting at the short-term rate over growth that can be sustained over time for a given level that same time horizon. of return on equity, keeping the capital structure constant Terminal cap rate Capitalization rate for a real estate prop- and without issuing additional common stock. erty used to discount a final projected NOI that typically"
+  },
+  {
+    "term": "Swap curve",
+    "definition": "The term structure of swap rates. incorporates a constant future growth rate."
+  },
+  {
+    "term": "Swap rate",
+    "definition": "The fixed rate to be paid by the fixed-rate payer Terminal price multiples The price multiple for a stock specified in a swap contract. assumed to hold at a stated future time."
+  },
+  {
+    "term": "Swap rate curve",
+    "definition": "The term structure of swap rates. Terminal share price The share price at a particular point in"
+  },
+  {
+    "term": "Swap spread",
+    "definition": "The difference between the fixed rate on an the future. interest rate swap and the rate on a Treasury note with Terminal value of the stock The analyst’s estimate of a stock’s equivalent maturity; it reflects the general level of credit value at a particular point in the future. Also called con- risk in the market. tinuing value of the stock."
+  },
+  {
+    "term": "Synergies",
+    "definition": "The combination of two companies being more Test sample A data sample that is used to test a model’s ability valuable than the sum of the parts. Generally, synergies to predict well on new data. take the form of lower costs (“cost synergies”) or increased Theta The change in a derivative instrument for a given small revenues (“revenue synergies”) through combinations that change in calendar time, holding everything else constant. generate lower costs or higher revenues, respectively. Specifically, the theta calculation assumes nothing changes"
+  },
+  {
+    "term": "Systematic risk is also known as non-diversifiable Time series",
+    "definition": "A set of observations on a variable’s outcomes in or market risk. different time periods."
+  },
+  {
+    "term": "Tail risk",
+    "definition": "The possibility of extreme losses."
+  },
+  {
+    "term": "The current rate method is the prevalent method of\nCox-Ingersoll-Ross model",
+    "definition": "A general equilibrium term struc- translation. ture model that assumes interest rates are mean reverting Curvature One of the three factors (the other two are level and and interest rate volatility is directly related to the level steepness) that empirically explain most of the changes of interest rates. in the shape of the yield curve. A shock to the curvature"
+  },
+  {
+    "term": "The estimated value is the present value of the expected\nHierarchical clustering",
+    "definition": "An iterative unsupervised learning future income from the property, including proceeds from procedure used for building a hierarchy of clusters. resale at the end of a typical investment holding period."
+  },
+  {
+    "term": "The master agreement establishes the terms Leading P/E",
+    "definition": "A P/E calculated on the basis of a forecast of for each party involved in the transaction. EPS; a stock’s current price divided by next year’s expected"
+  },
+  {
+    "term": "The model is calibrated to market data and uses a bino- Information ratio",
+    "definition": "The ratio of mean active return to standard mial lattice approach to generate a distribution of possible deviation (active return). future interest rates. Insiders Corporate managers and board directors who are also"
+  },
+  {
+    "term": "The partici- Learning rate",
+    "definition": "A parameter that affects the magnitude of pants maintain their independence otherwise and continue adjustments in the weights in a neural network. to do business apart from the joint venture, but they share Lessee Tenant or property user that enters a lease with a in the joint venture’s profits or losses. property owner or lessor."
+  },
+  {
+    "term": "They are generally a function of the physical characteristics Commodity swap",
+    "definition": "A type of swap involving the exchange of of the underlying asset and also the interest forgone on the payments over multiple dates as determined by specified funds tied up in the asset. reference prices or indexes relating to commodities."
+  },
+  {
+    "term": "They can be Exercise value",
+    "definition": "The value of an option if it were exercised. Also exercised by the issuer, by the bondholder, or automatically sometimes called intrinsic value. depending on the course of interest rates. Expanded CAPM An adaptation of the CAPM that adds to the"
+  },
+  {
+    "term": "Time-series momentum",
+    "definition": "A managed futures trend following Underlying earnings Earnings excluding nonrecurring com- strategy in which managers go long assets that are rising ponents. Also referred to as continuing earnings, core in price and go short assets that are falling in price. The earnings, or persistent earnings. manager trades on an absolute basis, so be net long or net Unexpected earnings The difference between reported EPS short depending on the current price trend of an asset. This and expected EPS. Also referred to as an earnings surprise. approach works best when an asset’s own past returns are Unfunded Post-employment plans for which the sponsor has a good predictor of its future returns. not set aside assets to pay benefits. Benefits for unfunded"
+  },
+  {
+    "term": "Tobin’s q",
+    "definition": "The ratio of the market value of debt and equity to plans are paid from company cash the replacement cost of total assets. Unit root A time series that is not covariance stationary is said"
+  },
+  {
+    "term": "Token",
+    "definition": "The equivalent of a word (or sometimes a character). to have a unit root."
+  },
+  {
+    "term": "Tokenization",
+    "definition": "The process of representing ownership rights Units of comparison Measure used to compare the current to physical assets on a blockchain or distributed ledger. market value of real estate properties, such as purchase"
+  },
+  {
+    "term": "Total factor productivity (TFP)",
+    "definition": "A multiplicative scale factor price per square meter or square foot of leasable area or that reflects the general level of productivity or technol- total area. ogy in the economy. Changes in total factor productivity Unrestricted model A regression model with the complete generate proportional changes in output for any input set of independent variables. combination. Unsupervised learning A type of machine learning in which"
+  },
+  {
+    "term": "Total invested capital",
+    "definition": "The sum of market value of common the system tries to learn the structure of unlabeled data. equity, book value of preferred equity, and face value of Upfront payment The difference between the credit spread debt. and the standard rate paid by the protection buyer if the"
+  },
+  {
+    "term": "Tracking error",
+    "definition": "The standard deviation of the differences standard rate is insufficient to compensate the protection between a portfolio’s returns and its benchmark’s returns; seller. Also called upfront premium. a synonym of active risk. Upfront premium See upfront payment."
+  },
+  {
+    "term": "Tracking risk",
+    "definition": "The standard deviation of the differences between Upstream A transaction between two related companies, an a portfolio’s returns and its benchmarks returns. Also investor company (or a parent company) and an associate called tracking error. company (or a subsidiary company) such that the asso-"
+  },
+  {
+    "term": "Trailing P/E",
+    "definition": "A stock’s current market price divided by the investor company or by a subsidiary to a parent company. most recent four quarters of EPS (or the most recent two Validation sample A data sample that is used to validate and semi-annual periods for companies that report interim tune a model. data semi-annually). Also called current P/E. Valuation The process of determining the value of an asset"
+  },
+  {
+    "term": "Trailing dividend yield",
+    "definition": "The reciprocal of current market price ciate company records a profit on its income statement. divided by the most recent annualized dividend. An example is a sale of inventory by the associate to the"
+  },
+  {
+    "term": "Training sample",
+    "definition": "A data sample that is used to train a model. or service either on the basis of variables perceived to"
+  },
+  {
+    "term": "Tranche CDS",
+    "definition": "A type of credit default swap that covers a com- be related to future investment returns or on the basis of bination of borrowers but only up to pre-specified levels comparisons with closely similar assets. of losses. Value additivity An arbitrage opportunity when the value of"
+  },
+  {
+    "term": "Transaction exposure",
+    "definition": "The risk of a change in value between the whole equals the sum of the values of the parts. the transaction date and the settlement date of an asset of Value at risk (VaR) The minimum loss that would be expected liability denominated in a foreign currency. a certain percentage of the time over a certain period of"
+  },
+  {
+    "term": "Trend",
+    "definition": "A long-term pattern of movement in a particular share and the no-growth value per share. direction. Variance error Describes how much a model’s results change"
+  },
+  {
+    "term": "Triangular arbitrage",
+    "definition": "An arbitrage transaction involving three in response to new data from validation and test samples. currencies that attempts to exploit inconsistencies among Unstable models pick up noise and produce high variance pairwise exchange rates. error, causing overfitting and high out-of-sample error."
+  },
+  {
+    "term": "Trimming Also called truncation, it is the process of removing Variance inflation factor (VIF)",
+    "definition": "A statistic that quantifies the extreme values and outliers from a dataset. degree of multicollinearity in a model."
+  },
+  {
+    "term": "Two-tier board Board structure consisting of a supervisory Vasicek model",
+    "definition": "A partial equilibrium term structure model board that oversees a management board. that assumes interest rates are mean reverting and interest"
+  },
+  {
+    "term": "Unbiased expectations theory",
+    "definition": "A term structure theory that rate volatility is constant. contends the forward rate is an unbiased predictor of the Vega A measure of the sensitivity of an option’s price to changes future spot rate. Also called the pure expectations theory. in the underlying’s volatility."
+  },
+  {
+    "term": "Unconditional heteroskedasticity",
+    "definition": "When heteroskedasticity Vertical ownership Ownership structure in which a company of the error variance is not correlated with the regression’s or group that has a controlling interest in two or more independent variables. holding companies, which in turn have controlling interests"
+  },
+  {
+    "term": "Uncovered interest rate parity",
+    "definition": "The proposition that the in various operating companies. expected return on an uncovered (i.e., unhedged) foreign Vesting The process of an employee becoming unconditionally currency (risk-free) investment should equal the return on entitled to, and an employer becoming obligated to pay, a comparable domestic currency investment. compensation."
+  },
+  {
+    "term": "Underfunded plan",
+    "definition": "A DB plan with a negative funded status; Visibility The extent to which a company’s operations are the present value of the DB obligation is greater than the predictable with substantial confidence. fair value of plan assets. Voting caps Legal restrictions on the voting rights of large share positions."
+  },
+  {
+    "term": "Value of growth",
+    "definition": "The difference between the actual value per"
+  },
+  {
+    "term": "Weighted average cost of capital (WACC)",
+    "definition": "The expected cost Yield curve factor model A model or a description of yield of debt and equity weighted by the proportion of each used curve movements that can be considered realistic when in a company’s capital structure. compared with historical data."
+  },
+  {
+    "term": "Winsorization",
+    "definition": "The process of replacing extreme values and discount and pays its full face value at maturity. outliers in a dataset with the maximum (for large value Zero-coupon bonds Bonds that do not pay interest during outliers) and minimum (for small value outliers) values their life. They are issued at a discount to par value and of data points that are not outliers. redeemed at par. Also called pure discount bond."
+  },
+  {
+    "term": "Zero",
+    "definition": "A bond that does not pay a coupon but is priced at a"
+  }
+]

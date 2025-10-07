@@ -5,7 +5,8 @@ title: "Accounting for the iPhone at Apple Inc."
 course: "FRC"
 date_published: 2011-09-10
 date_read: 2025-09-16
-professor: "Wang & Heese"
+class_number: 4
+professor: "Brian Baik"
 tags: [case-study, revenue-recognition, subscription-accounting, non-GAAP, technology]
 industry: "Technology/Consumer Electronics"
 company: "Apple Inc."
@@ -286,4 +287,4 @@ teaching_objectives: [Understanding revenue recognition principles, Subscription
 
 ---
 *Original PDF*: [[9-111-003 Accounting for iPhone at Apple.pdf]]
-*Takeaway Slides*: [[iPhone Takeaway Slides.pdf]]
+*Takeaway Slides*: [[9-111-003 Accounting for iPhone at Apple - Takeaway Slides.pdf]]

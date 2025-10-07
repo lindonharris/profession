@@ -4,9 +4,9 @@
 Central repository for all Harvard Business School case studies. Cases are organized by course, date, and topic for easy reference and cross-linking.
 
 ## Quick Stats
-- **Total Cases**: 27
+- **Total Cases**: 49
 - **Courses Covered**: 7 (START, MKT, STRAT, TOM, LEAD, FRC, FIN1)
-- **Last Updated**: 2025-09-30
+- **Last Updated**: 2025-10-06
 
 ## By Course
 
@@ -22,15 +22,28 @@ Central repository for all Harvard Business School case studies. Cases are organ
 - [[N1-726-353 Yanhai Aluminum]] - Green aluminum investment and supply curve analysis
 - [[9-722-395 Walmart USA]] - Growth strategy and competitive advantage in retail
 - [[N9-725-390 Royal Opera House]] - Portfolio strategy and funding management in performing arts
+- [[N2-725-366 Preparing for Growth in the Fiber Optics Industry]] - Capacity expansion decisions and game theory in oligopolistic markets
+- [[N2-716-428 Ryanair]] - Airline market entry strategy, competitive response prediction, game theory
+- [[9-720-390 Keroche (A) Fighting for Share in the Kenyan Alcoholic Drinks Market]] - Competitive response to incumbent, emerging markets, institutional challenges
+- [[9-713-478 LEGO (A) The Crisis]] - Turnaround strategy from bankruptcy, complexity management, return to core competency
 
 ### Finance (FRC - Financial Reporting & Control)
 - [[9-111-003 Accounting for iPhone at Apple]] - Revenue recognition and subscription accounting
 - [[9-120-126 Mira's Microbrewery Inc]] - Financial statements, inventory accounting, cash vs profit
+- [[9-121-022 Accounting for Revenues]] - Revenue recognition, deferred revenue (Southwest Airlines), sales return allowances (Purple), bad debt expense (Crocs)
 - [[114-024 University of Phoenix]] - Accounts receivable, bad debt expense, and revenue recognition in for-profit education
+- [[9-117-038 Signet Jewelers Assessing Customer Financing Risk]] - Accounts receivable analysis, recency vs contractual accounting, credit risk assessment
+- [[9-119-032 Stock-Based Compensation at Twitter]] - Stock-based compensation accounting, GAAP vs. non-GAAP reporting, RSUs and stock options
+- [[9-121-017 Ketchup and Hotdog Synergies]] - Acquisition accounting, intangible assets, goodwill, impairment testing
+- [[9-121-018 Capitalizing Development Costs at Fiat Chrysler and Volkswagen]] - R&D capitalization, IFRS vs US GAAP, development costs, intangible assets, amortization
 
 ### FIN1 (Finance 1)
 - [[2-222-011 Butler Lumber Company]] - Working capital management, growth financing, and banking relationships
 - [[N2-222-013 Patrimonio Hoy]] - Household borrowing vs lending rates, IRR, social enterprise finance
+- [[9-219-009 Project Helios Harvesting the Sun]] - NPV analysis, time value of money, residential solar investment decision
+- [[9-223-003 The Mighty Squirrel Brewery and Taproom]] - Financial forecasting, funding needs, strategic pivot from national to local brewery
+- [[N9-225-112 Progyny (Abridged)]] - DCF valuation, perpetuities, terminal value, regulatory risk assessment (Alabama IVF ruling)
+- [[9-222-018 Hamilton An American Musical]] - Decision tree analysis, real options valuation, expected cash flows, Broadway investment under uncertainty
 
 ### MKT (Marketing)
 - [[9-522-006 Supreme]] - Brand management and acquisition integration
@@ -39,6 +52,11 @@ Central repository for all Harvard Business School case studies. Cases are organ
 - [[9-518-024 Chase Sapphire]] - Premium credit card branding and millennial marketing
 - [[N2-524-004 Predicting the Diffusion of New Products]] - Product diffusion analysis across four innovations
 - [[9-524-044 Travelogo]] - Customer segmentation and personas using clickstream data
+- [[9-521-027 Digital Marketing at HBS Online]] - Digital marketing budget allocation, attribution modeling, and ROI optimization
+- [[9-523-003 OOFOS Recovery Footwear]] - Target audience selection, recovery vs comfort positioning, digital marketing mix optimization
+- [[N2-525-007 Gilead Hepatitis C Access Strategy]] - Pricing strategy, tiered pricing, global market segmentation, pricing thermometer framework
+- [[9-519-022 Glossier Co-Creating a Cult Brand with a Digital Community]] - DTC brands, social commerce, influencer marketing, community co-creation
+- [[9-521-021 Artea Designing Targeting Strategies]] - A/B testing, sales promotion targeting, customer segmentation, heterogeneous treatment effects
 
 ### Operations
 - 
@@ -46,6 +64,8 @@ Central repository for all Harvard Business School case studies. Cases are organ
 ### Leadership & Organizational Behavior (LEAD)
 - [[9-423-021 Jackie Hu]] - First-time leadership and crisis management
 - [[4-411-031 Erik Peterson at Biometra]] - First-time manager facing organizational dysfunction and product launch crisis
+- [[9-425-061 Radical Transformation at Bayer]] - Organizational transformation through dynamic shared ownership (DSO) and debureaucratization
+- [[9-404-025 C&S Wholesale Grocers]] - Self-managed teams implementation decision in wholesale grocery warehouse operations
 
 ### Entrepreneurship
 - 
@@ -53,6 +73,10 @@ Central repository for all Harvard Business School case studies. Cases are organ
 ### Technology & Operations Management (TOM)
 - [[N9-602-040 Donner Company]] - PCB manufacturing operations and bottleneck management
 - [[9-688-122 National Cranberry Cooperative]] - Process flow analysis and capacity bottlenecks in agricultural processing
+- [[9-615-044 Trouble at Tessei]] - Operations turnaround and service quality in time-constrained train cleaning
+- [[624-092 Hospital for Special Surgery]] - COVID-19 reopening operations, patient flow bottlenecks, capacity planning
+- [[9-621-006 Student Success at Georgia State University]] - Process improvement, predictive analytics, equity outcomes in higher education
+- [[9-693-019 Toyota Motor Manufacturing]] - Toyota Production System, JIT, jidoka, andon cord, kaizen, quality vs. productivity tradeoffs
 
 ### Business, Government & International Economy
 - 
@@ -65,21 +89,40 @@ Central repository for all Harvard Business School case studies. Cases are organ
 - [[9-423-021 Jackie Hu]] - Nordstrom Rack (off-price retail/e-commerce)
 - [[4-411-031 Erik Peterson at Biometra]] - Medical devices/biotechnology
 - [[9-722-395 Walmart USA]] - Discount retail and e-commerce
+- [[9-117-038 Signet Jewelers Assessing Customer Financing Risk]] - Specialty jewelry retail (Kay, Zales, Jared)
+- [[9-523-003 OOFOS Recovery Footwear]] - Recovery and athletic footwear, digital marketing, DTC strategy
 
 ### Healthcare & Life Sciences
 - [[9-505-078 Narayana Hrudayalaya Heart Hospital]] - Cardiac care in India
+- [[624-092 Hospital for Special Surgery]] - Orthopedic hospital operations and COVID-19 reopening
 
 ### Arts & Entertainment
 - [[N9-725-390 Royal Opera House]] - Performing arts (opera and ballet)
+- [[9-222-018 Hamilton An American Musical]] - Broadway musical theater production and investment
 
 ### Technology
 - [[9-509-049 HubSpot]] - SaaS marketing software
 - [[9-111-003 Accounting for iPhone at Apple]] - Consumer electronics and software
 - [[N2-524-004 Predicting the Diffusion of New Products]] - John Deere AI farming software
 - [[9-524-044 Travelogo]] - Online travel platform and data analytics
+- [[9-119-032 Stock-Based Compensation at Twitter]] - Social media platform and employee compensation
 
-### Pharmaceutical
-- [[9-524-035 Cialis]] - Erectile dysfunction treatment market entry 
+### Telecommunications
+- [[N2-725-366 Preparing for Growth in the Fiber Optics Industry]] - Fiber optics cable manufacturing and capacity expansion
+
+### Energy & Utilities
+- [[9-219-009 Project Helios Harvesting the Sun]] - Residential solar power and renewable energy
+
+### Education
+- [[114-024 University of Phoenix]] - For-profit higher education
+- [[9-621-006 Student Success at Georgia State University]] - Public university operations, student success, predictive analytics
+
+### Education Technology
+- [[9-521-027 Digital Marketing at HBS Online]] - Online education and digital marketing
+
+### Pharmaceutical & Life Sciences
+- [[9-524-035 Cialis]] - Erectile dysfunction treatment market entry
+- [[9-425-061 Radical Transformation at Bayer]] - Life sciences company (pharmaceuticals, crop science, consumer health) 
 
 ### Financial Services
 - [[9-518-024 Chase Sapphire]] - Credit card industry
@@ -92,18 +135,26 @@ Central repository for all Harvard Business School case studies. Cases are organ
 - [[9-688-122 National Cranberry Cooperative]] - Agricultural processing and seasonal operations
 - [[9-120-126 Mira's Microbrewery Inc]] - Craft beer manufacturing and bourbon barrel aging
 - [[N1-726-353 Yanhai Aluminum]] - Aluminum smelting and green production
+- [[9-223-003 The Mighty Squirrel Brewery and Taproom]] - Craft brewery startup, contract vs owned manufacturing, taproom economics
+
+### Automotive Manufacturing
+- [[9-121-018 Capitalizing Development Costs at Fiat Chrysler and Volkswagen]] - Auto industry R&D, IFRS vs US GAAP accounting standards
+
+### Transportation & Logistics
+- [[9-615-044 Trouble at Tessei]] - Railway services and high-speed train cleaning operations
+
+### Aviation
+- [[N2-716-428 Ryanair]] - European airline industry, low-cost carrier market entry
 
 ### Retail/Distribution
 - [[2-222-011 Butler Lumber Company]] - Lumber distribution and retail
+- [[9-404-025 C&S Wholesale Grocers]] - Wholesale grocery distribution and warehouse operations
 
 ### Construction & Building Materials
 - [[N2-222-013 Patrimonio Hoy]] - Cement manufacturing and low-income housing finance
 
 ### Energy & Environment
-- [[N1-726-353 Yanhai Aluminum]] - Green aluminum and renewable energy transition
-
-### Education
-- [[114-024 University of Phoenix]] - For-profit higher education 
+- [[N1-726-353 Yanhai Aluminum]] - Green aluminum and renewable energy transition 
 
 ## By Geographic Focus
 
@@ -113,6 +164,9 @@ Central repository for all Harvard Business School case studies. Cases are organ
 
 #### China
 - [[N1-726-353 Yanhai Aluminum]] - Yunnan Province
+
+#### Japan
+- [[9-615-044 Trouble at Tessei]] - Tokyo
 
 ### North America
 - [[9-425-009 Keurig A Return to Growth]] - United States
@@ -128,16 +182,23 @@ Central repository for all Harvard Business School case studies. Cases are organ
 - [[9-524-035 Cialis]] - United States
 - [[114-024 University of Phoenix]] - United States
 - [[2-222-011 Butler Lumber Company]] - United States (Pacific Northwest)
+- [[624-092 Hospital for Special Surgery]] - United States (New York City, NY)
+- [[9-621-006 Student Success at Georgia State University]] - United States (Atlanta, Georgia)
+- [[9-404-025 C&S Wholesale Grocers]] - United States (Brattleboro, Vermont)
+- [[9-222-018 Hamilton An American Musical]] - United States (New York City)
 
 ### Europe
 - [[N9-725-390 Royal Opera House]] - United Kingdom
+- [[N2-716-428 Ryanair]] - Ireland, United Kingdom, Europe-wide
+- [[9-121-018 Capitalizing Development Costs at Fiat Chrysler and Volkswagen]] - Netherlands/Italy (FCA), Germany (VW), Global operations
 
 ### Latin America
 #### Mexico
 - [[N2-222-013 Patrimonio Hoy]] - Guadalajara and 22 cities
 
 ### Africa
-- 
+#### Kenya
+- [[9-720-390 Keroche (A) Fighting for Share in the Kenyan Alcoholic Drinks Market]] - Nairobi, Naivasha
 
 ## By Key Themes
 
@@ -152,32 +213,50 @@ Central repository for all Harvard Business School case studies. Cases are organ
 - [[N9-725-390 Royal Opera House]] - Public service mission and accessibility
 - [[N1-726-353 Yanhai Aluminum]] - Green aluminum and carbon neutrality transition
 - [[N2-222-013 Patrimonio Hoy]] - Base of pyramid housing finance and social enterprise
+- [[9-621-006 Student Success at Georgia State University]] - Educational equity and eliminating achievement gaps
 
 ### Growth Strategy
 - [[9-425-009 Keurig A Return to Growth]] - Post-turnaround strategic options
 - [[9-509-049 HubSpot]] - Customer segment targeting and scaling
 - [[9-518-024 Chase Sapphire]] - Portfolio expansion and customer acquisition
 - [[9-722-395 Walmart USA]] - Growth priorities and capital allocation
-- [[2-222-011 Butler Lumber Company]] - Growth financing and working capital management 
+- [[2-222-011 Butler Lumber Company]] - Growth financing and working capital management
+- [[N2-725-366 Preparing for Growth in the Fiber Optics Industry]] - Capacity expansion under competitive uncertainty 
 
 ### Digital Transformation
 - [[9-509-049 HubSpot]] - Inbound marketing revolution
 - [[9-423-021 Jackie Hu]] - E-commerce platform consolidation
 - [[9-524-044 Travelogo]] - Clickstream data and behavioral analytics
+- [[9-521-027 Digital Marketing at HBS Online]] - Digital marketing attribution and ROI optimization
+- [[9-621-006 Student Success at Georgia State University]] - Predictive analytics for student success and retention
+- [[9-523-003 OOFOS Recovery Footwear]] - DTC channel growth and digital marketing budget optimization
 
 ### Globalization
 - 
+
+### Competitive Strategy & Game Theory
+- [[N2-713-470 Cola Wars Continue]] - Duopoly competition and strategic interaction
+- [[N2-725-366 Preparing for Growth in the Fiber Optics Industry]] - Oligopolistic competition and capacity expansion games
+- [[N2-716-428 Ryanair]] - Market entry and competitive response prediction
+- [[9-720-390 Keroche (A) Fighting for Share in the Kenyan Alcoholic Drinks Market]] - Incumbent monopoly competitive response, emerging market entrepreneurship
 
 ### Crisis Management
 - [[9-423-021 Jackie Hu]] - Project crisis with <50 days to launch
 - [[4-411-031 Erik Peterson at Biometra]] - Product launch crisis with <60 days to launch
 - [[N9-725-390 Royal Opera House]] - Funding crisis threatening mission viability
+- [[624-092 Hospital for Special Surgery]] - COVID-19 reopening operations and patient safety
+- [[9-425-061 Radical Transformation at Bayer]] - Financial and litigation crisis amid organizational transformation
+
+### Organizational Transformation
+- [[9-425-061 Radical Transformation at Bayer]] - Dynamic shared ownership (DSO) and debureaucratization
+- [[9-404-025 C&S Wholesale Grocers]] - Self-managed teams implementation in warehouse operations
 
 ## By Decision Type
 
 ### Market Entry
 - [[9-509-049 HubSpot]] - Target market selection (Ollie vs Mary)
-- [[9-524-035 Cialis]] - Competitive positioning against dominant incumbent (Viagra) 
+- [[9-524-035 Cialis]] - Competitive positioning against dominant incumbent (Viagra)
+- [[N2-716-428 Ryanair]] - Airline startup launching on major route against flag carriers 
 
 ### Scaling Operations
 - [[9-505-078 Narayana Hrudayalaya Heart Hospital]]
@@ -194,6 +273,7 @@ Central repository for all Harvard Business School case studies. Cases are organ
 ### Organizational Change
 - [[9-423-021 Jackie Hu]] - Peer-to-manager transition during crisis
 - [[4-411-031 Erik Peterson at Biometra]] - First-time GM managing organizational dysfunction
+- [[9-615-044 Trouble at Tessei]] - Operations turnaround and culture transformation
 
 ## Chronological List
 
@@ -223,6 +303,32 @@ Central repository for all Harvard Business School case studies. Cases are organ
 - [[9-688-122 National Cranberry Cooperative]] - Read: 2025-09-17 (TOM)
 - [[2-222-011 Butler Lumber Company]] - Read: 2025-09-22 (FIN1)
 - [[N2-222-013 Patrimonio Hoy]] - Read: 2025-09-30 (FIN1)
+
+#### October
+- [[9-615-044 Trouble at Tessei]] - Read: 2025-10-05 (TOM)
+- [[9-117-038 Signet Jewelers Assessing Customer Financing Risk]] - Read: 2025-10-05 (FRC)
+- [[624-092 Hospital for Special Surgery]] - Read: 2025-10-05 (TOM)
+- [[9-521-027 Digital Marketing at HBS Online]] - Read: 2025-10-05 (MKT)
+- [[N2-725-366 Preparing for Growth in the Fiber Optics Industry]] - Read: 2025-10-05 (STRAT)
+- [[9-425-061 Radical Transformation at Bayer]] - Read: 2025-10-05 (LEAD)
+- [[9-219-009 Project Helios Harvesting the Sun]] - Read: 2025-10-05 (FIN1)
+- [[N2-716-428 Ryanair]] - Read: 2025-10-05 (STRAT)
+- [[9-621-006 Student Success at Georgia State University]] - Read: 2025-10-05 (TOM)
+- [[9-523-003 OOFOS Recovery Footwear]] - Read: 2025-10-05 (MKT)
+- [[9-119-032 Stock-Based Compensation at Twitter]] - Read: 2025-10-05 (FRC)
+- [[9-223-003 The Mighty Squirrel Brewery and Taproom]] - Read: 2025-10-05 (FIN1)
+- [[9-121-017 Ketchup and Hotdog Synergies]] - Read: 2025-10-05 (FRC)
+- [[9-693-019 Toyota Motor Manufacturing]] - Read: 2025-10-05 (TOM)
+- [[N2-525-007 Gilead Hepatitis C Access Strategy]] - Read: 2025-10-05 (MKT)
+- [[9-121-018 Capitalizing Development Costs at Fiat Chrysler and Volkswagen]] - Read: 2025-10-05 (FRC)
+- [[9-121-022 Accounting for Revenues]] - Read: 2025-10-05 (FRC)
+- [[9-404-025 C&S Wholesale Grocers]] - Read: 2025-10-05 (LEAD)
+- [[9-720-390 Keroche (A) Fighting for Share in the Kenyan Alcoholic Drinks Market]] - Read: 2025-10-06 (STRAT)
+- [[9-519-022 Glossier Co-Creating a Cult Brand with a Digital Community]] - Read: 2025-10-06 (MKT)
+- [[N9-225-112 Progyny (Abridged)]] - Read: 2025-10-06 (FIN1)
+- [[9-222-018 Hamilton An American Musical]] - Read: 2025-10-06 (FIN1)
+- [[9-521-021 Artea Designing Targeting Strategies]] - Read: 2025-10-06 (MKT)
+- [[9-713-478 LEGO (A) The Crisis]] - Read: 2025-10-06 (STRAT)
 
 ## Study Groups & Discussions
 

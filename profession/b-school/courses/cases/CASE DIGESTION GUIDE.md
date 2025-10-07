@@ -120,14 +120,27 @@ company: "Company Name"
 
 ### Location
 ALL case-related materials go in central attachments folder:
-- **PDFs**: `/courses/cases/attachments/[Case-Number] [Company Name].pdf`
-- **Excel Exhibits**: `/courses/cases/attachments/[Case-Number] [Company Name] Exhibits.xls`
-- **Other Materials**: `/courses/cases/attachments/[Case-Number] [Company Name] [Type].[ext]`
+- **Main PDFs**: `/courses/cases/attachments/[Case-Number] [Full Case Title].pdf`
+- **Supplementary Materials**: `/courses/cases/attachments/[Case-Number] [Full Case Title] - [Descriptor].[ext]`
 
-### Examples
-- `/courses/cases/attachments/9-505-078 Narayana Hrudayalaya Heart Hospital.pdf`
-- `/courses/cases/attachments/9-509-049 HubSpot.pdf`
-- `/courses/cases/attachments/9-509-049 HubSpot Exhibits.xls`
+### Naming Standard
+**Main case PDFs:**
+- Format: `[case_number] [Full Title].pdf`
+- Example: `9-505-078 Narayana Hrudayalaya Heart Hospital.pdf`
+
+**Supplementary materials (exhibits, templates, slides, etc.):**
+- Format: `[case_number] [Full Title] - [Descriptor].[ext]`
+- Examples:
+  - `9-509-049 HubSpot - Exhibits.xls`
+  - `9-120-126 Mira's Microbrewery Inc - Part 1 Takeaway Slides.pdf`
+  - `114-024 University of Phoenix - Excel Template.xlsx`
+  - `N2-713-470 Cola Wars Continue - 5 Forces Analysis.pdf`
+
+### Key Rules
+- **Always include full case title** (not just case number)
+- **Use space-dash-space (` - `) separator** for supplementary materials
+- **Match case note filename exactly** for main PDF
+- **Be consistent** across all materials for same case
 
 ### Important
 - Do NOT store case materials in individual course folders (e.g., /MKT/resources/)

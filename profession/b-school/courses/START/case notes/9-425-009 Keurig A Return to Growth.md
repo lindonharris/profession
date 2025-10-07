@@ -5,6 +5,7 @@ title: "Keurig: A Return to Growth"
 course: "START"
 date_published: 2024-08-01
 date_read: 2025-09-01
+class_number: 1
 professor: ""
 tags: [case-study, start-week, orientation, ungraded, first-case-discussion, strategy, consumer-goods, coffee, turnaround, growth-strategy, IPO, acquisition, diversification]
 industry: "Consumer Goods / Coffee"

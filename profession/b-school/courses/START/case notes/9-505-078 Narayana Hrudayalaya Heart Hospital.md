@@ -5,6 +5,7 @@ title: "Narayana Hrudayalaya Heart Hospital: Cardiac Care for the Poor (A)"
 course: "START"
 date_published: 2011-08-26
 date_read: 2025-09-02
+class_number: 2
 professor: ""
 tags: [case-study, start-week, orientation, ungraded, healthcare, social-impact, india, operations, innovation, cross-subsidization]
 industry: "Healthcare"

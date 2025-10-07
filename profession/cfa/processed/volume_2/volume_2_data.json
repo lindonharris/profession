@@ -1,0 +1,58 @@
+{
+  "volume": 2,
+  "name": "Economics",
+  "source_file": "cfa-program2025L2V2.pdf",
+  "expected_pages": 172,
+  "actual_pages": 172,
+  "learning_modules": [
+    {
+      "number": "1",
+      "title": "Currency Exchange Rates:",
+      "page": 9
+    },
+    {
+      "number": "2",
+      "title": "Economic Growth",
+      "page": 87
+    }
+  ],
+  "learning_outcomes": [],
+  "key_concepts": [
+    "Currency Exchange Rates",
+    "Economic Growth"
+  ],
+  "formulas": [
+    "S = S ( i − i ) .",
+    "Se = F = 129.67(1.001/1.03) = 126.02.",
+    "S = 79.5093 (0.0752 − 0.0543) .",
+    "USD\n= then",
+    "S = 9% − 5% = 4%) in",
+    "ΔS",
+    "S = nbb + rd",
+    "ΔZ",
+    "USD\n= = 105.41 × 1.1651 = 122.81.",
+    "AUD = JPY 101.51. Paying off",
+    "X = (Y × Z), then",
+    "USD\n= = 105.39 × 1.1649 = 122.77.",
+    "USD\n= = 0.81288 × 1.1651 = 0.9471.",
+    "P = (S )(P ).",
+    "S = P/P .",
+    "S = S i − i .",
+    "F = S e .",
+    "ΔX",
+    "USD\n= × = × .",
+    "F = S . (1)",
+    "BRL = CHF/USD × USD/BRL.",
+    "S = 0.9000 (0.0041 − 0.0147) = − 0.0071.",
+    "BRL = CHF/USD × (BRL/USD)–1, or",
+    "F = S , (Equation 1)",
+    "USD\n= = 0.81274 × 1.1649 = 0.9468.",
+    "EUR =\nGBP 20,000. This cash flow will occur in three mon",
+    "S = 1.576.",
+    "ΔY",
+    "S = 1.2295 − 1.2303 = − 0.0008.",
+    "X = (Y/Z), then"
+  ],
+  "tables_count": 88,
+  "extraction_date": "2025-09-28T23:30:05.966619"
+}
