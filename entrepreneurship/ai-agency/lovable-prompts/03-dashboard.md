@@ -1,4 +1,4 @@
-# Lovable Prompt: Dashboard (Agent Management Hub)
+wsl# Lovable Prompt: Dashboard (Agent Management Hub)
 
 **Phase:** 1 - MVP Launch
 **Page:** Dashboard
