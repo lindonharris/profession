@@ -12,10 +12,10 @@
 
 ## Email #1: Initial Outreach
 **From**: LinDon Harris (lindon.harris@outlook.com)
-**To**: info@bignight.com, reservations@bignight.com
-**Date**: 2025-10-08 (scheduled)
-**Subject**: HBS Halloween Party - Private Event Inquiry (10/31/25, 200 guests)
-**Status**: 📅 Scheduled for 2025-10-08 at 8:00 AM
+**To**: info@bignight.com
+**Date**: 2025-10-07
+**Subject**: Private Event Inquiry - Halloween Party (10/31/25, 100 guests)
+**Status**: ✅ Sent
 
 HBS Halloween Party - Private Event Inquiry (10/31/25, 200 guests)
 
