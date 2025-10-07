@@ -1,0 +1,467 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Venue Map</title>
+
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: #0a0a0a;
+            color: #fff;
+        }
+
+        #map-container {
+            position: relative;
+            width: 100vw;
+            height: 100vh;
+        }
+
+        #map {
+            width: 100%;
+            height: 100%;
+        }
+
+        /* Custom marker styles */
+        .venue-marker {
+            width: 28px;
+            height: 28px;
+            border-radius: 50%;
+            border: 3px solid white;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
+            cursor: pointer;
+            transition: transform 0.2s;
+            background: #ff6b35;
+        }
+
+        .venue-marker:hover {
+            transform: scale(1.3);
+            z-index: 1000 !important;
+        }
+
+        /* Tooltip styles */
+        .leaflet-tooltip {
+            background: rgba(10, 10, 10, 0.98) !important;
+            border: 1px solid #333 !important;
+            border-radius: 6px;
+            color: #fff !important;
+            font-size: 13px;
+            padding: 10px 14px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+        }
+
+        .leaflet-tooltip::before {
+            border-top-color: #333 !important;
+        }
+
+        .tooltip-title {
+            color: #ff6b35;
+            font-weight: 600;
+            font-size: 14px;
+            margin-bottom: 6px;
+        }
+
+        .tooltip-info {
+            color: #ccc;
+            font-size: 12px;
+            line-height: 1.5;
+        }
+
+        .tooltip-label {
+            color: #999;
+            font-size: 11px;
+        }
+
+        /* Popup styles */
+        .leaflet-popup-content-wrapper {
+            background: rgba(10, 10, 10, 0.98) !important;
+            color: #fff !important;
+            border: 1px solid #333;
+            border-radius: 8px;
+        }
+
+        .leaflet-popup-content {
+            margin: 16px;
+            font-size: 13px;
+            line-height: 1.6;
+        }
+
+        .leaflet-popup-content h3 {
+            color: #ff6b35;
+            margin-bottom: 8px;
+            font-size: 16px;
+        }
+
+        .leaflet-popup-content .venue-info {
+            margin-bottom: 6px;
+        }
+
+        .leaflet-popup-content .venue-label {
+            color: #999;
+            font-size: 11px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .leaflet-popup-tip {
+            background: rgba(10, 10, 10, 0.98) !important;
+            border: 1px solid #333;
+        }
+
+        .leaflet-popup-close-button {
+            color: #fff !important;
+        }
+    </style>
+</head>
+<body>
+    <div id="map-container">
+        <div id="map"></div>
+    </div>
+
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+    <script>
+        // AUTO-GENERATED from rolodex.json - DO NOT EDIT MANUALLY
+        // Last generated: 2025-10-07
+        const VENUES = [
+  {
+    "venue_name": "BSMNT (Basement)",
+    "address": "120 Boylston St, Boston, MA 02116",
+    "capacity": "500-600 guests (estimated)",
+    "venue_type": "Upscale nightclub/lounge",
+    "neighborhood": "Boylston Place (Theater District)",
+    "coordinates": {
+      "lat": 42.3519,
+      "lng": -71.0643
+    },
+    "phone": "(617) 778-0089",
+    "website": "https://www.bsmntboston.com"
+  },
+  {
+    "venue_name": "Big Night Live",
+    "address": "110 Causeway Street, Boston, MA 02114",
+    "capacity": "1,200-1,500 (Music Hall), 440 (Studio B), 2,000 total capacity",
+    "venue_type": "Premium live music venue and nightclub",
+    "neighborhood": "North Station/West End",
+    "coordinates": {
+      "lat": 42.3662,
+      "lng": -71.0621
+    },
+    "phone": "(617) 896-5222",
+    "website": "https://bignightlive.com"
+  },
+  {
+    "venue_name": "Bijou Nightclub Boston",
+    "address": "51 Stuart Street, Boston, MA 02116",
+    "capacity": "TBD (estimated 400-600)",
+    "venue_type": "Upscale nightclub and lounge",
+    "neighborhood": "Theater District",
+    "coordinates": {
+      "lat": 42.3519,
+      "lng": -71.0643
+    },
+    "phone": "(617) 357-4565",
+    "website": ""
+  },
+  {
+    "venue_name": "Brighton Music Hall",
+    "address": "158 Brighton Avenue, Allston, MA 02134",
+    "capacity": "480 guests",
+    "venue_type": "Live music venue and concert hall",
+    "neighborhood": "Allston",
+    "coordinates": {
+      "lat": 42.354,
+      "lng": -71.1372
+    },
+    "phone": "(617) 779-0140",
+    "website": "http://crossroadspresents.com/brighton-music-hall"
+  },
+  {
+    "venue_name": "Candibar",
+    "address": "275 Tremont Street, Boston, MA 02116",
+    "capacity": "400-500 guests",
+    "venue_type": "LGBTQ+ nightclub and dance venue",
+    "neighborhood": "Theater District",
+    "coordinates": {
+      "lat": 42.3519,
+      "lng": -71.0643
+    },
+    "phone": "(617) 502-6969",
+    "website": "http://candibar.com"
+  },
+  {
+    "venue_name": "Club Caf\u00e9",
+    "address": "209 Columbus Avenue, Boston, MA 02116",
+    "capacity": "250-300 guests",
+    "venue_type": "LGBTQ+ nightclub with cabaret and dance floor",
+    "neighborhood": "Back Bay",
+    "coordinates": {
+      "lat": 42.3467,
+      "lng": -71.0776
+    },
+    "phone": "(617) 536-0966",
+    "website": "http://clubcafe.com"
+  },
+  {
+    "venue_name": "Hue Boston",
+    "address": "90 Exeter St, Boston, MA 02116",
+    "capacity": "TBD (estimated 200-400)",
+    "venue_type": "Multi-level resto-lounge with Caf\u00e9, Supperclub, and Speakeasy",
+    "neighborhood": "Back Bay (Copley Square Hotel)",
+    "coordinates": {
+      "lat": 42.3489,
+      "lng": -71.0794
+    },
+    "phone": "(857) 991-1710",
+    "website": "https://www.hueboston.com"
+  },
+  {
+    "venue_name": "ICON Nightclub",
+    "address": "100 Warrenton Street, Boston, MA 02116",
+    "capacity": "800-1,000 guests",
+    "venue_type": "Multi-level upscale nightclub with VIP suites",
+    "neighborhood": "Theater District",
+    "coordinates": {
+      "lat": 42.3519,
+      "lng": -71.0643
+    },
+    "phone": "(617) 423-6266",
+    "website": "http://iconboston.com"
+  },
+  {
+    "venue_name": "M\u00e9moire Boston",
+    "address": "Encore Boston Harbor, Everett, MA",
+    "capacity": "650",
+    "venue_type": "Upscale nightclub",
+    "neighborhood": "Encore Boston Harbor (Everett)",
+    "coordinates": {
+      "lat": 42.3912,
+      "lng": -71.0705
+    },
+    "phone": "(617) 405-5171",
+    "website": "https://www.memoireboston.com"
+  },
+  {
+    "venue_name": "Paradise Rock Club",
+    "address": "967 Commonwealth Avenue, Boston, MA 02215",
+    "capacity": "933 guests",
+    "venue_type": "Historic live music venue",
+    "neighborhood": "Allston",
+    "coordinates": {
+      "lat": 42.3503,
+      "lng": -71.1156
+    },
+    "phone": "(617) 562-8800",
+    "website": "http://crossroadspresents.com/paradise-rock-club"
+  },
+  {
+    "venue_name": "Royale Boston",
+    "address": "279 Tremont Street, Boston, MA 02116",
+    "capacity": "1,000-1,500 (Main Room), up to 2,000 total with connected venues",
+    "venue_type": "Upscale nightclub and live music venue",
+    "neighborhood": "Theater District",
+    "coordinates": {
+      "lat": 42.3519,
+      "lng": -71.0643
+    },
+    "phone": "(617) 338-7699",
+    "website": "https://royaleboston.com"
+  },
+  {
+    "venue_name": "The Crystal Ballroom",
+    "address": "1 Lansdowne Street, Boston, MA 02215",
+    "capacity": "600-800 guests",
+    "venue_type": "Multi-purpose event venue and nightclub",
+    "neighborhood": "Fenway",
+    "coordinates": {
+      "lat": 42.3467,
+      "lng": -71.097
+    },
+    "phone": "(617) 351-7000",
+    "website": "http://thecrystalballroomboston.com"
+  },
+  {
+    "venue_name": "The Estate Boston",
+    "address": "1 Boylston Place, Boston, MA 02116",
+    "capacity": "TBD (estimated 400-800)",
+    "venue_type": "Nightclub",
+    "neighborhood": "Theater District",
+    "coordinates": {
+      "lat": 42.3519,
+      "lng": -71.0643
+    },
+    "phone": "(617) 351-7000 (General/Info & Private Events), (617) 407-6000 (VIP Tables & Reservations)",
+    "website": "http://theestateboston.com"
+  },
+  {
+    "venue_name": "The Grand Boston",
+    "address": "58 Seaport Blvd Suite 300, Boston, MA 02210",
+    "capacity": "800 (full venue)",
+    "venue_type": "Luxury nightclub",
+    "neighborhood": "Seaport District",
+    "coordinates": {
+      "lat": 42.35,
+      "lng": -71.0423
+    },
+    "phone": "(617) 322-0200 (Direct), (617) 407-6000 (VIP), (617) 405-5171 (Private Events)",
+    "website": "https://thegrandboston.com"
+  },
+  {
+    "venue_name": "The Harp",
+    "address": "85 Causeway Street, Boston, MA 02114",
+    "capacity": "500-600 guests",
+    "venue_type": "Irish pub with live music and dance floor",
+    "neighborhood": "North Station",
+    "coordinates": {
+      "lat": 42.3662,
+      "lng": -71.0621
+    },
+    "phone": "(617) 742-1010",
+    "website": "http://theharpboston.com"
+  },
+  {
+    "venue_name": "The Middle East",
+    "address": "472-480 Massachusetts Avenue, Cambridge, MA 02139",
+    "capacity": "575 combined (Upstairs: 194, Downstairs: 381)",
+    "venue_type": "Iconic live music venue with multiple performance spaces and restaurant",
+    "neighborhood": "Central Square",
+    "coordinates": {
+      "lat": 42.3656,
+      "lng": -71.104
+    },
+    "phone": "(617) 864-3278",
+    "website": "http://mideastoffers.com"
+  },
+  {
+    "venue_name": "The Sinclair",
+    "address": "52 Church Street, Cambridge, MA 02138",
+    "capacity": "525 guests",
+    "venue_type": "Premium live music venue and restaurant",
+    "neighborhood": "Harvard Square",
+    "coordinates": {
+      "lat": 42.3744,
+      "lng": -71.1189
+    },
+    "phone": "(617) 547-5200",
+    "website": "http://sinclaircambridge.com"
+  },
+  {
+    "venue_name": "Once Ballroom",
+    "address": "156 Highland Avenue, Somerville, MA 02143",
+    "capacity": "300-400 guests",
+    "venue_type": "Live music venue and lounge",
+    "neighborhood": "Davis Square",
+    "coordinates": {
+      "lat": 42.3968,
+      "lng": -71.1224
+    },
+    "phone": "(617) 625-3633",
+    "website": "http://oncesomerville.com"
+  },
+  {
+    "venue_name": "Cantab Lounge",
+    "address": "738 Massachusetts Avenue, Cambridge, MA 02139",
+    "capacity": "150-200 people",
+    "venue_type": "Live music club and bar specializing in blues, jazz, and local music",
+    "neighborhood": "Central Square",
+    "coordinates": {
+      "lat": 42.3631,
+      "lng": -71.1044
+    },
+    "phone": "(617) 354-2685",
+    "website": "https://www.cantab-lounge.com"
+  }
+];
+
+        // Initialize map centered on Boston
+        const map = L.map('map').setView([42.3601, -71.0589], 12);
+
+        // Add dark tile layer
+        L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
+            subdomains: 'abcd',
+            maxZoom: 19
+        }).addTo(map);
+
+        // Add markers for each venue
+        VENUES.forEach(venue => {
+            const { lat, lng } = venue.coordinates;
+
+            // Create custom icon
+            const icon = L.divIcon({
+                className: 'venue-marker',
+                iconSize: [28, 28]
+            });
+
+            // Create hover tooltip content
+            const tooltipContent = `
+                <div class="tooltip-title">${venue.venue_name}</div>
+                <div class="tooltip-info">
+                    <div><span class="tooltip-label">Capacity:</span> ${venue.capacity || 'TBD'}</div>
+                    <div><span class="tooltip-label">Type:</span> ${venue.venue_type || 'TBD'}</div>
+                    ${venue.neighborhood ? `<div><span class="tooltip-label">Area:</span> ${venue.neighborhood}</div>` : ''}
+                </div>
+            `;
+
+            // Create click popup content
+            const popupContent = `
+                <h3>${venue.venue_name}</h3>
+                <div class="venue-info">
+                    <div class="venue-label">Address</div>
+                    <div>${venue.address}</div>
+                </div>
+                <div class="venue-info">
+                    <div class="venue-label">Capacity</div>
+                    <div>${venue.capacity || 'TBD'}</div>
+                </div>
+                <div class="venue-info">
+                    <div class="venue-label">Venue Type</div>
+                    <div>${venue.venue_type || 'TBD'}</div>
+                </div>
+                ${venue.phone ? `
+                <div class="venue-info">
+                    <div class="venue-label">Phone</div>
+                    <div>${venue.phone}</div>
+                </div>
+                ` : ''}
+                ${venue.website ? `
+                <div class="venue-info">
+                    <div class="venue-label">Website</div>
+                    <div><a href="${venue.website}" target="_blank" style="color: #ff6b35;">${venue.website}</a></div>
+                </div>
+                ` : ''}
+            `;
+
+            // Add marker with hover tooltip and click popup
+            L.marker([lat, lng], { icon })
+                .addTo(map)
+                .bindTooltip(tooltipContent, {
+                    permanent: false,
+                    direction: 'top',
+                    offset: [0, -15]
+                })
+                .bindPopup(popupContent, {
+                    maxWidth: 300,
+                    className: 'venue-popup'
+                });
+        });
+
+        // Fit map to show all markers
+        const bounds = L.latLngBounds(
+            VENUES.map(v => [v.coordinates.lat, v.coordinates.lng])
+        );
+        map.fitBounds(bounds, { padding: [50, 50] });
+    </script>
+</body>
+</html>

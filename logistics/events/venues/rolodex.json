@@ -1,0 +1,1445 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "description": "Venue Contact Rolodex - Synced with venue markdown files via venue_id",
+  "last_updated": "2025-10-07",
+  "venues": [
+    {
+      "venue_id": "Boston-BSMNT",
+      "venue_name": "BSMNT (Basement)",
+      "city": "Boston",
+      "state": "MA",
+      "address": "120 Boylston St, Boston, MA 02116",
+      "neighborhood": "Boylston Place (Theater District)",
+      "venue_type": "Upscale nightclub/lounge",
+      "capacity": "500-600 guests (estimated)",
+      "management_group": "Big Night Entertainment Group",
+      "contacts": {
+        "primary_phone": "(617) 778-0089",
+        "email": {
+          "email_list": "info@bsmntboston.com; events@bsmntboston.com; vip@bsmntboston.com"
+        },
+        "website": "https://www.bsmntboston.com",
+        "social_media": {
+          "instagram": "@bsmntboston (Primary - most active)",
+          "facebook": "facebook.com/bsmntboston"
+        }
+      },
+      "venue_details": {
+        "layout": [
+          "Multi-level basement-style venue",
+          "Dance floor",
+          "Multiple bar stations",
+          "Lounge seating areas",
+          "VIP sections with bottle service",
+          "Professional DJ booth"
+        ],
+        "technical_capabilities": [
+          "High-quality sound system",
+          "Professional lighting rig",
+          "Modern AV equipment suitable for events"
+        ],
+        "atmosphere": "Upscale nightlife venue with modern design, intimate basement vibe",
+        "private_events": "Yes, available for full venue buyouts",
+        "typical_events_hosted": [
+          "Electronic/house music nights",
+          "Hip-hop events",
+          "DJ performances",
+          "Themed parties (including Halloween)",
+          "Corporate events",
+          "Birthday parties",
+          "Private celebrations"
+        ],
+        "operating_schedule": "Primarily Thursday-Saturday nights",
+        "age_requirement": "21+",
+        "dress_code": "Upscale casual to club attire enforced",
+        "services_amenities": [
+          "Full bar service",
+          "Bottle service available",
+          "Professional security staff",
+          "Coat check (likely)",
+          "VIP hosting options"
+        ],
+        "public_transit": "Near Symphony Station (Green Line)",
+        "parking": "Street parking and nearby garages",
+        "strengths": [
+          "Quality sound and production value",
+          "Professional staff and security",
+          "Accessible location near public transit",
+          "Upscale atmosphere",
+          "Strong electronic/house music following"
+        ],
+        "considerations": [
+          "Can get crowded on popular nights",
+          "Premium drink pricing",
+          "Strict dress code enforcement"
+        ]
+      },
+      "metadata": {
+        "synced_from": "Boston-BSMNT.md",
+        "last_updated": "2025-10-07",
+        "status": "active",
+        "notes": "*Research Date: 2025-10-06*\n*Status: Initial research complete*\n*Follow-up: Pending initial contact*\n*Address Verified*: Correct address is 120 Boylston St, Boston, MA 02116 (Boylston Place). Previous research showed incorrect addresses (334 Mass Ave, 100 Stuart St).",
+        "tags": [
+          "venue",
+          "boston",
+          "nightclub",
+          "halloween",
+          "scary-movie"
+        ]
+      },
+      "coordinates": {
+        "lat": 42.3519,
+        "lng": -71.0643
+      }
+    },
+    {
+      "venue_id": "Boston-BigNightLive",
+      "venue_name": "Big Night Live",
+      "city": "Boston",
+      "state": "MA",
+      "address": "110 Causeway Street, Boston, MA 02114",
+      "neighborhood": "North Station/West End",
+      "venue_type": "Premium live music venue and nightclub",
+      "capacity": "1,200-1,500 (Music Hall), 440 (Studio B), 2,000 total capacity",
+      "management_group": "Big Night Entertainment Group (Sister venue to BSMNT)",
+      "contacts": {
+        "primary_phone": "(617) 896-5222",
+        "email": {
+          "email_list": "info@bignight.com; reservations@bignight.com; reservations@bignight.com"
+        },
+        "website": "https://bignightlive.com",
+        "social_media": {}
+      },
+      "venue_details": {
+        "layout": [
+          "Multi-level music hall (11,500 sq ft)",
+          "26 VIP tables throughout venue",
+          "Multiple independent yet integrable spaces under one roof",
+          "Studio B (separate space for 440 guests)",
+          "Professional DJ booth",
+          "Multiple bar stations"
+        ],
+        "technical_capabilities": [
+          "World-class sound system",
+          "Professional lighting rig",
+          "Modern AV equipment suitable for concerts and events",
+          "Full production capabilities"
+        ],
+        "atmosphere": "Premium luxury music hall, upscale nightlife expertise, sophisticated VIP experience",
+        "private_events": "Yes, full venue buyouts and multi-space configurations available",
+        "typical_events_hosted": [
+          "Live music concerts",
+          "DJ performances",
+          "Electronic music events",
+          "Hip-hop shows",
+          "Corporate events",
+          "Private celebrations",
+          "Celebrity-hosted events"
+        ],
+        "operating_schedule": "Varies by event",
+        "age_requirement": "Varies by event (typically 18+ or 21+)",
+        "dress_code": "Upscale casual to club attire (varies by event)",
+        "services_amenities": [
+          "26 VIP tables with bottle service",
+          "Full bar service at multiple stations",
+          "Professional security staff",
+          "Coat check",
+          "VIP hosting and concierge services",
+          "Event coordination and planning",
+          "Catering capabilities"
+        ],
+        "public_transit": "North Station (Orange Line, Green Line, Commuter Rail)",
+        "parking": "Multiple nearby garages, TD Garden parking",
+        "strengths": [
+          "World-class production value",
+          "Professional Big Night Entertainment Group management",
+          "Multiple venue configurations under one roof",
+          "Prime North Station location near TD Garden",
+          "Strong reputation for live music and electronic events",
+          "Exceptional VIP service"
+        ],
+        "considerations": [
+          "Large capacity may not suit intimate events",
+          "Premium pricing",
+          "High demand requires early booking"
+        ]
+      },
+      "metadata": {
+        "synced_from": "Boston-BigNightLive.md",
+        "last_updated": "2025-10-07",
+        "status": "active",
+        "notes": "*Research Date: 2025-10-07*\n*Status: Research complete - sister venue to BSMNT*\n*Follow-up: Pending initial contact*\n*Address Verified*: 110 Causeway Street, Boston, MA 02114",
+        "tags": [
+          "venue",
+          "boston",
+          "nightclub",
+          "live-music",
+          "big-night-entertainment"
+        ]
+      },
+      "coordinates": {
+        "lat": 42.3662,
+        "lng": -71.0621
+      }
+    },
+    {
+      "venue_id": "Boston-Bijou",
+      "venue_name": "Bijou Nightclub Boston",
+      "city": "Boston",
+      "state": "MA",
+      "address": "51 Stuart Street, Boston, MA 02116",
+      "neighborhood": "Theater District",
+      "venue_type": "Upscale nightclub and lounge",
+      "capacity": "TBD (estimated 400-600)",
+      "management_group": "GSTH Investment Group LLC",
+      "contacts": {
+        "primary_phone": "(617) 357-4565",
+        "email": {
+          "email_list": "info@bijouboston.com; info@bijouboston.com"
+        },
+        "social_media": {}
+      },
+      "venue_details": {
+        "layout": [
+          "Multi-level nightclub",
+          "Dance floor",
+          "VIP sections",
+          "Bar stations",
+          "Professional DJ booth",
+          "Lounge seating areas"
+        ],
+        "technical_capabilities": [
+          "Professional sound system",
+          "Modern lighting rig",
+          "Full club production capabilities"
+        ],
+        "atmosphere": "World-class upscale nightclub atmosphere in Theater District",
+        "private_events": "Yes, available for private bookings",
+        "typical_events_hosted": [
+          "Electronic music events",
+          "House music nights",
+          "Hip-hop events",
+          "DJ performances",
+          "Private celebrations"
+        ],
+        "operating_schedule": "Varies by event",
+        "age_requirement": "21+",
+        "dress_code": "Upscale dress code enforced",
+        "services_amenities": [
+          "Full bar service",
+          "VIP bottle service",
+          "Professional security staff",
+          "Coat check (likely)",
+          "VIP hosting services"
+        ],
+        "public_transit": "Near Boylston Station (Green Line), walking distance from multiple T stops",
+        "parking": "Multiple Theater District parking garages nearby",
+        "strengths": [
+          "Theater District location",
+          "Upscale atmosphere",
+          "Electronic and house music focus",
+          "Professional production",
+          "VIP service available"
+        ],
+        "considerations": [
+          "Limited public information available",
+          "Need to contact venue for detailed information",
+          "Upscale dress code enforcement"
+        ]
+      },
+      "metadata": {
+        "synced_from": "Boston-Bijou.md",
+        "last_updated": "2025-10-07",
+        "status": "active",
+        "notes": "*Research Date: 2025-10-07*\n*Status: Initial research complete - limited public info available*\n*Follow-up: Contact venue directly for detailed information*\n*Address Verified*: 51 Stuart Street, Boston, MA 02116",
+        "tags": [
+          "venue",
+          "boston",
+          "nightclub",
+          "theater-district",
+          "electronic"
+        ]
+      },
+      "coordinates": {
+        "lat": 42.3519,
+        "lng": -71.0643
+      }
+    },
+    {
+      "venue_id": "Boston-BrightonMusicHall",
+      "venue_name": "Brighton Music Hall",
+      "city": "Boston",
+      "state": "MA",
+      "address": "158 Brighton Avenue, Allston, MA 02134",
+      "neighborhood": "Allston",
+      "venue_type": "Live music venue and concert hall",
+      "capacity": "480 guests",
+      "management_group": "Crossroads Presents",
+      "contacts": {
+        "primary_phone": "(617) 779-0140",
+        "email": {
+          "email_list": "info@crossroadspresents.com"
+        },
+        "website": "http://crossroadspresents.com/brighton-music-hall",
+        "social_media": {
+          "instagram": "@brightonmusichall",
+          "facebook": "/BrightonMusicHall"
+        }
+      },
+      "venue_details": {},
+      "metadata": {
+        "synced_from": "Boston-BrightonMusicHall.md",
+        "last_updated": "2025-10-07",
+        "status": "active",
+        "notes": "*Research Date: 2025-10-07*\n*Address Verified*: 158 Brighton Avenue, Allston, MA 02134\n*Management*: Crossroads Presents (same as Paradise Rock Club)",
+        "tags": [
+          "venue",
+          "boston",
+          "allston",
+          "live-music",
+          "crossroads-presents"
+        ]
+      },
+      "coordinates": {
+        "lat": 42.354,
+        "lng": -71.1372
+      }
+    },
+    {
+      "venue_id": "Boston-Candibar",
+      "venue_name": "Candibar",
+      "city": "Boston",
+      "state": "MA",
+      "address": "275 Tremont Street, Boston, MA 02116",
+      "neighborhood": "Theater District",
+      "venue_type": "LGBTQ+ nightclub and dance venue",
+      "capacity": "400-500 guests",
+      "contacts": {
+        "primary_phone": "(617) 502-6969",
+        "email": {
+          "email_list": "info@candibar.com; info@candibar.com"
+        },
+        "website": "http://candibar.com",
+        "social_media": {
+          "instagram": "@candibarboston",
+          "facebook": "/CandibarBoston"
+        }
+      },
+      "venue_details": {
+        "typical_events_hosted": [
+          "House and EDM nights",
+          "Top 40",
+          "Drag shows",
+          "Theme nights",
+          "LGBTQ+ events"
+        ],
+        "operating_schedule": "TBD",
+        "age_requirement": "21+",
+        "dress_code": "Upscale"
+      },
+      "metadata": {
+        "synced_from": "Boston-Candibar.md",
+        "last_updated": "2025-10-07",
+        "status": "active",
+        "notes": "*Research Date: 2025-10-07*\n*Status: Initial research complete*\n*Address Verified*: 275 Tremont Street, Boston, MA 02116 (Theater District)",
+        "tags": [
+          "venue",
+          "boston",
+          "nightclub",
+          "theater-district",
+          "lgbtq",
+          "edm",
+          "house"
+        ]
+      },
+      "coordinates": {
+        "lat": 42.3519,
+        "lng": -71.0643
+      }
+    },
+    {
+      "venue_id": "Boston-ClubCafe",
+      "venue_name": "Club Caf\u00e9",
+      "city": "Boston",
+      "state": "MA",
+      "address": "209 Columbus Avenue, Boston, MA 02116",
+      "neighborhood": "Back Bay",
+      "venue_type": "LGBTQ+ nightclub with cabaret and dance floor",
+      "capacity": "250-300 guests",
+      "contacts": {
+        "primary_phone": "(617) 536-0966",
+        "email": {
+          "email_list": "info@clubcafe.com"
+        },
+        "website": "http://clubcafe.com",
+        "social_media": {
+          "instagram": "@clubcafeboston",
+          "facebook": "/ClubCafeBoston"
+        }
+      },
+      "venue_details": {},
+      "metadata": {
+        "synced_from": "Boston-ClubCafe.md",
+        "last_updated": "2025-10-07",
+        "status": "active",
+        "notes": "*Research Date: 2025-10-07*\n*Address Verified*: 209 Columbus Avenue, Boston, MA 02116 (Back Bay)",
+        "tags": [
+          "venue",
+          "boston",
+          "back-bay",
+          "lgbtq",
+          "nightclub",
+          "cabaret"
+        ]
+      },
+      "coordinates": {
+        "lat": 42.3467,
+        "lng": -71.0776
+      }
+    },
+    {
+      "venue_id": "Boston-Hue",
+      "venue_name": "Hue Boston",
+      "city": "Boston",
+      "state": "MA",
+      "address": "90 Exeter St, Boston, MA 02116",
+      "neighborhood": "Back Bay (Copley Square Hotel)",
+      "venue_type": "Multi-level resto-lounge with Caf\u00e9, Supperclub, and Speakeasy",
+      "capacity": "TBD (estimated 200-400)",
+      "contacts": {
+        "primary_phone": "(857) 991-1710",
+        "email": {
+          "email_list": "info@hueboston.com; events@hueboston.com"
+        },
+        "website": "https://www.hueboston.com",
+        "social_media": {
+          "instagram": "@huebackbay",
+          "facebook": "huebackbay"
+        }
+      },
+      "venue_details": {
+        "layout": [
+          "Lobby Level: Caf\u00e9 and Cocktail Bar",
+          "Below Level: Supperclub",
+          "Below Level: Speakeasy (intimate setting)",
+          "Multiple bars",
+          "DJ booth",
+          "Dance floor"
+        ],
+        "technical_capabilities": [
+          "Professional sound system",
+          "DJ equipment",
+          "Live music capabilities",
+          "Modern AV"
+        ],
+        "atmosphere": "Multi-sensory destination, globally inspired dishes, late-night rhythms, live DJs, sultry supperclub and speakeasy vibe",
+        "private_events": "Yes, available for private bookings (especially Speakeasy room)",
+        "typical_events_hosted": [
+          "Globally inspired dinner parties",
+          "DJ nights",
+          "Late-night events",
+          "Private celebrations",
+          "Corporate events",
+          "Brunch (Sat-Sun 11AM-3PM)"
+        ],
+        "operating_schedule": "- Caf\u00e9: Daily (coffee by day, cocktails by night)",
+        "age_requirement": "21+",
+        "dress_code": "Smart casual to upscale",
+        "services_amenities": [
+          "Full restaurant service",
+          "Caf\u00e9 (coffee and cocktails)",
+          "Multiple venue spaces",
+          "VIP areas",
+          "Private event coordination (via Tripleseat)",
+          "DJ and live music"
+        ],
+        "public_transit": "Back Bay Station (Orange Line), Copley Station (Green Line)",
+        "parking": "Copley Square area garages, hotel valet",
+        "strengths": [
+          "Back Bay/Copley location",
+          "Multi-level concept (Caf\u00e9, Supperclub, Speakeasy)",
+          "Globally inspired cuisine",
+          "Late-night programming",
+          "DJ and live music",
+          "Inside Copley Square Hotel",
+          "Private Speakeasy room for events",
+          "Strong cocktail program"
+        ],
+        "considerations": [
+          "Newer venue (opened 2023)",
+          "More restaurant than pure nightclub",
+          "Need to confirm capacity details",
+          "Multiple spaces may require coordination"
+        ]
+      },
+      "metadata": {
+        "synced_from": "Boston-Hue.md",
+        "last_updated": "2025-10-07",
+        "status": "active",
+        "notes": "*Research Date: 2025-10-07*\n*Status: Initial research complete*\n*Follow-up: Pending initial contact*\n*Address Verified*: 90 Exeter St, Boston, MA 02116 (Copley Square Hotel)\n*Key Feature*: Three-level concept (Caf\u00e9, Supperclub, Speakeasy)\n*Founded*: 2023",
+        "tags": [
+          "venue",
+          "boston",
+          "back-bay",
+          "resto-lounge",
+          "supperclub",
+          "speakeasy",
+          "global-cuisine"
+        ]
+      },
+      "coordinates": {
+        "lat": 42.3489,
+        "lng": -71.0794
+      }
+    },
+    {
+      "venue_id": "Boston-ICON",
+      "venue_name": "ICON Nightclub",
+      "city": "Boston",
+      "state": "MA",
+      "address": "100 Warrenton Street, Boston, MA 02116",
+      "neighborhood": "Theater District",
+      "venue_type": "Multi-level upscale nightclub with VIP suites",
+      "capacity": "800-1,000 guests",
+      "contacts": {
+        "primary_phone": "(617) 423-6266",
+        "email": {
+          "email_list": "info@iconboston.com; events@iconboston.com; vip@iconboston.com"
+        },
+        "website": "http://iconboston.com",
+        "social_media": {
+          "instagram": "@iconboston",
+          "facebook": "/ICONBoston"
+        }
+      },
+      "venue_details": {
+        "layout": [
+          "Multi-level nightclub",
+          "VIP suites",
+          "Multiple dance floors",
+          "Bar stations throughout",
+          "Professional DJ booth",
+          "State-of-the-art lighting displays"
+        ],
+        "technical_capabilities": [
+          "State-of-the-art sound system",
+          "Professional lighting rig",
+          "Modern AV equipment",
+          "Full club production capabilities"
+        ],
+        "atmosphere": "Luxury nightclub with premium VIP experience, upscale Theater District setting",
+        "private_events": "Yes, available for full venue buyouts and VIP suite rentals",
+        "typical_events_hosted": [
+          "Hip-hop nights",
+          "Top 40 events",
+          "EDM performances",
+          "Celebrity DJ appearances",
+          "VIP bottle service experiences",
+          "Private celebrations"
+        ],
+        "operating_schedule": "TBD (typically Thu-Sat nights)",
+        "age_requirement": "21+",
+        "dress_code": "Upscale dress code enforced",
+        "services_amenities": [
+          "VIP suites with bottle service",
+          "Multiple bars",
+          "Full bar service",
+          "Professional security staff",
+          "Coat check",
+          "VIP hosting services"
+        ],
+        "public_transit": "Near Boylston Station (Green Line), Chinatown Station (Orange Line)",
+        "parking": "Multiple Theater District parking garages",
+        "strengths": [
+          "Theater District location (direct competitor to Royale/Estate)",
+          "Multi-level layout with VIP suites",
+          "State-of-the-art sound and lighting",
+          "Premium bottle service",
+          "Hip-hop and EDM focus",
+          "800-1,000 capacity (similar to The Grand)"
+        ],
+        "considerations": [
+          "Premium pricing",
+          "Upscale dress code enforcement",
+          "Theater District parking challenges",
+          "Need more detailed venue information"
+        ]
+      },
+      "metadata": {
+        "synced_from": "Boston-ICON.md",
+        "last_updated": "2025-10-07",
+        "status": "active",
+        "notes": "*Research Date: 2025-10-07*\n*Status: Initial research complete*\n*Follow-up: Pending initial contact*\n*Address Verified*: 100 Warrenton Street, Boston, MA 02116 (Theater District)",
+        "tags": [
+          "venue",
+          "boston",
+          "nightclub",
+          "theater-district",
+          "hip-hop",
+          "edm",
+          "vip"
+        ]
+      },
+      "coordinates": {
+        "lat": 42.3519,
+        "lng": -71.0643
+      }
+    },
+    {
+      "venue_id": "Boston-Memoire",
+      "venue_name": "M\u00e9moire Boston",
+      "city": "Boston",
+      "state": "MA",
+      "address": "Encore Boston Harbor, Everett, MA",
+      "neighborhood": "Encore Boston Harbor (Everett)",
+      "venue_type": "Upscale nightclub",
+      "capacity": "650",
+      "management_group": "Big Night Entertainment Group (Sister venue to BSMNT)",
+      "contacts": {
+        "primary_phone": "(617) 405-5171",
+        "email": {
+          "email_list": "events@bignight.com; events@bignight.com; events@bignight.com"
+        },
+        "website": "https://www.memoireboston.com",
+        "social_media": {}
+      },
+      "venue_details": {
+        "layout": [
+          "Premium nightclub space",
+          "Dance floor",
+          "VIP table sections",
+          "Multiple bar stations",
+          "Professional DJ booth",
+          "Luxurious lounge seating"
+        ],
+        "technical_capabilities": [
+          "High-quality sound system",
+          "Professional lighting rig",
+          "Modern AV equipment",
+          "Full production capabilities"
+        ],
+        "atmosphere": "Sophisticated upscale nightclub within Encore Boston Harbor resort, luxury casino setting",
+        "private_events": "Yes, full venue rental available",
+        "typical_events_hosted": [
+          "Electronic music events",
+          "Hip-hop nights",
+          "DJ performances",
+          "VIP bottle service experiences",
+          "Private celebrations"
+        ],
+        "operating_schedule": "Doors open 9:00 PM, typically reaches capacity 12:00-1:00 AM",
+        "age_requirement": "21+",
+        "dress_code": "Upscale dress code enforced",
+        "services_amenities": [
+          "Premium VIP bottle service",
+          "Full bar service",
+          "Professional security staff",
+          "Coat check",
+          "VIP hosting services",
+          "Resort amenities access (casino, restaurants, hotel)"
+        ],
+        "public_transit": "Encore shuttle service from multiple Boston locations, Orange Line to Assembly + shuttle",
+        "parking": "Encore Boston Harbor parking garage (resort parking)",
+        "strengths": [
+          "Sister venue to BSMNT (same management)",
+          "Similar capacity to ideal range (650 vs BSMNT 200)",
+          "Located within Encore Boston Harbor resort",
+          "Professional Big Night Entertainment Group management",
+          "Premium VIP service",
+          "Access to resort amenities"
+        ],
+        "considerations": [
+          "Located in Everett (not central Boston)",
+          "Casino setting may not suit all events",
+          "Premium pricing",
+          "Reaches capacity quickly (12-1 AM)"
+        ]
+      },
+      "metadata": {
+        "synced_from": "Boston-Memoire.md",
+        "last_updated": "2025-10-07",
+        "status": "active",
+        "notes": "*Research Date: 2025-10-07*\n*Status: Research complete - sister venue to BSMNT*\n*Follow-up: Pending initial contact*\n*Address Notes*: Located within Encore Boston Harbor resort complex",
+        "tags": [
+          "venue",
+          "boston",
+          "everett",
+          "nightclub",
+          "encore",
+          "big-night-entertainment"
+        ]
+      },
+      "coordinates": {
+        "lat": 42.3912,
+        "lng": -71.0705
+      }
+    },
+    {
+      "venue_id": "Boston-ParadiseRockClub",
+      "venue_name": "Paradise Rock Club",
+      "city": "Boston",
+      "state": "MA",
+      "address": "967 Commonwealth Avenue, Boston, MA 02215",
+      "neighborhood": "Allston",
+      "venue_type": "Historic live music venue",
+      "capacity": "933 guests",
+      "management_group": "Crossroads Presents",
+      "contacts": {
+        "primary_phone": "(617) 562-8800",
+        "email": {
+          "email_list": "info@crossroadspresents.com; info@crossroadspresents.com"
+        },
+        "website": "http://crossroadspresents.com/paradise-rock-club",
+        "social_media": {
+          "instagram": "@paradizerockclub",
+          "facebook": "/ParadiseRockClub"
+        }
+      },
+      "venue_details": {
+        "layout": [
+          "Main floor standing room",
+          "Balcony seating",
+          "Bar areas",
+          "Professional stage",
+          "Historic venue design (since 1977)"
+        ],
+        "technical_capabilities": [
+          "Professional sound system",
+          "Stage lighting",
+          "Live music production capabilities",
+          "National touring act specifications"
+        ],
+        "atmosphere": "Legendary Boston venue, intimate but spacious, historic rock club atmosphere",
+        "private_events": "Yes, available for private bookings",
+        "typical_events_hosted": [
+          "Rock concerts",
+          "Indie shows",
+          "Electronic music",
+          "Hip-hop performances",
+          "National touring acts",
+          "Local bands",
+          "Private events"
+        ],
+        "operating_schedule": "Varies by event",
+        "age_requirement": "Varies by event (typically 18+ or 21+)",
+        "dress_code": "Casual",
+        "services_amenities": [
+          "Full bar service",
+          "Balcony seating",
+          "Professional security",
+          "Coat check",
+          "Established reputation"
+        ],
+        "public_transit": "Green Line B (Boston University stops)",
+        "parking": "Street parking, nearby lots",
+        "strengths": [
+          "Historic venue (since 1977)",
+          "Similar capacity to Royale (933)",
+          "National touring acts",
+          "Professional production",
+          "Established reputation",
+          "Balcony seating option",
+          "Allston nightlife district"
+        ],
+        "considerations": [
+          "Allston location (not downtown)",
+          "More live music focus",
+          "Casual atmosphere",
+          "Standing room format"
+        ]
+      },
+      "metadata": {
+        "synced_from": "Boston-ParadiseRockClub.md",
+        "last_updated": "2025-10-07",
+        "status": "active",
+        "notes": "*Research Date: 2025-10-07*\n*Status: Initial research complete*\n*Follow-up: Pending initial contact*\n*Address Verified*: 967 Commonwealth Avenue, Boston, MA 02215 (Allston)\n*Management*: Crossroads Presents",
+        "tags": [
+          "venue",
+          "boston",
+          "allston",
+          "live-music",
+          "rock",
+          "historic",
+          "crossroads-presents"
+        ]
+      },
+      "coordinates": {
+        "lat": 42.3503,
+        "lng": -71.1156
+      }
+    },
+    {
+      "venue_id": "Boston-Royale",
+      "venue_name": "Royale Boston",
+      "city": "Boston",
+      "state": "MA",
+      "address": "279 Tremont Street, Boston, MA 02116",
+      "neighborhood": "Theater District",
+      "venue_type": "Upscale nightclub and live music venue",
+      "capacity": "1,000-1,500 (Main Room), up to 2,000 total with connected venues",
+      "contacts": {
+        "primary_phone": "(617) 338-7699",
+        "email": {
+          "email_list": "bostonroyale@gmail.com; jamison@royaleboston.com; steven@royaleboston.com; bostonroyale@gmail.com"
+        },
+        "website": "https://royaleboston.com",
+        "social_media": {
+          "instagram": "@royaleboston",
+          "facebook": "RoyaleNightclubBoston"
+        }
+      },
+      "venue_details": {
+        "layout": [
+          "16,000 sq ft total space",
+          "1,000-capacity main room (general admission, standing room)",
+          "Multiple connected venues in same building",
+          "Some seating available (first-come basis)",
+          "Professional stage and DJ booth",
+          "Multiple bar stations"
+        ],
+        "technical_capabilities": [
+          "Professional sound system",
+          "Full lighting rig",
+          "Modern AV equipment",
+          "Live music and DJ production capabilities"
+        ],
+        "atmosphere": "Upscale nightclub in historic Theater District, versatile for live music and DJ events",
+        "private_events": "Yes, parties from 50 to over 2,000 guests",
+        "typical_events_hosted": [
+          "Live music concerts",
+          "EDM/electronic music events",
+          "Hip-hop shows",
+          "DJ performances",
+          "Corporate events",
+          "Private celebrations",
+          "Nationwide touring acts"
+        ],
+        "operating_schedule": "Varies by event",
+        "age_requirement": "Varies by event (typically 18+ or 21+)",
+        "dress_code": "Upscale casual to club attire",
+        "services_amenities": [
+          "Full bar service",
+          "VIP bottle service available",
+          "Professional security staff",
+          "Coat check",
+          "Event coordination services",
+          "Multi-venue configuration options"
+        ],
+        "public_transit": "Near Boylston Station (Green Line), short walk from Downtown Crossing",
+        "parking": "Multiple nearby parking garages in Theater District",
+        "strengths": [
+          "Prime Theater District location",
+          "Large capacity with flexibility (50-2,000)",
+          "Books nationwide touring acts",
+          "Professional production capabilities",
+          "Historic venue with established reputation",
+          "Multi-venue options in same building"
+        ],
+        "considerations": [
+          "Large capacity may not suit intimate events",
+          "Standing room only format (limited seating)",
+          "Need to arrive early for good positioning"
+        ]
+      },
+      "metadata": {
+        "synced_from": "Boston-Royale.md",
+        "last_updated": "2025-10-07",
+        "status": "active",
+        "notes": "*Research Date: 2025-10-07*\n*Status: Research complete - full contact information obtained*\n*Follow-up: Pending initial contact*\n*Key Contact*: Jamison LaGuardia, VP of Sales and Operations\n*Address Verified*: 279 Tremont Street, Boston, MA 02116",
+        "tags": [
+          "venue",
+          "boston",
+          "nightclub",
+          "theater-district",
+          "live-music",
+          "edm"
+        ]
+      },
+      "coordinates": {
+        "lat": 42.3519,
+        "lng": -71.0643
+      }
+    },
+    {
+      "venue_id": "Boston-TheCrystalBallroom",
+      "venue_name": "The Crystal Ballroom",
+      "city": "Boston",
+      "state": "MA",
+      "address": "1 Lansdowne Street, Boston, MA 02215",
+      "neighborhood": "Fenway",
+      "venue_type": "Multi-purpose event venue and nightclub",
+      "capacity": "600-800 guests",
+      "management_group": "House of Blues Entertainment (same as Big Night Live!)",
+      "contacts": {
+        "primary_phone": "(617) 351-7000",
+        "email": {
+          "email_list": "info@thecrystalballroomboston.com"
+        },
+        "website": "http://thecrystalballroomboston.com",
+        "social_media": {
+          "instagram": "@crystalballroomboston",
+          "facebook": "/CrystalBallroomBoston"
+        }
+      },
+      "venue_details": {},
+      "metadata": {
+        "synced_from": "Boston-TheCrystalBallroom.md",
+        "last_updated": "2025-10-07",
+        "status": "active",
+        "notes": "*Research Date: 2025-10-07*\n*Address Verified*: 1 Lansdowne Street, Boston, MA 02215 (Fenway)\n*Management*: House of Blues Entertainment",
+        "tags": [
+          "venue",
+          "boston",
+          "fenway",
+          "nightclub",
+          "ballroom",
+          "house-of-blues"
+        ]
+      },
+      "coordinates": {
+        "lat": 42.3467,
+        "lng": -71.097
+      }
+    },
+    {
+      "venue_id": "Boston-TheEstate",
+      "venue_name": "The Estate Boston",
+      "city": "Boston",
+      "state": "MA",
+      "address": "1 Boylston Place, Boston, MA 02116",
+      "neighborhood": "Theater District",
+      "venue_type": "Nightclub",
+      "capacity": "TBD (estimated 400-800)",
+      "contacts": {
+        "primary_phone": "(617) 351-7000 (General/Info & Private Events), (617) 407-6000 (VIP Tables & Reservations)",
+        "email": {
+          "email_list": "Contact via phone (617) 351-7000; Contact via phone (617) 407-6000"
+        },
+        "website": "http://theestateboston.com",
+        "social_media": {
+          "instagram": "@theestatebos (Primary)",
+          "facebook": "theestateboston"
+        }
+      },
+      "venue_details": {
+        "layout": [
+          "Multi-level nightclub",
+          "Multiple floors/sections (upstairs and downstairs areas)",
+          "Dance floor",
+          "VIP table sections",
+          "Bar stations",
+          "Professional DJ booth"
+        ],
+        "technical_capabilities": [
+          "Professional sound system",
+          "Modern lighting",
+          "Club production capabilities"
+        ],
+        "atmosphere": "Upscale nightclub with multi-level layout, accessible upstairs areas (not exclusively VIP)",
+        "private_events": "Yes, available for private bookings",
+        "typical_events_hosted": [
+          "Electronic music events",
+          "Hip-hop nights",
+          "DJ performances",
+          "VIP bottle service experiences",
+          "Special event programming (#EstateFriday)"
+        ],
+        "operating_schedule": "Regular Friday programming (#EstateFriday)",
+        "age_requirement": "21+",
+        "dress_code": "Club attire",
+        "services_amenities": [
+          "VIP table service",
+          "Full bar service",
+          "Professional security staff",
+          "Coat check (likely)",
+          "Multi-level venue access"
+        ],
+        "public_transit": "TBD (confirm with venue)",
+        "parking": "TBD (confirm with venue)",
+        "strengths": [
+          "Multi-level layout provides different atmospheres",
+          "Upstairs area accessible to all (not VIP-only)",
+          "Regular programming (#EstateFriday)",
+          "Hip-hop and electronic music focus",
+          "VIP table service available"
+        ],
+        "considerations": [
+          "Limited venue information available online",
+          "Mixed customer service reviews",
+          "Need to contact directly for detailed information"
+        ]
+      },
+      "metadata": {
+        "synced_from": "Boston-TheEstate.md",
+        "last_updated": "2025-10-07",
+        "status": "active",
+        "notes": "*Research Date: 2025-10-07*\n*Status: Research complete - address corrected, phone contacts confirmed*\n*Follow-up: Pending initial contact*\n*Address Verified*: 1 Boylston Place, Boston, MA 02116 (Theater District)\n*Previous Incorrect Address*: 224 Richmond Street West (discarded)",
+        "tags": [
+          "venue",
+          "boston",
+          "nightclub",
+          "hip-hop",
+          "electronic"
+        ]
+      },
+      "coordinates": {
+        "lat": 42.3519,
+        "lng": -71.0643
+      }
+    },
+    {
+      "venue_id": "Boston-TheGrand",
+      "venue_name": "The Grand Boston",
+      "city": "Boston",
+      "state": "MA",
+      "address": "58 Seaport Blvd Suite 300, Boston, MA 02210",
+      "neighborhood": "Seaport District",
+      "venue_type": "Luxury nightclub",
+      "capacity": "800 (full venue)",
+      "management_group": "Big Night Entertainment Group (Sister venue to BSMNT and M\u00e9moire!)",
+      "contacts": {
+        "primary_phone": "(617) 322-0200 (Direct), (617) 407-6000 (VIP), (617) 405-5171 (Private Events)",
+        "email": {
+          "email_list": "info@thegrandboston.com; events@thegrandboston.com; vip@thegrandboston.com"
+        },
+        "website": "https://thegrandboston.com",
+        "social_media": {
+          "instagram": "@thegrandboston",
+          "facebook": "grandboston"
+        }
+      },
+      "venue_details": {
+        "layout": [
+          "Multi-level nightclub",
+          "Dance floor",
+          "Multiple VIP table sections",
+          "Bar stations",
+          "Professional DJ booth",
+          "Plush VIP seating areas"
+        ],
+        "technical_capabilities": [
+          "High-quality sound system",
+          "Professional lighting rig",
+          "Modern AV equipment",
+          "Full club production capabilities"
+        ],
+        "atmosphere": "Opulent luxury nightclub, elegant design, world-class entertainment focus",
+        "private_events": "Yes, available for private bookings",
+        "typical_events_hosted": [
+          "Electronic/EDM music events",
+          "Hip-hop nights",
+          "DJ performances",
+          "Bottle service experiences",
+          "Private celebrations"
+        ],
+        "operating_schedule": "- Thursday: 10:00 PM - 2:00 AM",
+        "age_requirement": "21+",
+        "dress_code": "Upscale dress code enforced",
+        "services_amenities": [
+          "Premium VIP bottle service",
+          "Private table reservations",
+          "Full bar service",
+          "Professional security staff",
+          "Coat check",
+          "VIP hosting services"
+        ],
+        "public_transit": "Silver Line to Courthouse Station, walking distance",
+        "parking": "Multiple Seaport parking garages nearby",
+        "strengths": [
+          "Luxury atmosphere and ambiance",
+          "Premium VIP experience",
+          "Seaport location",
+          "Electronic/EDM music focus",
+          "High-end bottle service"
+        ],
+        "considerations": [
+          "Premium pricing ($600-$3,000 table minimums)",
+          "Strict dress code",
+          "Seaport location may require transportation planning"
+        ]
+      },
+      "metadata": {
+        "synced_from": "Boston-TheGrand.md",
+        "last_updated": "2025-10-07",
+        "status": "active",
+        "notes": "*Research Date: 2025-10-07*\n*Status: Research complete - SISTER VENUE to BSMNT (Big Night Entertainment Group)*\n*Follow-up: Pending initial contact*\n*Address Verified*: 58 Seaport Blvd Suite 300, Boston, MA 02210",
+        "tags": [
+          "venue",
+          "boston",
+          "nightclub",
+          "seaport",
+          "luxury",
+          "edm"
+        ]
+      },
+      "coordinates": {
+        "lat": 42.35,
+        "lng": -71.0423
+      }
+    },
+    {
+      "venue_id": "Boston-TheHarp",
+      "venue_name": "The Harp",
+      "city": "Boston",
+      "state": "MA",
+      "address": "85 Causeway Street, Boston, MA 02114",
+      "neighborhood": "North Station",
+      "venue_type": "Irish pub with live music and dance floor",
+      "capacity": "500-600 guests",
+      "contacts": {
+        "primary_phone": "(617) 742-1010",
+        "email": {
+          "email_list": "theharpboston@gmail.com"
+        },
+        "website": "http://theharpboston.com",
+        "social_media": {
+          "instagram": "@theharpboston",
+          "facebook": "/TheHarpBoston"
+        }
+      },
+      "venue_details": {},
+      "metadata": {
+        "synced_from": "Boston-TheHarp.md",
+        "last_updated": "2025-10-07",
+        "status": "active",
+        "notes": "*Research Date: 2025-10-07*\n*Address Verified*: 85 Causeway Street, Boston, MA 02114 (North Station)",
+        "tags": [
+          "venue",
+          "boston",
+          "north-station",
+          "irish-pub",
+          "live-music",
+          "dance"
+        ]
+      },
+      "coordinates": {
+        "lat": 42.3662,
+        "lng": -71.0621
+      }
+    },
+    {
+      "venue_id": "Cambridge-TheMiddleEast",
+      "venue_name": "The Middle East",
+      "city": "Cambridge",
+      "state": "MA",
+      "address": "472-480 Massachusetts Avenue, Cambridge, MA 02139",
+      "neighborhood": "Central Square",
+      "venue_type": "Iconic live music venue with multiple performance spaces and restaurant",
+      "capacity": "575 combined (Upstairs: 194, Downstairs: 381)",
+      "contacts": {
+        "primary_phone": "(617) 864-3278",
+        "email": {
+          "email_list": "cornerinfo@mideastoffers.com; booking@mideastoffers.com"
+        },
+        "website": "http://mideastoffers.com",
+        "social_media": {
+          "instagram": "@middleeastclub",
+          "facebook": "/TheMiddleEast"
+        }
+      },
+      "venue_details": {
+        "layout": [
+          "Upstairs Room: 194 capacity",
+          "Downstairs Room: 381 capacity",
+          "Restaurant and bar areas",
+          "Multiple stages",
+          "Standing room floors",
+          "Bar stations"
+        ],
+        "technical_capabilities": [
+          "Professional sound systems in both rooms",
+          "Stage lighting",
+          "Live music production capabilities",
+          "Separate rooms allow multiple simultaneous events"
+        ],
+        "atmosphere": "Legendary Cambridge cultural institution, iconic alternative/indie venue, diverse programming, historic significance",
+        "private_events": "Yes, available for private bookings in both rooms",
+        "typical_events_hosted": [
+          "Alternative and indie rock",
+          "Electronic music",
+          "Hip-hop performances",
+          "Punk shows",
+          "World music",
+          "Local and national touring acts",
+          "Private celebrations and corporate events"
+        ],
+        "operating_schedule": "Varies by event (check website for calendar)",
+        "age_requirement": "Varies by event (18+, 21+)",
+        "dress_code": "Casual",
+        "services_amenities": [
+          "Full-service restaurant",
+          "Multiple bars",
+          "Two separate performance spaces",
+          "Professional sound and lighting",
+          "Coat check",
+          "Restaurant/bar food service"
+        ],
+        "public_transit": "Central Square Station (Red Line) - direct access",
+        "parking": "Street parking and nearby lots in Central Square",
+        "strengths": [
+          "Iconic Cambridge venue with rich history",
+          "Two separate performance spaces",
+          "Diverse programming across multiple genres",
+          "Cultural institution status",
+          "Central Square location",
+          "Restaurant component",
+          "Flexible capacity options (194 or 381 or both)",
+          "Strong local and touring act bookings"
+        ],
+        "considerations": [
+          "Smaller capacity than Theater District venues",
+          "Central Square location (not downtown Boston)",
+          "More live music focus than dance club",
+          "Casual atmosphere vs. upscale nightclubs"
+        ]
+      },
+      "metadata": {
+        "synced_from": "Cambridge-TheMiddleEast.md",
+        "last_updated": "2025-10-07",
+        "status": "active",
+        "notes": "*Research Date: 2025-10-07*\n*Status: Initial research complete*\n*Follow-up: Pending initial contact*\n*Address Verified*: 472-480 Massachusetts Avenue, Cambridge, MA 02139 (Central Square)\n*Key Feature*: Two separate performance spaces (Upstairs 194, Downstairs 381)",
+        "tags": [
+          "venue",
+          "cambridge",
+          "live-music",
+          "central-square",
+          "alternative",
+          "indie",
+          "iconic"
+        ]
+      },
+      "coordinates": {
+        "lat": 42.3656,
+        "lng": -71.104
+      }
+    },
+    {
+      "venue_id": "Cambridge-TheSinclair",
+      "venue_name": "The Sinclair",
+      "city": "Cambridge",
+      "state": "MA",
+      "address": "52 Church Street, Cambridge, MA 02138",
+      "neighborhood": "Harvard Square",
+      "venue_type": "Premium live music venue and restaurant",
+      "capacity": "525 guests",
+      "management_group": "Bowery Boston (same as Royale Boston!)",
+      "contacts": {
+        "primary_phone": "(617) 547-5200",
+        "email": {
+          "email_list": "info@sinclaircambridge.com; events@sinclaircambridge.com"
+        },
+        "website": "http://sinclaircambridge.com",
+        "social_media": {
+          "instagram": "@sinclaircambridge",
+          "facebook": "/TheSinclair"
+        }
+      },
+      "venue_details": {
+        "layout": [
+          "Main floor standing room",
+          "VIP mezzanine level",
+          "Full-service restaurant",
+          "Bar areas",
+          "Professional stage",
+          "Modern upscale design"
+        ],
+        "technical_capabilities": [
+          "Excellent acoustics",
+          "Professional sound system",
+          "Stage lighting",
+          "Live music production capabilities",
+          "Restaurant AV integration"
+        ],
+        "atmosphere": "Modern upscale venue, Harvard Square sophistication, hybrid restaurant/music hall, premium acoustics",
+        "private_events": "Yes, available for private bookings",
+        "typical_events_hosted": [
+          "Indie and alternative rock",
+          "Electronic music",
+          "DJ nights",
+          "Live performances",
+          "Corporate events",
+          "Private celebrations",
+          "Restaurant events"
+        ],
+        "operating_schedule": "Varies by event (restaurant open daily, shows vary)",
+        "age_requirement": "Varies by event (typically 18+ or 21+)",
+        "dress_code": "Smart casual",
+        "services_amenities": [
+          "Full-service restaurant and bar",
+          "VIP mezzanine seating",
+          "Professional sound and lighting",
+          "Restaurant food service during events",
+          "Coat check",
+          "Private event coordination"
+        ],
+        "public_transit": "Harvard Square Station (Red Line) - walking distance",
+        "parking": "Harvard Square parking garages, street parking (limited)",
+        "strengths": [
+          "Bowery Boston management (same as Royale)",
+          "Excellent acoustics and sound quality",
+          "Harvard Square location",
+          "Full-service restaurant component",
+          "VIP mezzanine option",
+          "Modern upscale design",
+          "525 capacity (similar to BSMNT)",
+          "Hybrid venue model"
+        ],
+        "considerations": [
+          "Cambridge location (not Boston proper)",
+          "More live music/restaurant than dance club",
+          "Harvard Square parking can be challenging",
+          "Premium pricing"
+        ]
+      },
+      "metadata": {
+        "synced_from": "Cambridge-TheSinclair.md",
+        "last_updated": "2025-10-07",
+        "status": "active",
+        "notes": "*Research Date: 2025-10-07*\n*Status: Initial research complete*\n*Follow-up: Pending initial contact*\n*Address Verified*: 52 Church Street, Cambridge, MA 02138 (Harvard Square)\n*Key Feature*: Bowery Boston operated (same management as Royale)",
+        "tags": [
+          "venue",
+          "cambridge",
+          "live-music",
+          "harvard-square",
+          "bowery-boston",
+          "restaurant",
+          "upscale"
+        ]
+      },
+      "coordinates": {
+        "lat": 42.3744,
+        "lng": -71.1189
+      }
+    },
+    {
+      "venue_id": "Somerville-OnceBallroom",
+      "venue_name": "Once Ballroom",
+      "city": "Somerville",
+      "state": "MA",
+      "address": "156 Highland Avenue, Somerville, MA 02143",
+      "neighborhood": "Davis Square",
+      "venue_type": "Live music venue and lounge",
+      "capacity": "300-400 guests",
+      "contacts": {
+        "primary_phone": "(617) 625-3633",
+        "email": {
+          "email_list": "info@oncesomerville.com"
+        },
+        "website": "http://oncesomerville.com",
+        "social_media": {
+          "instagram": "@oncesomerville",
+          "facebook": "/OnceSomerville"
+        }
+      },
+      "venue_details": {},
+      "metadata": {
+        "synced_from": "Somerville-OnceBallroom.md",
+        "last_updated": "2025-10-07",
+        "status": "active",
+        "notes": "*Research Date: 2025-10-07*\n*Address Verified*: 156 Highland Avenue, Somerville, MA 02143 (Davis Square)",
+        "tags": [
+          "venue",
+          "somerville",
+          "davis-square",
+          "live-music",
+          "ballroom",
+          "electronic"
+        ]
+      },
+      "coordinates": {
+        "lat": 42.3968,
+        "lng": -71.1224
+      }
+    },
+    {
+      "venue_id": "Cambridge-Cantab",
+      "venue_name": "Cantab Lounge",
+      "city": "Cambridge",
+      "state": "MA",
+      "address": "738 Massachusetts Avenue, Cambridge, MA 02139",
+      "neighborhood": "Central Square",
+      "venue_type": "Live music club and bar specializing in blues, jazz, and local music",
+      "capacity": "150-200 people",
+      "management_group": "Nagem family (since 1994)",
+      "contacts": {
+        "primary_phone": "(617) 354-2685",
+        "email": {
+          "email_list": "info@cantab-lounge.com"
+        },
+        "website": "https://www.cantab-lounge.com",
+        "social_media": {
+          "instagram": "@cantablounge",
+          "facebook": "facebook.com/cantablounge"
+        }
+      },
+      "venue_details": {
+        "layout": [
+          "Intimate basement club",
+          "Standing room with limited seating",
+          "Full bar",
+          "Small stage"
+        ],
+        "technical_capabilities": [
+          "Professional sound system",
+          "Stage lighting for live performances",
+          "Live music production setup"
+        ],
+        "atmosphere": "Historic Cambridge music venue, intimate basement club atmosphere, strong community focus on local musicians",
+        "private_events": "Yes, available for private bookings and special events",
+        "typical_events_hosted": [
+          "Blues jams and open mic nights (Monday-Thursday)",
+          "Live blues, rock, funk, and soul performances (Friday-Saturday)",
+          "Album release parties",
+          "Local music showcases",
+          "Little Joe Cook's Bluesville (legendary Monday blues jam)"
+        ],
+        "operating_schedule": "Monday-Saturday (check website for specific hours)",
+        "age_requirement": "21+",
+        "dress_code": "Casual",
+        "services_amenities": [
+          "Full liquor license",
+          "Cash-only bar (ATM on-site)",
+          "Intimate live music setting",
+          "Affordable cover charges ($5-15 typically)"
+        ],
+        "public_transit": "Central Square Station (Red Line) - walking distance",
+        "parking": "Street parking in Central Square",
+        "strengths": [
+          "Historic Cambridge venue (established 1958)",
+          "Strong reputation in Boston's blues and local music scene",
+          "Intimate basement club atmosphere",
+          "Community focus on local and regional musicians",
+          "Affordable pricing",
+          "Central Square location",
+          "Walking distance from The Middle East complex"
+        ],
+        "considerations": [
+          "Smaller capacity (150-200) than most venues on list",
+          "Cash-only bar",
+          "More live music/blues focus than dance club",
+          "Intimate/basement setting"
+        ]
+      },
+      "metadata": {
+        "synced_from": "Cambridge-Cantab.md",
+        "last_updated": "2025-10-07",
+        "status": "active",
+        "notes": "*Research Date: 2025-10-07*\n*Address Verified*: 738 Massachusetts Avenue, Cambridge, MA 02139 (Central Square)\n*Management*: Nagem family ownership since 1994\n*Established*: 1958\n*Key Feature*: Known for Monday night blues jams (Little Joe Cook's Bluesville)",
+        "tags": [
+          "venue",
+          "cambridge",
+          "central-square",
+          "live-music",
+          "blues",
+          "jazz",
+          "historic"
+        ]
+      },
+      "coordinates": {
+        "lat": 42.3631,
+        "lng": -71.1044
+      }
+    }
+  ],
+  "total_venues": 19
+}
