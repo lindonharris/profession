@@ -258,4 +258,4 @@ Each prompt file contains:
 
 **Start with:** `01-homepage.md`
 **End with:** `07-settings-billing.md`
-**Total build time:** 2-3 days (per build-overview.md estimate)
+**Total build time:** 2-3 days (per BUILD-PLAN.md estimate)

@@ -1,4 +1,4 @@
-wsl# Lovable Prompt: Dashboard (Agent Management Hub)
+# Lovable Prompt: Dashboard (Agent Management Hub)
 
 **Phase:** 1 - MVP Launch
 **Page:** Dashboard
@@ -10,63 +10,62 @@ wsl# Lovable Prompt: Dashboard (Agent Management Hub)
 ## Copy-Paste This Into Lovable:
 
 ```
-Create an authenticated dashboard for managing activated AI agents (buyanagent.ai).
+I need a dashboard where users manage their activated AI agents. Think Notion or Linear dashboard - clean, organized, easy to see what's running.
 
-REFERENCE EXISTING CODEBASE:
-- Same design system from homepage (see src/index.css)
-- Same components: Button, Badge, Card from shadcn/ui
-- Icons: Lucide React only (NO emojis)
-- Use transition-fast utility for all animations
-- Use rounded-sm for 2px border radius
-- Same navbar from homepage (but add user avatar dropdown on right)
+This should use the same navbar/footer components we created for the homepage and detail page. Same dark theme, same design system.
 
-LAYOUT:
-- Sidebar navigation (left, 240px wide, #161B22 background)
-- Main content area (right, full remaining width, #0B0E13 background)
+**Layout:**
+The dashboard has two parts - a sidebar on the left for navigation, and the main content area showing active agents.
 
-SIDEBAR:
-- Use bg-card background
-- Logo at top with gradient text
-- Navigation items (use Lucide icons):
-  • "My Agents" (icon: LayoutGrid)
-  • "Billing" (icon: CreditCard)
-  • "Settings" (icon: Settings)
-- Active state: bg-primary text-primary-foreground
-- Inactive: text-muted-foreground hover:text-foreground
-- Icons from lucide-react (20px)
+**Sidebar navigation:**
+- Company logo at top
+- Three menu items: "My Agents", "Billing", "Settings"
+- Use icons from Lucide React (LayoutGrid, CreditCard, Settings)
+- Highlight the active section
+- On mobile, this collapses to a hamburger menu
 
-MAIN CONTENT:
-- Background: #0B0E13
-- Header: "My Agents (3 active)" (Inter Bold 28px, #F9FAFB, margin-bottom 24px)
+**Top bar:**
+- Same navbar as other pages, but add a user avatar dropdown on the right
+- Clicking avatar shows menu: Account Settings, Billing, Help & Support, Sign Out
+- Use the Avatar and DropdownMenu components from shadcn/ui
 
-- Agent cards (vertically stacked, reference AgentCard pattern but expanded for dashboard):
-  Cards are clickable links to /dashboard/agents/{id}/status
+**Main content - Agent cards:**
+Each activated agent shows as a card (similar to the homepage cards but expanded with more info):
+- Agent icon and name at top
+- Badge showing tier (UTILITY or PREMIUM)
+- Price per month
+- Last time it ran (e.g., "2 hours ago")
+- Quick metric (like "Processed 3 receipts this week" or "DSO: 28 days")
+- Action buttons at bottom:
+  - Settings (everyone gets this)
+  - "Upgrade to Premium" (only for Utility tier agents)
+  - "Dashboard" (only for Premium tier agents - links to analytics)
+  - Pause
+  - Cancel (use red/destructive styling)
 
-  Card structure:
-  1. Top row: Lucide icon (32px text-primary) + Agent name (text-xl font-semibold) + <Badge variant={tier}>
-  2. Metadata: Tier name • Price/month (text-muted-foreground)
-  3. Metrics: Last run time + activity stats (text-muted-foreground text-sm)
-  4. Action buttons row:
-     - "Settings" (<Button variant="outline">)
-     - "Upgrade to Premium" (Utility only, variant="outline")
-     - "Dashboard" (Premium only, variant="outline")
-     - "Pause" (variant="outline")
-     - "Cancel" (variant="destructive outline")
-     All buttons use stopPropagation() to prevent card navigation
+The whole card should be clickable and go to that agent's status page, but the buttons should NOT trigger the card click (use stopPropagation).
 
-- Show 3 sample agents:
-  1. "Expense Tracker" (Utility, $69/month, Banknote from lucide-react)
-  2. "Email Sweeper" (Utility, $29/month, Mail from lucide-react)
-  3. "Invoice Chaser" (Premium, $100/month, FileText from lucide-react, show "Dashboard" button)
+**Sample agents to show:**
+1. Expense Tracker (Utility, $69/month, Banknote icon) - "Processed 3 receipts this week"
+2. Email Sweeper (Utility, $29/month, Mail icon) - "Processed 47 emails today"
+3. Invoice Chaser (Premium, $100/month, FileText icon) - "DSO: 28 days (37% improvement)"
 
-- Bottom CTA: <Button variant="default">+ Browse More Agents</Button> (centered)
+**Bottom of page:**
+- Big "+ Browse More Agents" button that goes back to the marketplace
 
-RESPONSIVE:
-- Sidebar collapses to hamburger menu on mobile
-- Agent cards stack on all screen sizes
-- Action buttons wrap on mobile
+**If user has no agents yet:**
+- Show empty state with large icon
+- "No Active Agents Yet" heading
+- "Browse our marketplace to activate your first AI agent" subtext
+- "Browse Agents →" button
 
-Use Tailwind CSS, add smooth hover states with indigo glows, maintain consistency with homepage dark design.
+**Design notes:**
+- Use Card components from shadcn/ui
+- Use Badge component for tier labels (same variants as homepage)
+- Buttons should use the Button component with appropriate variants
+- Keep all the indigo accent colors from our design system
+- Make it responsive - sidebar becomes hamburger on mobile
+- Smooth transitions on hover states
 ```
 
 ---
@@ -74,9 +73,9 @@ Use Tailwind CSS, add smooth hover states with indigo glows, maintain consistenc
 ## Sample Agent Card Data:
 
 **Card 1: Expense Tracker (Utility)**
-- Icon: BanknotesIcon (Heroicons, 32px, #4F46E5)
+- Icon: Banknote (Lucide React)
 - Name: Expense Tracker
-- Tier: UTILITY (#374151 bg, #9CA3AF text)
+- Tier: UTILITY
 - Price: $69/month
 - Status: Active
 - Last run: 2 hours ago
@@ -84,7 +83,7 @@ Use Tailwind CSS, add smooth hover states with indigo glows, maintain consistenc
 - Buttons: Settings, Upgrade to Premium, Pause, Cancel
 
 **Card 2: Email Sweeper (Utility)**
-- Icon: EnvelopeIcon (Heroicons, 32px, #4F46E5)
+- Icon: Mail (Lucide React)
 - Name: Email Sweeper
 - Tier: UTILITY
 - Price: $29/month
@@ -94,40 +93,14 @@ Use Tailwind CSS, add smooth hover states with indigo glows, maintain consistenc
 - Buttons: Settings, Upgrade to Premium, Pause, Cancel
 
 **Card 3: Invoice Chaser (Premium)**
-- Icon: DocumentTextIcon (Heroicons, 32px, #4F46E5)
+- Icon: FileText (Lucide React)
 - Name: Invoice Chaser
-- Tier: PREMIUM (rgba(79,70,229,0.1) bg, #4F46E5 text)
+- Tier: PREMIUM
 - Price: $100/month
 - Status: Active
 - Last run: 30 min ago
 - Metrics: "DSO: 28 days (37% improvement)"
 - Buttons: Settings, Dashboard, Pause, Cancel
-
----
-
-## User Avatar Dropdown (Top Right):
-
-When user clicks their avatar, show dropdown menu (use DropdownMenu from shadcn/ui):
-- Use Avatar component for profile picture
-- User name + email (text-foreground + text-muted-foreground)
-- Separator component
-- "Account Settings" (with Settings icon from lucide-react)
-- "Billing" (with CreditCard icon)
-- "Help & Support" (with HelpCircle icon)
-- Separator
-- "Sign Out" (text-destructive with LogOut icon)
-
----
-
-## Empty State (if user has no agents):
-
-Replace agent cards with:
-- Large Lucide icon (64px text-muted-foreground, use LayoutGrid or Inbox)
-- Title: "No Active Agents Yet" (text-2xl font-bold)
-- Subtitle: "Browse our marketplace to activate your first AI agent" (text-muted-foreground max-w-md)
-- CTA: <Button variant="default">Browse Agents →</Button>
-
-All centered vertically and horizontally in main content area.
 
 ---
 

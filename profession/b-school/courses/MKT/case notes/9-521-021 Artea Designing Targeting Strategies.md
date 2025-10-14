@@ -269,17 +269,334 @@ Segment analysis by:
 - Mitigation: Target only customers with positive predicted incremental revenue
 
 ## Class Discussion Notes
-> [To be filled during/after class discussion]
 
 ### My Participation
 - **Times Spoken**: 0
 - **Cold Called**: No
 
+### Dashboard Results from A/B Test
+
+**Overall Treatment Effect (All 5,000 Customers):**
+
+**Revenue Impact:**
+- **No Coupon Group (Control)**:
+  - Average revenue: $7.78
+  - Number of customers: 2,498
+  - Total revenue: $19,435
+
+- **With Coupon Group (Treatment)**:
+  - Average revenue: $7.54
+  - Number of customers: 2,502
+  - Total revenue: $18,862
+
+- **Revenue Effect**: -$0.24 per customer (-3.1% decrease)
+- **Interpretation**: Coupons DECREASED revenue on average (likely margin erosion from discounts)
+
+**Transaction Impact:**
+- **No Coupon Group (Control)**:
+  - Average transactions: 0.13
+  - Number of customers: 2,498
+  - Total transactions: 314
+
+- **With Coupon Group (Treatment)**:
+  - Average transactions: 0.15
+  - Number of customers: 2,502
+  - Total transactions: 380
+
+- **Transaction Effect**: +0.02 transactions per customer (+15.4% increase)
+- **Interpretation**: Coupons INCREASED purchase likelihood (66 additional transactions)
+
+**Key Paradox:**
+- ✅ Coupons work to drive transactions (+15.4% conversion)
+- ❌ But they destroy revenue (-3.1% due to 20% discount)
+- **Implication**: Universal coupon strategy is value-destructive. Must find customer segments where revenue lift > discount cost.
+
+---
+
+### Heterogeneous Treatment Effects: Shopping Cart Abandoners
+
+**Filter Applied:** Abandoned Shopping Cart = Yes + Google Acquisition Channel
+**Customers Selected:** 623 of 5,000 (12.5%)
+
+**Results Summary:**
+
+| Segment | Metric | No Coupon | With Coupon | Effect |
+|---------|--------|-----------|-------------|--------|
+| **Selected (12.5%)** | Avg Revenue | **$9.58** | **$5.72** | **-$3.86 (-40.3%)** ❌ |
+| Shopping Cart Abandoners | Avg Transactions | **0.15** | **0.12** | **-0.03 (-20%)** ❌ |
+| **(Google channel)** | Total Revenue | $3,162 (330 customers) | $1,676 (293 customers) | |
+| | | | | |
+| **Others (87.5%)** | Avg Revenue | **$7.51** | **$7.78** | **+$0.27 (+3.6%)** ✅ |
+| Non-abandoners | Avg Transactions | **0.12** | **0.16** | **+0.04 (+33%)** ✅ |
+| | Total Revenue | $16,273 (2,168 customers) | $17,186 (2,209 customers) | |
+
+**Critical Insight: Counter-Intuitive Finding**
+
+**Hypothesis (Expected):** Shopping cart abandoners = high intent + price sensitive → coupons should drive conversions
+
+**Reality (Observed):** Shopping cart abandoners with coupons had:
+- 40% LOWER revenue per customer
+- 20% FEWER transactions
+- Worse performance than control group
+
+**Why This Happens (Class Discussion):**
+
+1. **"Sure Things" Misidentified as "Persuadables"**
+   - Cart abandoners who would return organically received unnecessary discount
+   - Margin erosion without incremental conversion
+   - Classic example of giving discounts to customers who would buy anyway
+
+2. **Discount Signal Effect**
+   - 20% coupon may signal lower quality or desperation
+   - Undermines brand perception for engaged customers
+   - Creates "wait for discount" behavior in future
+
+3. **Sample Composition**
+   - Google acquisition channel may attract higher-intent, less price-sensitive customers
+   - These customers abandon cart for non-price reasons (comparison shopping, timing)
+   - Coupon doesn't address root cause of abandonment
+
+**Targeting Implication:**
+
+❌ **DO NOT TARGET:** Google-acquired shopping cart abandoners with coupons
+- They convert worse WITH coupons than WITHOUT
+- This segment represents "Sure Things" → margin destruction
+
+✅ **DO TARGET:** Other customer segments (non-abandoners)
+- Show modest revenue lift (+3.6%) and transaction lift (+33%)
+- Better candidates for coupon campaigns
+
+**Key Lesson:** Intuition about "high-intent + price-sensitive" can be wrong. Data reveals shopping cart abandonment ≠ price sensitivity for this segment. Must test assumptions with A/B experiments.
+
+---
+
+### Heterogeneous Treatment Effects: Social/Referral Cart Abandoners with Purchase History
+
+**Filter Applied:** Abandoned Shopping Cart = Yes + (Facebook OR Instagram OR Referral OR Other) + Number of Purchases ≥ 1
+**Customers Selected:** 561 of 5,000 (11.2%)
+
+**Results Summary:**
+
+| Segment | Metric | No Coupon | With Coupon | Effect |
+|---------|--------|-----------|-------------|--------|
+| **Selected (11.2%)** | Avg Revenue | **$19.43** | **$25.82** | **+$6.39 (+33%)** ✅ |
+| Cart Abandoners | Avg Transactions | **0.32** | **0.52** | **+0.20 (+63%)** ✅ |
+| (Social/Referral + 1+ purchases) | Total Revenue | $5,440 (280 customers) | $7,254 (281 customers) | |
+| | | | | |
+| **Others (88.8%)** | Avg Revenue | **$6.31** | **$5.23** | **-$1.08 (-17%)** ❌ |
+| Non-matching customers | Avg Transactions | **0.10** | **0.11** | **+0.01 (+10%)** ≈ |
+| | Total Revenue | $13,995 (2,218 customers) | $11,608 (2,221 customers) | |
+
+**Critical Insight: TRUE "Persuadables" Identified**
+
+**Hypothesis:** Cart abandoners from social/referral channels with past purchase history = price-sensitive returners who need incentive
+
+**Reality (Observed):** This segment responded VERY POSITIVELY to coupons:
+- **+33% revenue** per customer ($19.43 → $25.82)
+- **+63% transactions** (0.32 → 0.52)
+- **Massive incremental value creation**
+
+**Why This Segment Works (Class Discussion):**
+
+1. **True "Persuadables" Profile**
+   - Already purchased once → know product quality, not comparing
+   - Abandoned cart = price sensitivity/budget constraint
+   - Social/referral acquisition = community-driven, deal-seeking behavior
+   - Coupon tips decision for customers who WOULD NOT buy without it
+
+2. **Purchase History Matters**
+   - 1+ past purchases = validated customer, lower acquisition risk
+   - Returning customers with cart abandonment = clear price signal
+   - Discount addresses root cause (price) vs. Google abandoners (timing/comparison)
+
+3. **Channel Effects**
+   - Facebook/Instagram/Referral attract more price-conscious customers
+   - Social sharing culture → discount codes feel natural, not desperate
+   - Community validation reduces quality concerns from discounting
+
+**Targeting Implication:**
+
+✅ **DEFINITELY TARGET:** Social/referral cart abandoners with 1+ past purchases
+- Strong positive revenue lift despite 20% discount
+- High transaction conversion (+63%)
+- Classic "Persuadables" → incremental revenue generation
+
+❌ **DO NOT TARGET:** Other customer segments (88.8%)
+- Revenue declined 17% with coupons
+- Minimal transaction benefit
+- Margin destruction without conversion lift
+
+---
+
+### Consolidated Targeting Framework from A/B Test
+
+**The Three Customer Types (Validated with Data):**
+
+| Customer Type | Example Segment | Coupon Effect | Revenue Impact | Action |
+|---------------|----------------|---------------|----------------|--------|
+| **"Sure Things"** | Google cart abandoners | Negative | -40% revenue | ❌ DO NOT TARGET |
+| | (would buy anyway) | | -20% transactions | (margin destruction) |
+| | | | | |
+| **"Persuadables"** | Social/referral cart abandoners | Positive | +33% revenue | ✅ TARGET AGGRESSIVELY |
+| | with 1+ purchases | | +63% transactions | (incremental value) |
+| | (need coupon to buy) | | | |
+| | | | | |
+| **"Lost Causes"** | General population | Minimal/Negative | -17% to +4% | ❌ DO NOT TARGET |
+| | (won't buy regardless) | | Flat transactions | (waste of discount) |
+
+**Optimal Targeting Policy for Next Campaign (6,000 new customers):**
+
+**Tier 1 (Highest Priority):**
+- Abandoned shopping cart = Yes
+- Acquisition channel = Facebook OR Instagram OR Referral OR Other
+- Number of past purchases ≥ 1
+- **Expected Impact:** +33% revenue, +63% transactions
+
+**Tier 2 (Test Cautiously):**
+- No shopping cart abandonment
+- Social/referral channels
+- Past purchase activity
+- **Expected Impact:** Modest lift, lower magnitude
+
+**Tier 3 (Avoid):**
+- Google acquisition channel (regardless of cart status)
+- Zero past purchases
+- High browsing engagement without cart addition
+- **Expected Impact:** Negative revenue, margin erosion
+
+**Key Strategic Insight:**
+
+The interaction between **acquisition channel**, **purchase history**, and **cart abandonment** reveals non-obvious patterns:
+- Cart abandonment alone is NOT sufficient signal
+- Channel matters (social/referral ≠ Google behavior)
+- Purchase history validates price sensitivity vs. comparison shopping
+
+**This is why A/B testing + segmentation analysis > marketing intuition.**
+
+---
+
+### My Submitted Targeting Policy
+
+**Methodology:** Filtered for statistical significance over the widest surface area to maximize confidence in treatment effects while maintaining reasonable sample size.
+
+**Policy Submitted to Dashboard:**
+
+**Target Customers Who Meet These Criteria:**
+- Abandoned shopping cart = Yes
+- Acquisition channel = Facebook OR Instagram OR Referral OR Other (exclude Google)
+- Number of past purchases ≥ 1
+
+**Rationale:**
+1. **Statistical Significance**: This segment (11.2% of sample, 561 customers) showed large, reliable treatment effects (+33% revenue, +63% transactions)
+2. **Surface Area**: Broad enough to generate meaningful volume for next campaign while maintaining targeting precision
+3. **Risk Mitigation**: Excludes Google channel which showed strong negative effects (-40% revenue)
+4. **Economic Logic**: Positive revenue lift outweighs 20% discount cost, creating incremental value
+
+**Expected Performance on 6,000 New Customers:**
+- Estimated targets: ~672 customers (11.2% × 6,000)
+- Projected incremental revenue per targeted customer: +$6.39
+- Total incremental revenue: ~$4,294
+- Incremental transactions: ~134 additional purchases
+
+**Trade-offs Accepted:**
+- Narrower targeting (11.2%) vs. universal (100%) sacrifices total transaction volume
+- But maximizes efficiency and profitability per dollar of discount invested
+- Avoids negative-ROI segments that destroy margin
+
 ### Key Insights from Discussion
--
+
+**Core Frameworks Applied:**
+
+1. **Three Customer Types Framework**
+   - **"Persuadables"**: Won't buy without coupon, will buy with it → TARGET
+   - **"Sure Things"**: Would buy anyway → DON'T target (margin destruction)
+   - **"Lost Causes"**: Won't buy regardless → DON'T target (wasted discount)
+
+2. **Acquisition Channel as Behavioral Proxy**
+   - Google = high-intent, comparison shoppers, less price-sensitive
+   - Social/Referral = community-driven, deal-seeking, more price-sensitive
+   - Channel reveals customer psychology beyond just traffic source
+
+3. **Purchase History as Validation Signal**
+   - 1+ purchases = knows product quality, true price sensitivity revealed
+   - 0 purchases = still evaluating, abandonment may signal other concerns
+   - Returning customers with cart abandonment = clearest price signal
+
+**Counter-Intuitive Findings:**
+
+1. **Average Treatment Effect Can Be Misleading**
+   - Overall: -3.1% revenue, +15.4% transactions
+   - Tempting to conclude "coupons don't work"
+   - Reality: Strong positive for 11.2%, strong negative for others
+   - **Lesson**: Never rely on ATE alone, always segment
+
+2. **Shopping Cart Abandonment ≠ Universal Price Sensitivity**
+   - Google cart abandoners: -40% revenue with coupons (WORSE)
+   - Social cart abandoners: +33% revenue with coupons (BETTER)
+   - Same behavior (abandonment), opposite response to treatment
+   - **Lesson**: Context (channel) determines meaning of behavioral signal
+
+3. **More Targeted ≠ Always Better**
+   - Could narrow further (e.g., only Instagram + 2+ purchases)
+   - But sample size shrinks, statistical confidence decreases
+   - 11.2% targeting balances precision with volume
+   - **Lesson**: Optimize for significance × scale, not just effect size
+
+**Practical Marketing Implications:**
+
+1. **Never Send Mass Coupons**
+   - Universal targeting: -$573 total revenue loss (overall ATE × 5,000)
+   - Selective targeting: +$4,294 total revenue gain (11.2% targeted)
+   - Difference: $4,867 from smart segmentation
+
+2. **Test Before Scaling**
+   - Alex's instinct to A/B test saved brand from "educating customers to only buy on discount"
+   - Without test, might have rolled out universal coupons → destroyed margins
+   - $52 investment in experiment → $4,867 value in decision quality
+
+3. **Interaction Effects Matter**
+   - Channel + Purchase History + Cart Abandonment = non-linear effects
+   - Can't predict from any single variable alone
+   - Requires multivariate analysis, not simple segmentation
+
+**Broader Strategic Lessons:**
+
+1. **Data-Driven ≠ Data-Dictated**
+   - Dashboard provides evidence, but requires interpretation
+   - My methodology: "Statistical significance over widest surface area"
+   - Balances rigor (confidence) with pragmatism (volume)
+
+2. **Promotional Strategy as Margin Management**
+   - Coupons are NOT about customer acquisition (CAC tool)
+   - They're about MARGIN ALLOCATION to Persuadables
+   - Wrong targeting = giving margin to Sure Things (theft from yourself)
+
+3. **Brand Protection Through Precision**
+   - Alex's fear: "educating customers to only buy on discount"
+   - Solution: Selective targeting prevents this behavior from spreading
+   - 88.8% of customers never see discount → brand integrity maintained
 
 ### Alternative Perspectives
--
+
+**Could Have Targeted More Aggressively:**
+- Some classmates may target 20-30% of customers (broader)
+- Argument: Capture more Persuadables even if some Sure Things included
+- Trade-off: Higher revenue volume but lower efficiency
+
+**Could Have Targeted More Conservatively:**
+- Some may target only 5-8% (narrower)
+- Argument: Maximum confidence in positive effects
+- Trade-off: Higher efficiency but miss meaningful volume
+
+**Alternative Metrics to Optimize:**
+- Could optimize for transaction count instead of revenue
+- Could optimize for customer lifetime value (not in data)
+- Could optimize for margin dollars (revenue - discount cost)
+
+**My Choice (11.2%):**
+- Optimized for statistical significance + reasonable scale
+- Conservative enough to avoid negative segments
+- Broad enough to generate meaningful campaign impact
 
 ### Professor's Takeaways
 -

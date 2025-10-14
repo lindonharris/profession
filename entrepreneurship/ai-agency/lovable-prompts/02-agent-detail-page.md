@@ -10,72 +10,54 @@
 ## Copy-Paste This Into Lovable:
 
 ```
-Create a detailed product page for an AI agent in a dark, exclusive marketplace (buyanagent.ai).
+I need a product detail page for an AI agent marketplace. This should match the homepage we already built (same dark theme, same navbar/footer, same design system).
 
-REFERENCE EXISTING CODEBASE:
-- Same design system from homepage (see src/index.css)
-- Same components: Button, Badge, ThemeToggle from shadcn/ui
-- Icons: Lucide React only (NO emojis) - https://lucide.dev/icons/
-- Transitions: Use transition-fast utility
-- Border radius: Use rounded-sm (2px)
-- Same navbar from homepage
-- Same footer from homepage
+The page should work like a premium product page - think Stripe or Linear. Clean, focused, shows value immediately.
 
-ROUTING:
-- URL pattern: /agents/{agent-id} (use agent.id field from homepage)
-- Example: /agents/email-classifier
-- Fetch agent data based on route parameter
+Here's what I need on the page:
 
-BREADCRUMB:
-- "Home > Browse Agents > {Agent Name}" (14px, #9CA3AF)
-- Separator: ">" (#6B7280)
-- Current page: #F9FAFB bold
-- Hover: #4F46E5
-- Margin bottom: 24px
+**Top of page:**
+- Breadcrumb trail showing "Home > Browse Agents > {Agent Name}" so people know where they are
+- Big hero section with the agent's icon (use Lucide icons like we did on homepage) next to the agent name
+- 2-3 paragraphs explaining what it does and why it's valuable
+- Quick stats line like "From $100/month • 15 min setup • 127 members using"
+- Two buttons: primary "Request Access" and secondary "Watch Demo"
 
-HERO SECTION:
-- Layout: Horizontal - Lucide icon (64px, text-primary) + Title (text-4xl font-bold)
-- Description: 2-3 paragraphs (text-lg text-muted-foreground, max-w-3xl)
-- Metadata: "From ${PRICE}/month • 15-20 min setup • 127 members using"
-- CTAs: <Button variant="default">Request Access →</Button> + <Button variant="outline">Watch Demo</Button>
+**How it works section:**
+- Show 3 steps in a visual flow (Connect → Configure → Activate)
+- Use cards with icons for each step
+- Put arrow icons between them to show the flow
+- Should stack nicely on mobile
 
-HOW IT WORKS (3-STEP VISUAL):
-- Section title (text-2xl font-bold mb-10)
-- Three cards in grid, use Card component from shadcn/ui
-- Each card: Lucide icon (48px text-primary) → Title (font-semibold) → Description (text-muted-foreground)
-- Arrow icons between cards (ChevronRight from lucide-react)
-- Responsive grid (3 columns → stack on mobile)
+**Integrations section:**
+- Grid showing which apps this agent connects to (Gmail, Sheets, QuickBooks, etc.)
+- Logo placeholders for each integration
+- 6 columns on desktop, 3 on mobile
 
-INTEGRATIONS SECTION:
-- Section title: "Required Integrations" (Inter Bold 24px, #F9FAFB)
-- Grid: 80x80px cards, #1F2937 background, integration logo centered, name below (#D1D5DB, 14px)
-- 6 columns desktop, 3 mobile
-- Examples: Gmail, Google Sheets, Slack, QuickBooks
+**Pricing section (for Premium tier agents only):**
+- Two pricing cards side by side comparing "Utility Tier" vs "Premium Tier"
+- Show what you get at each level (status page vs full dashboard, etc.)
+- Highlight the Premium tier with a subtle indigo glow
+- Buttons to activate at either tier
 
-PRICING COMPARISON (for Premium tier agents):
-- Two columns: "Utility Tier" vs "Premium Tier"
-- Utility card: #161B22 bg, #374151 border
-  - Price, "Status page", "Email support", "Unlimited runs"
-- Premium card: #4F46E520 bg (10% indigo tint), #4F46E5 border (highlighted)
-  - Price, "Full dashboard", "Analytics", "Priority support", "Export reports"
-- CTA buttons below each: Both use indigo gradient
-- All text: #F9FAFB headlines, #E5E7EB body
+**Social proof section:**
+- Customer testimonial with quote
+- Star rating (use Star icons from Lucide, not emoji)
+- Attribution with customer name and title
 
-REVIEWS SECTION:
-- Section title (text-3xl font-bold text-center)
-- Testimonial card using Card component
-- Quote (italic text-lg text-muted-foreground)
-- Attribution (text-sm text-right)
-- Star rating: Use Star icon from lucide-react (NO emoji stars)
+**FAQ section:**
+- Collapsible accordion with 5-7 common questions
+- Use the Collapsible component from shadcn/ui
+- Chevron icon that rotates when expanded
 
-FAQ ACCORDION:
-- Use Collapsible component from shadcn/ui (@/components/ui/collapsible)
-- Section title (text-2xl font-bold)
-- Each item: Question (font-medium) + expandable answer (text-muted-foreground)
-- Expand icon: ChevronDown from lucide-react (rotates on open)
-- Include 5-7 questions
+**Design notes:**
+- Match homepage exactly (same colors, same fonts, same components)
+- Use shadcn/ui components: Button, Card, Badge, Collapsible
+- Use Lucide React for all icons
+- Keep it responsive - should look great on phone and desktop
+- Dark mode optimized
 
-Use Tailwind CSS, fully responsive, 200ms transitions, dark mode optimized.
+The URL pattern should be /agents/{agent-id} and pull the agent data based on which one they clicked from the homepage.
 ```
 
 ---

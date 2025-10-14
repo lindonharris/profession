@@ -11,7 +11,7 @@
 | Need | Go To |
 |------|-------|
 | **Project overview** | [README.md](README.md) |
-| **Build the marketplace** | [02-build/build-overview.md](02-build/build-overview.md) |
+| **Build the marketplace** | [BUILD-PLAN.md](BUILD-PLAN.md) |
 | **Agent specifications** | [01-strategy/agent-catalog.md](01-strategy/agent-catalog.md) |
 | **Build n8n agents** | [agent-workshops/n8n/](agent-workshops/n8n/) |
 | **n8n critical bugs** | [agent-workshops/n8n/docs/critical-bugs.md](agent-workshops/n8n/docs/critical-bugs.md) |
@@ -39,7 +39,7 @@ ai-agency/
 │   └── marketplace-ux.md              UI/UX specs
 │
 ├── 02-build/                          Implementation
-│   ├── build-overview.md              12-step build guide
+│   ├── agent-technical-components.md  Reusable n8n modules
 │   ├── agent-development-plan.md      Agent timeline
 │   └── agent-technical-components.md   Reusable modules
 │
@@ -198,7 +198,7 @@ ai-agency/
 2. [start.md](start.md) - 15 min
 3. [01-strategy/agent-catalog.md](01-strategy/agent-catalog.md) - 10 min
 4. [01-strategy/competitive-analysis.md](01-strategy/competitive-analysis.md) - 15 min
-5. [02-build/build-overview.md](02-build/build-overview.md) - 20 min
+5. [BUILD-PLAN.md](BUILD-PLAN.md) - 15 min (complete roadmap)
 6. [01-strategy/vision.md](01-strategy/vision.md) - 25 min
 
 **Outcome:** Full understanding of project strategy and build plan

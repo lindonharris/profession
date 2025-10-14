@@ -4,9 +4,9 @@
 Central repository for all Harvard Business School case studies. Cases are organized by course, date, and topic for easy reference and cross-linking.
 
 ## Quick Stats
-- **Total Cases**: 49
+- **Total Cases**: 54
 - **Courses Covered**: 7 (START, MKT, STRAT, TOM, LEAD, FRC, FIN1)
-- **Last Updated**: 2025-10-06
+- **Last Updated**: 2025-10-13
 
 ## By Course
 
@@ -26,6 +26,7 @@ Central repository for all Harvard Business School case studies. Cases are organ
 - [[N2-716-428 Ryanair]] - Airline market entry strategy, competitive response prediction, game theory
 - [[9-720-390 Keroche (A) Fighting for Share in the Kenyan Alcoholic Drinks Market]] - Competitive response to incumbent, emerging markets, institutional challenges
 - [[9-713-478 LEGO (A) The Crisis]] - Turnaround strategy from bankruptcy, complexity management, return to core competency
+- [[9-719-420 KITEA]] - Local incumbent defending against IKEA entry, differentiation vs low-cost strategy, value chain coherence
 
 ### Finance (FRC - Financial Reporting & Control)
 - [[9-111-003 Accounting for iPhone at Apple]] - Revenue recognition and subscription accounting
@@ -36,6 +37,8 @@ Central repository for all Harvard Business School case studies. Cases are organ
 - [[9-119-032 Stock-Based Compensation at Twitter]] - Stock-based compensation accounting, GAAP vs. non-GAAP reporting, RSUs and stock options
 - [[9-121-017 Ketchup and Hotdog Synergies]] - Acquisition accounting, intangible assets, goodwill, impairment testing
 - [[9-121-018 Capitalizing Development Costs at Fiat Chrysler and Volkswagen]] - R&D capitalization, IFRS vs US GAAP, development costs, intangible assets, amortization
+- [[9-113-004 Nalli Silk Sarees (A)]] - Cost measurement, activity-based costing, pricing strategy, product profitability analysis
+- [[9-505-078 Narayana Hrudayalaya Heart Hospital]] - Operations strategy, cost management, and scaling affordable healthcare in emerging markets
 
 ### FIN1 (Finance 1)
 - [[2-222-011 Butler Lumber Company]] - Working capital management, growth financing, and banking relationships
@@ -44,6 +47,7 @@ Central repository for all Harvard Business School case studies. Cases are organ
 - [[9-223-003 The Mighty Squirrel Brewery and Taproom]] - Financial forecasting, funding needs, strategic pivot from national to local brewery
 - [[N9-225-112 Progyny (Abridged)]] - DCF valuation, perpetuities, terminal value, regulatory risk assessment (Alabama IVF ruling)
 - [[9-222-018 Hamilton An American Musical]] - Decision tree analysis, real options valuation, expected cash flows, Broadway investment under uncertainty
+- [[N2-224-114 Selling for a Song]] - Multiples valuation, music catalog royalty streams, comparable firm analysis, DCF modeling
 
 ### MKT (Marketing)
 - [[9-522-006 Supreme]] - Brand management and acquisition integration
@@ -57,6 +61,7 @@ Central repository for all Harvard Business School case studies. Cases are organ
 - [[N2-525-007 Gilead Hepatitis C Access Strategy]] - Pricing strategy, tiered pricing, global market segmentation, pricing thermometer framework
 - [[9-519-022 Glossier Co-Creating a Cult Brand with a Digital Community]] - DTC brands, social commerce, influencer marketing, community co-creation
 - [[9-521-021 Artea Designing Targeting Strategies]] - A/B testing, sales promotion targeting, customer segmentation, heterogeneous treatment effects
+- [[9-502-030 Aqualisa Quartz]] - Product launch strategy, innovation adoption barriers, go-to-market strategy, channel dynamics in UK shower market
 
 ### Operations
 - 
@@ -77,6 +82,7 @@ Central repository for all Harvard Business School case studies. Cases are organ
 - [[624-092 Hospital for Special Surgery]] - COVID-19 reopening operations, patient flow bottlenecks, capacity planning
 - [[9-621-006 Student Success at Georgia State University]] - Process improvement, predictive analytics, equity outcomes in higher education
 - [[9-693-019 Toyota Motor Manufacturing]] - Toyota Production System, JIT, jidoka, andon cord, kaizen, quality vs. productivity tradeoffs
+- [[N2-625-002 Shad Process Flow Design]] - Process design simulation, takt time, MRP, kaizen, work decomposition
 
 ### Business, Government & International Economy
 - 
@@ -91,6 +97,10 @@ Central repository for all Harvard Business School case studies. Cases are organ
 - [[9-722-395 Walmart USA]] - Discount retail and e-commerce
 - [[9-117-038 Signet Jewelers Assessing Customer Financing Risk]] - Specialty jewelry retail (Kay, Zales, Jared)
 - [[9-523-003 OOFOS Recovery Footwear]] - Recovery and athletic footwear, digital marketing, DTC strategy
+- [[9-113-004 Nalli Silk Sarees (A)]] - Indian ethnic wear retail, silk sarees, pricing strategy
+
+### Furniture & Home Goods Retail
+- [[9-719-420 KITEA]] - Moroccan furniture retailer facing IKEA entry, flatpack furniture, competitive strategy
 
 ### Healthcare & Life Sciences
 - [[9-505-078 Narayana Hrudayalaya Heart Hospital]] - Cardiac care in India
@@ -99,6 +109,7 @@ Central repository for all Harvard Business School case studies. Cases are organ
 ### Arts & Entertainment
 - [[N9-725-390 Royal Opera House]] - Performing arts (opera and ballet)
 - [[9-222-018 Hamilton An American Musical]] - Broadway musical theater production and investment
+- [[N2-224-114 Selling for a Song]] - Music industry catalog valuation and royalty streams
 
 ### Technology
 - [[9-509-049 HubSpot]] - SaaS marketing software
@@ -136,6 +147,7 @@ Central repository for all Harvard Business School case studies. Cases are organ
 - [[9-120-126 Mira's Microbrewery Inc]] - Craft beer manufacturing and bourbon barrel aging
 - [[N1-726-353 Yanhai Aluminum]] - Aluminum smelting and green production
 - [[9-223-003 The Mighty Squirrel Brewery and Taproom]] - Craft brewery startup, contract vs owned manufacturing, taproom economics
+- [[N2-625-002 Shad Process Flow Design]] - Electronics assembly simulation and operations exercise
 
 ### Automotive Manufacturing
 - [[9-121-018 Capitalizing Development Costs at Fiat Chrysler and Volkswagen]] - Auto industry R&D, IFRS vs US GAAP accounting standards
@@ -161,6 +173,7 @@ Central repository for all Harvard Business School case studies. Cases are organ
 ### Asia
 #### India
 - [[9-505-078 Narayana Hrudayalaya Heart Hospital]] - Bangalore
+- [[9-113-004 Nalli Silk Sarees (A)]] - Chennai, Mumbai, pan-India presence
 
 #### China
 - [[N1-726-353 Yanhai Aluminum]] - Yunnan Province
@@ -199,6 +212,9 @@ Central repository for all Harvard Business School case studies. Cases are organ
 ### Africa
 #### Kenya
 - [[9-720-390 Keroche (A) Fighting for Share in the Kenyan Alcoholic Drinks Market]] - Nairobi, Naivasha
+
+#### Morocco
+- [[9-719-420 KITEA]] - Casablanca, Rabat, Marrakesh, and 14 cities nationwide
 
 ## By Key Themes
 
@@ -239,6 +255,7 @@ Central repository for all Harvard Business School case studies. Cases are organ
 - [[N2-725-366 Preparing for Growth in the Fiber Optics Industry]] - Oligopolistic competition and capacity expansion games
 - [[N2-716-428 Ryanair]] - Market entry and competitive response prediction
 - [[9-720-390 Keroche (A) Fighting for Share in the Kenyan Alcoholic Drinks Market]] - Incumbent monopoly competitive response, emerging market entrepreneurship
+- [[9-719-420 KITEA]] - Local incumbent defending against global giant, differentiation vs low-cost positioning, value chain coherence
 
 ### Crisis Management
 - [[9-423-021 Jackie Hu]] - Project crisis with <50 days to launch
@@ -329,6 +346,12 @@ Central repository for all Harvard Business School case studies. Cases are organ
 - [[9-222-018 Hamilton An American Musical]] - Read: 2025-10-06 (FIN1)
 - [[9-521-021 Artea Designing Targeting Strategies]] - Read: 2025-10-06 (MKT)
 - [[9-713-478 LEGO (A) The Crisis]] - Read: 2025-10-06 (STRAT)
+- [[9-113-004 Nalli Silk Sarees (A)]] - Read: 2025-10-08 (FRC)
+- [[N2-625-002 Shad Process Flow Design]] - Read: 2025-10-08 (TOM)
+- [[9-505-078 Narayana Hrudayalaya Heart Hospital]] - Read: 2025-10-10 (FRC Class 13)
+- [[N2-224-114 Selling for a Song]] - Read: 2025-10-13 (FIN1)
+- [[9-502-030 Aqualisa Quartz]] - Read: 2025-10-13 (MKT)
+- [[9-719-420 KITEA]] - Read: 2025-10-13 (STRAT)
 
 ## Study Groups & Discussions
 

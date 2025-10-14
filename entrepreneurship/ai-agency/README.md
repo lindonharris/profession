@@ -15,16 +15,24 @@
 **New to this project? Read these docs in order:**
 
 1. **[start.md](./start.md)** - What we're building and why (15 min read)
-2. **[01-strategy/agent-catalog.md](./01-strategy/agent-catalog.md)** - 22 agents we'll build (10 min read)
-3. **[01-strategy/competitive-analysis.md](./01-strategy/competitive-analysis.md)** - How we beat Zapier/Make/n8n (15 min read)
-4. **[02-build/build-overview.md](./02-build/build-overview.md)** - Step-by-step build guide (20 min read)
-5. **[01-strategy/vision.md](./01-strategy/vision.md)** - Technical architecture (25 min read)
+2. **[BUILD-PLAN.md](./BUILD-PLAN.md)** ⭐ - Implementation roadmap & current status (10 min read)
+3. **[01-strategy/agent-catalog.md](./01-strategy/agent-catalog.md)** - 22 agents we'll build (10 min read)
+4. **[01-strategy/competitive-analysis.md](./01-strategy/competitive-analysis.md)** - How we beat Zapier/Make/n8n (15 min read)
+5. **[02-build/build-overview.md](./02-build/build-overview.md)** - Step-by-step build guide (20 min read)
+6. **[01-strategy/vision.md](./01-strategy/vision.md)** - Technical architecture (25 min read)
 
 **After that, you'll understand the complete marketplace strategy.**
 
 ---
 
 ## 📖 Folder Structure
+
+### **BUILD-PLAN.md** ⭐ - Implementation Roadmap
+Single source of truth for build status, roadmap, and execution plan
+- Version-aligned phases (v1.1 → v2.0)
+- Progress tracking (14% complete)
+- Success metrics & milestones
+- References all tactical docs
 
 ### **01-strategy/** - WHAT We're Building
 Strategic vision, competitive positioning, and agent specifications
@@ -36,8 +44,7 @@ Strategic vision, competitive positioning, and agent specifications
 
 ### **02-build/** - HOW to Build It
 Practical implementation guides and technical components
-- `build-overview.md` - 12-step plain-English build guide
-- `agent-development-plan.md` - Agent development timeline
+- `build-overview.md` - 12-step plain-English build guide (tactical details)
 - `agent-technical-components.md` - Reusable n8n modules
 
 ### **03-research/** - WHY These Decisions
@@ -87,9 +94,15 @@ Project management and research planning
 
 ### **First-Time Readers:**
 ```
-start.md → 01-strategy/ → 02-build/
+start.md → BUILD-PLAN.md → 01-strategy/ → 02-build/
 ```
-**Time:** 85 minutes | **Outcome:** Full understanding of strategy and build plan
+**Time:** 95 minutes | **Outcome:** Full understanding of strategy and implementation roadmap
+
+### **Ready to Build? START HERE:**
+```
+BUILD-PLAN.md → lovable-prompts/ → 02-build/build-overview.md
+```
+**Time:** 45 minutes | **Outcome:** Know exactly what to build next and how
 
 ### **Want Decision Context?**
 ```
@@ -99,15 +112,15 @@ CHANGELOG.md → 04-decisions/ → 03-research/README-RESEARCH.md
 
 ### **Ready to Build the UI?**
 ```
-01-strategy/brand-design-system.md → lovable-prompts/00-README.md → lovable-prompts/01-07
+BUILD-PLAN.md → 01-strategy/brand-design-system.md → lovable-prompts/00-README.md → lovable-prompts/01-07
 ```
-**Time:** 15 minutes to understand | **Outcome:** Ready to copy-paste into Lovable with complete design system
+**Time:** 25 minutes to understand | **Outcome:** Ready to copy-paste into Lovable with complete design system
 
 ### **Ready to Build the Backend?**
 ```
-01-strategy/marketplace-ux.md → 02-build/build-overview.md → 01-strategy/vision.md
+BUILD-PLAN.md → 01-strategy/marketplace-ux.md → 02-build/build-overview.md → 01-strategy/vision.md
 ```
-**Time:** 70 minutes | **Outcome:** Understand full technical architecture
+**Time:** 80 minutes | **Outcome:** Understand full technical architecture
 
 ---
 
@@ -115,13 +128,14 @@ CHANGELOG.md → 04-decisions/ → 03-research/README-RESEARCH.md
 
 | File | Purpose | Location |
 |------|---------|----------|
+| **BUILD-PLAN.md** ⭐ | Implementation roadmap, status, milestones | Root (single source of truth) |
 | **start.md** | Executive summary, positioning vs Zapier | Root (for visibility) |
 | **vision.md** | Technical architecture (DB, Stripe, n8n) | 01-strategy/ |
 | **agent-catalog.md** | All 22 agents with specifications | 01-strategy/ |
 | **competitive-analysis.md** | Market intelligence | 01-strategy/ |
 | **brand-design-system.md** | Dark indigo design system (all colors, typography, shadows) | 01-strategy/ |
 | **marketplace-ux.md** | UI/UX specs for Lovable | 01-strategy/ |
-| **build-overview.md** | 12-step build guide | 02-build/ |
+| **build-overview.md** | 12-step tactical build guide | 02-build/ |
 
 ---
 
@@ -348,6 +362,6 @@ All documents have been completely rewritten and aligned as of October 5, 2025:
 
 ---
 
-**New here? Start with:** [start.md](./start.md) → [01-strategy/agent-catalog.md](./01-strategy/agent-catalog.md) → [01-strategy/competitive-analysis.md](./01-strategy/competitive-analysis.md)
+**New here? Start with:** [start.md](./start.md) → [BUILD-PLAN.md](./BUILD-PLAN.md) → [01-strategy/agent-catalog.md](./01-strategy/agent-catalog.md)
 
-**Ready to build? Go to:** [01-strategy/marketplace-ux.md](./01-strategy/marketplace-ux.md) → [02-build/build-overview.md](./02-build/build-overview.md) → [01-strategy/vision.md](./01-strategy/vision.md)
+**Ready to build? Go to:** [BUILD-PLAN.md](./BUILD-PLAN.md) → [lovable-prompts/00-README.md](./lovable-prompts/00-README.md) → [02-build/build-overview.md](./02-build/build-overview.md)

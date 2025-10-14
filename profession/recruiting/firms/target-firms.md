@@ -1,129 +1,93 @@
 # Target Firms
 
-> Investment thesis-driven approach to recruiting
+> Prioritized by strategic fit: High performing emerging managers & bespoke strategies (Plan A) vs. Megafund optionality plays (Plan B)
 
 ---
-**Last Review:** September 28, 2025
-**Status:** 21 firms tracked | 1 applied | 3 investment theses
+**Last Review:** October 13, 2025
+**Status:** 18 firms tracked | 1 applied
 
 ---
 
-## Executive Summary
-
-| Investment Thesis | Firms | Lead Targets | Status |
-|:-----------------|:------|:-------------|:-------|
-| **🚀 Emerging Managers** | 7 | Arctos, Hunter Point, Blue Owl | Building new strategies |
-| **🏛️ Megafund Excellence** | 8 | Blackstone Tac Opps, Goldman XIG | 1 applied (GS XIG) |
-| **⚽ Sports & Media** | 3 | Arctos, Apollo Sports | Leveraging expertise |
-
-### Status Indicators
+## Status Indicators
 `📁 Profile` `✅ Applied` `👤 Connection` `🎯 Priority` `🔍 Exploring`
 
 ---
 
-## Thesis I: Emerging Managers & New Strategies 🚀
+## Tier 1 - Primary Targets (Plan A)
+> High performing emerging managers & bespoke strategies where I can occupy meaningful "market share" of thought leadership and innovation. Mutual risk-taking opportunities.
 
-> **My Story:** Joined Arctos pre-Fund I close, then pioneered sustainable infrastructure financing platform. I thrive in entrepreneurial finance, solving problems in inefficient markets, and charting new territories within white space.
+### **High Performing Emerging Managers**
+- **[[tier-1-plan-a/26-North|26-North]]** 📁 — Insurance-linked securities
+- **[[tier-1-plan-a/BDT-MSD-Partners|BDT & MSD Partners]]** 📁👤 — Merchant bank, family/founder-led businesses
+- **[[tier-1-plan-a/Blue-Owl|Blue Owl]]** 📁🎯 — GP stakes/strategic capital, high growth trajectory
+- **[[tier-1-plan-a/Hunter-Point|Hunter Point]]** 📁🎯 — Emerging alternatives platform
+- **[[tier-1-plan-a/New-Catalyst|New-Catalyst]]** 📁 — Emerging managers platform
 
-### **New Platforms**
-- **[[Arctos|Arctos]]** 📁👤 — Joined pre-Fund I, now $9B+ sports franchise specialist
-- **Hunter Point** 🎯 — Emerging alternatives platform (profile needed)
-- **Blue Owl** 🎯 — GP stakes/strategic capital, high growth trajectory
-- **[[New-Catalyst|New-Catalyst]]** 📁 — Emerging managers platform
-
-### **New Strategies at Established Firms**
-- **CVC Strategic Opportunities** 🎯 — Credit/special situations (new strategy)
-- **[[Oaktree|Oaktree]]** 📁 — Expanding into new credit strategies
-- **[[Ares|Ares]]** 📁 — Alternative credit innovations
+### **Sports-Focused Emerging Opportunities**
+- **[[tier-1-plan-a/Apollo-Sports-Fund|Apollo Sports Fund]]** 📁🎯 — $5B dedicated sports/venue strategy
+- **[[tier-1-plan-a/Sixth-Street-Growth-Sports|Sixth Street Growth (Sports)]]** 📁🔍 — Growing sports portfolio
 
 ---
 
-## Thesis II: Megafund Excellence 🏛️
+## Tier 2 - Secondary Targets (Plan B)
+> Megafund buyout and special situations for optionality - either after summer or 2-3 years full time. Strong compensation and exit opportunities, but lower likelihood of long-term sponsorship.
 
-> **My Story:** Interdisciplinary experience and training make me an adept "Swiss Army knife" investor who can build, lead, and execute in competitive environments at scale.
+### **Special Situations Strategies**
+- **[[tier-2-plan-b/Blackstone-Tactical-Opportunities|Blackstone Tactical Opportunities]]** 📁🎯 — $34B AUM unconstrained mandate
+- **[[tier-2-plan-b/CVC-Strategic-Opportunities|CVC Strategic Opportunities]]** 📁🎯 — Credit/special situations
+- **[[tier-2-plan-b/Oaktree|Oaktree]]** 📁 — Credit strategies
+- **[[tier-2-plan-b/Ares|Ares]]** 📁 — Alternative credit, sports/media focus
 
-### **Flagship Opportunities**
-- **[[Blackstone|Blackstone]] Tactical Opportunities** 📁🎯 — $34B AUM unconstrained mandate
-- **Goldman Sachs XIG** ✅👤 — $340B platform (Applied Sept 16 via VCPE, Ned Wang connection)
-
-### **Megafund Buyout**
-- **[[Apollo|Apollo]] Buyout** 📁 — $90B flagship buyout fund
-- **KKR Americas Fund** 🔍 — Traditional LBO excellence
-- **TPG Capital** 🔍 — Large-cap buyout
+### **Traditional Megafund Buyout**
+- **[[tier-2-plan-b/Blackstone-Buyout|Blackstone Buyout]]** 📁 — Flagship buyout platform
+- **[[tier-2-plan-b/Apollo-Buyout|Apollo Buyout]]** 📁 — $90B flagship buyout fund
+- **[[tier-2-plan-b/KKR-Americas-Fund|KKR Americas Fund]]** 📁🔍 — Traditional LBO excellence
+- **[[tier-2-plan-b/TPG-Capital|TPG Capital]]** 📁🔍 — Large-cap buyout
+- **[[tier-2-plan-b/Thoma-Bravo-Buyout|Thoma Bravo Buyout]]** 📁🔍 — Software-focused LBO
+- **[[tier-2-plan-b/Warburg-Pincus-Buyout|Warburg Pincus Buyout]]** 📁🔍 — Growth equity and buyout
 
 ### **Platform Specialists**
-- **Blackstone Strategic Partners** — Secondaries and GP stakes
-- **[[Coatue|Coatue]]** 📁 — Tech-focused growth at scale
-- **[[L-Catterton|L-Catterton]]** 📁 — Consumer platform backed by LVMH
+- **Goldman Sachs XIG** ✅👤 — $340B platform (Applied Sept 16 via VCPE, Ned Wang connection)
+- **[[tier-2-plan-b/Blackstone-Strategic-Partners|Blackstone Strategic Partners]]** 📁 — Secondaries and GP stakes
+- **[[tier-2-plan-b/Coatue|Coatue]]** 📁 — Tech-focused growth at scale
+- **[[tier-2-plan-b/L-Catterton|L-Catterton]]** 📁 — Consumer platform backed by LVMH
 
 ---
 
-## Thesis III: Sports & Media Specialization ⚽
-
-> **My Story:** Deep experience in sports investing from Arctos Fund I, with extensive network and domain expertise in franchise economics and media rights.
-
-### **Pure Play Sports**
-- **[[Arctos|Arctos]]** 📁👤 — Leading sports franchise investor (also in Thesis I)
-- **Apollo Sports Fund** 🎯 — $5B dedicated sports/venue strategy
-
-### **Sports-Adjacent Opportunities**
-- **RedBird Capital** 🔍 — Sports, media, entertainment focus
-- **Sixth Street Growth (Sports)** 🔍 — Growing sports portfolio
-
----
-
-## Other Firms Under Consideration
-
-### **Alternative Strategies**
-- **Stable AM** — Asset management platform
-- **[[26-North|26-North]]** 📁 — Insurance-linked securities
+## Other Considerations
 
 ### **Professional Development**
-- **[[MLT|MLT]]** 📁 — Management Leadership for Tomorrow
-- **[[NAIC|NAIC]]** 📁 — National Association of Insurance Commissioners
-
-### **Hedge Funds** *(Not actively pursuing)*
-> Aligned with special situations/distressed expertise but outside current focus
-
-- **Tier 1:** Elliott Management, Baupost Group
-- **Credit Focus:** Davidson Kempner, Silver Point Capital, King Street Capital
+- **[[professional-development/MLT|MLT]]** 📁 — Management Leadership for Tomorrow
+- **[[professional-development/NAIC|NAIC]]** 📁 — National Association of Insurance Commissioners
 
 ---
 
-## Action Items
+## Strategic Notes
 
-### **By Thesis**
+### Plan A Philosophy
+Finding an "Arctos pre-Fund I close" opportunity - an emerging manager looking to take a risk on me because I'm taking a risk on them. Either a high performing emerging manager or a bespoke strategy within a larger fund where I can have meaningful impact.
 
-**🚀 Emerging Managers**
-1. Create profiles: Hunter Point, Blue Owl, CVC Strategic Opportunities
-2. Leverage Arctos network for warm intros to other emerging platforms
-3. Research new strategy launches at established firms
+### Plan B Reality
+Megafund PE, especially buyout, is a grind even at VP level. Maybe 1 out of 10 VPs will be "pulled up" on path to partner. Firms procedurally hiring VPs on campus every year signal commensurate churn in middle management. However, these provide strong optionality and compensation.
 
-**🏛️ Megafund Excellence**
-1. Follow up Goldman Sachs XIG application (Ned Wang connection)
-2. Map Blackstone Tac Opps recruiting timeline
-3. Identify HBS alumni at Apollo, KKR, TPG buyout teams
-
-**⚽ Sports & Media**
-1. Activate Arctos relationships for Apollo Sports intro
-2. Research RedBird and Sixth Street sports portfolios
-3. Map sports conference attendance opportunities
-
-### **Profile Gaps**
-- Hunter Point (emerging alternatives)
-- Blue Owl (GP stakes platform)
-- CVC Strategic Opportunities (credit/special sits)
-- RedBird Capital (sports/media)
-- Sixth Street Growth (sports vertical)
+### Key Insight
+Don't let talent go to waste parked at a large firm that doesn't want to invest in long-term ownership. Don't need validation or to prove I can "do the work" - don't get blinded by that insecurity.
 
 ---
 
 ## Navigation
 
+**Investment Theses:** [[recruiting-theses|Recruiting Theses]]
 **Strategy:** [[funnel-strategy|Funnel Strategy]]
-**Firm Profiles:** Located in main /firms/ directory
 **Research:** [[gp-research/|GP Research]] | [[research/|Research Materials]]
+**Key Contact:** [[sebastien-pierre-louis|Sebastien Pierre-Louis]] (BDT & MSD Partners)
+
+### Firm Profile Directories
+- **Tier 1 (Plan A):** `/tier-1-plan-a/` - High performing emerging managers & bespoke strategies
+- **Tier 2 (Plan B):** `/tier-2-plan-b/` - Megafund buyout and special situations
+- **Professional Development:** `/professional-development/` - MLT, NAIC
+- **Research Archives:** `/research/`, `/gp-research/`, `/arctos/`, `/archive/`
 
 ---
 
-*Last Updated: September 28, 2025*
+*Last Updated: October 13, 2025*

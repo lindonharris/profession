@@ -5,6 +5,8 @@
 **Status:** Active (updated with each major change)
 **Current Version:** v1.1 (First Build Complete)
 
+**💡 Companion Document:** See [BUILD-PLAN.md](BUILD-PLAN.md) for current implementation status and roadmap
+
 ---
 
 ## 📜 Versioning Policy
@@ -606,6 +608,8 @@ All pre-v1.0 work (August-October 5, 2025) was strategic planning and research.
 **Documentation Status:** 100% aligned ✅
 **Build Status:** Homepage live, 6 pages remaining 🚀
 **Ready to Build:** Yes - Pages 2-7 next 🚀
+
+**📊 For Implementation Roadmap:** See [BUILD-PLAN.md](BUILD-PLAN.md) for detailed phases, milestones, and progress tracking
 
 ---
 

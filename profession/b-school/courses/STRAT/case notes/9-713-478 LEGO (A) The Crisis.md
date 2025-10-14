@@ -446,6 +446,47 @@ Both periods made the **fundamental error of not choosing a coherent business mo
 - [[N9-725-390 Royal Opera House]] - Crisis management and portfolio strategy
 - [[9-425-061 Radical Transformation at Bayer]] - Organizational transformation
 
+## Key Exhibits (Most Critical)
+
+### Exhibit 1: LEGO Group Selected Financials (1995-2004)
+
+![LEGO Financials 1995-2004](../../../cases/attachments/9-713-478-exhibit-1-financials.png)
+
+**Why This Exhibit Matters:**
+- **Quantifies the crisis**: From profitable growth (1995-2001) to near-bankruptcy (2003-2004)
+- **Key inflection points**:
+  - 1998: First loss in company history (-DKK 194M)
+  - 1999: Brief recovery (+DKK 274M) under Plougmann's cost cuts
+  - 2000-2001: Volatile swings (loss → profit)
+  - 2003: Catastrophic collapse (-DKK 935M, -29% revenue)
+  - 2004: Death spiral (-DKK 1,931M, -30.6% net margin)
+- **Operating margin**: Collapsed from +8.4% (2002) to -18.4% (2004)
+- **Return on Equity**: From +5.9% (2001) to -65.5% (2004)
+- **Equity ratio**: Eroded from 62.5% (1995) to 36.4% (2004) → banks demanding debt repayment
+
+**Strategic Insight**: The financials show that "The Fix That Wasn't" (1999-2004) produced WORSE results than "The Growth Period That Wasn't" (1993-1998). Tactical cost-cutting without strategic clarity destroyed more value than unfocused growth.
+
+---
+
+### Exhibit 3: Number of Distinct LEGO Components (1980-2005E)
+
+![LEGO Complexity Explosion 1980-2005](../../../cases/attachments/9-713-478-exhibit-3-complexity.png)
+
+**Why This Exhibit Matters:**
+- **Visual proof of complexity explosion**: ~2,000 (1980) → ~4,000 (1993) → 12,900 (2005E)
+- **Inflection point at 1993**: Exact moment "Growth Period That Wasn't" began → complexity accelerated
+- **Exponential growth rate**: 2x from 1980-1993 (13 years), then 3x from 1993-2005 (12 years)
+- **Root cause of operational chaos**:
+  - 12,900 components × 675 pieces/product = combinatorial forecasting nightmare
+  - Miss forecast on 1 of 675 pieces → entire product out of stock
+  - Fill rates collapsed to 5-70% (industry norm: 95%+)
+  - Inventory costs exploded despite stock-outs
+  - Mold costs: €50K-€300K each × 3,560 shapes = €178M-€1.07B capital tied up
+
+**Strategic Insight**: This ONE chart explains why Knudstorp's turnaround MUST start with complexity reduction. You cannot fix operations, margins, or retailer relationships without first cutting components from 12,900 → <6,000. The chart shows complexity is not a "nice to have" problem—it's an EXISTENTIAL threat.
+
+---
+
 ## Additional Resources
 - **Canvas Materials**:
   - "The growth period that wasn't" summary

@@ -4,20 +4,6 @@
 ## 📥 Quick Entry
 
 #### To do for school
-- [ ] Digest all read cases into Obsidian
-- [ ] ⏫ HBS Resume Book Submission - HIGH PRIORITY 📅 2025-09-29
-  - Step 1: Email resumereview@hbs.edu by September 25 for Career Coach review (2-day turnaround guaranteed)
-  - Step 2: Format resume in HBS format using VMock SmartEditor (target score: 85+)
-  - Step 3: Submit final resume to HBS Resume Book
-  - Link: https://my.hbs.edu/cpd/tools-resources/hbs-resume-book?utm_term=the+Resume+Book&utm_id=774585&utm_campaign=CPD+2025-9-14+RC+Newsletter+4&utm_source=sfmc&utm_medium=email
-  - CRITICAL DATE: Email for review by 9/25 to ensure time for revisions before 9/29 deadline
-- [ ] Check in on all club activities for coming week - Review emails, join group chats, add events to calendar
-- [ ] 🤖 Explore HBS AI-Powered Opportunities & Connections Platform 📅 2025-09-20
-  - Platform developed with HBS Digital Transformation Team
-  - Helps surface tailored career opportunities and alumni connections
-  - Currently in experimental phase - provide feedback to shape future releases
-  - Goal: Make career search more seamless and effective
-  - Link: https://my.hbs.edu/cpd/tools-resources/ai-powered-opportunities-connections-platform?utm_source=sfmc&utm_medium=email&utm_campaign=CPD+2025-9-14+RC+Newsletter+4&utm_term=this+AI-powered+tool&utm_id=774585
 
 #### To do for recruiting 🎯
 - [ ] Submit application: Blue Owl Capital - Credit Platform, Workouts Summer Associate 📅 2025-11-14

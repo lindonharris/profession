@@ -389,7 +389,7 @@ AI is making complex automation accessible to everyone. We're the first to produ
 
 **Total: 10 weeks to launch full 5-agent MVP** (with phased rollout)
 
-See **02-build/build-overview.md** for complete build plan.
+See **BUILD-PLAN.md** for complete implementation roadmap.
 
 ---
 
@@ -459,17 +459,18 @@ See **02-build/build-overview.md** for complete build plan.
 **If you're new, read in this order:**
 
 1. **start.md** ← YOU ARE HERE (strategic overview)
-2. **01-strategy/agent-catalog.md** (browse all 5 MVP agents + tier classifications)
-3. **01-strategy/competitive-analysis.md** (deep dive on multi-tier positioning)
-4. **01-strategy/vision.md** (technical architecture for tiered service delivery)
-5. **02-build/build-overview.md** (step-by-step phased build plan)
+2. **BUILD-PLAN.md** ⭐ (implementation roadmap & current status)
+3. **01-strategy/agent-catalog.md** (browse all 5 MVP agents + tier classifications)
+4. **01-strategy/competitive-analysis.md** (deep dive on multi-tier positioning)
+5. **01-strategy/vision.md** (technical architecture for tiered service delivery)
+6. **02-build/agent-technical-components.md** (reusable n8n modules - optional reference)
 
 **Related documents:**
 - **01-strategy/marketplace-ux.md** (UI/UX specifications for Utility status pages + Premium dashboards)
-- **02-build/agent-development-plan.md** (timeline for building 5 agents)
 - **02-build/agent-technical-components.md** (reusable n8n modules)
 - **04-decisions/MVP-AGENTS-FINAL.md** (rationale for 5-agent tiered strategy)
 - **04-decisions/PRICING-DECISION-FINAL.md** (Utility vs Premium pricing model)
+- **lovable-prompts/** (all 7 page generation prompts ready to copy-paste)
 
 ---
 
@@ -503,14 +504,19 @@ See **02-build/build-overview.md** for complete build plan.
 - ✅ Competitive positioning by tier
 - ✅ Phased rollout strategy (10-week timeline)
 - ✅ Documentation reorganized into logical folders
+- ✅ Domain purchased (buyanagent.ai, expires Oct 6, 2027)
+- ✅ Homepage built & deployed (v1.1)
+- ✅ Repository created (lindonharris/agentium-genesis)
 
 **What's Next:**
-- ⏳ [TBD] Customer segmentation framework development
-- ⏳ Purchase buyanagent.ai domain
-- ⏳ Build marketplace UI with Lovable (tier-based UX)
-- ⏳ Build Phase 1A agents (Expense + Newsletter)
-- ⏳ Launch Product Hunt with Utility tier
-- ⏳ Build Phase 2 agents (Invoice + Lead) with dashboards
+- ⏳ Build pages 2-7 with Lovable (see BUILD-PLAN.md for roadmap)
+- ⏳ Set up Supabase database
+- ⏳ Integrate Stripe checkout (dynamic pricing)
+- ⏳ Build first 3 Utility agents
+- ⏳ Soft launch to 10 friends
+- ⏳ Public launch with SEO/ads
+
+**For complete implementation roadmap:** See [BUILD-PLAN.md](BUILD-PLAN.md)
 
 ---
 

@@ -598,14 +598,66 @@ Social commerce is the answer.
    - Reduce sell-outs through better forecasting
 
 ## Class Discussion Notes
-> [To be filled during/after class discussion]
 
 ### My Participation
 - **Times Spoken**: 0
 - **Cold Called**: No
 
 ### Key Insights from Discussion
--
+
+**Three Types of Media (Marketing Framework):**
+
+1. **Owned Media**
+   - Content/channels you control directly
+   - Examples: Into The Gloss blog, Glossier.com, email lists, branded social accounts
+   - HubSpot's inbound blogging strategy as parallel example
+   - Build once, compound returns over time
+   - Foundation for earning trust and creating community
+
+2. **Earned Media**
+   - Organic coverage/sharing without payment
+   - Examples: Going viral, product reviews, press coverage, customer social posts (#glossierpink)
+   - 50K+ Instagram tags in H2 2017 = earned reach of 17M+
+   - Most valuable because third-party credibility
+   - Cannot be bought, must be earned through quality/community
+
+3. **Paid Media**
+   - Traditional advertising you pay for
+   - Examples: Instagram ads, Google search, influencer partnerships, print/outdoor
+   - Glossier doing minimal paid (20% of sales vs. 80% owned/earned)
+   - Question: Does paid accelerate or undermine the owned/earned flywheel?
+
+**Glossier's Strategic Advantage:** Built owned media foundation (Into The Gloss) FIRST → earned media amplification (community advocacy) SECOND → considering paid media LAST. Most brands do this backwards.
+
+**Three Points of Tension in Distribution Strategy:**
+
+**The 3 Cs Framework** - Constant tension between:
+
+1. **Cost**
+   - What's the economic model? Margin structure?
+   - DTC = high margin (40%) but high CAC
+   - Wholesale = low margin (5%) but retailer absorbs customer acquisition
+   - Tradeoff: Control your economics vs. outsource distribution costs
+
+2. **Coverage**
+   - How many customers can you reach? Geographic scale?
+   - DTC e-commerce = global reach but limited discovery
+   - Wholesale (Sephora) = "10x revenue overnight" but loses direct relationship
+   - Pop-ups/showrooms = experiential but limited geography
+   - Tradeoff: Broad reach vs. depth of engagement
+
+3. **Control**
+   - How much control over brand experience, customer data, messaging?
+   - DTC = full control (experience, data, feedback loop)
+   - Wholesale = no control (sits on shelf next to 300 brands)
+   - Tradeoff: Brand consistency vs. distribution leverage
+
+**Glossier's Distribution Dilemma Through This Lens:**
+- DTC: High control ✅, High cost ❌, Limited coverage ❌
+- Wholesale: Low control ❌, Low cost ✅, High coverage ✅
+- Social commerce vision: Maintain control ✅, Lower cost (peer CAC ~$0) ✅, Scale coverage ✅ → Trying to win on all three dimensions
+
+**Key Insight:** Most brands can't optimize all three simultaneously. Must choose 2 of 3. Glossier's bet is that social commerce technology breaks this constraint by enabling peer-to-peer distribution at scale.
 
 ### Alternative Perspectives
 -

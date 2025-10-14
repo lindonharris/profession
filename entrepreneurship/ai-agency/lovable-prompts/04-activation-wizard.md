@@ -10,95 +10,81 @@
 ## Copy-Paste This Into Lovable:
 
 ```
-Create a multi-step activation wizard for purchasing and setting up an AI agent (buyanagent.ai).
+I need a multi-step wizard that walks users through activating an AI agent after they purchase it. Think of how Stripe onboarding works - clear progress, one step at a time, can't proceed until current step is complete.
 
-REFERENCE EXISTING CODEBASE:
-- Same design system from homepage (see src/index.css)
-- Components: Button, Card, Input, Select, Checkbox from shadcn/ui
-- Icons: Lucide React only (NO emojis)
-- Use transition-fast utility
-- Use rounded-sm for borders
-- Success: text-green-500 / bg-green-500
-- Same navbar (minimal - just logo)
+This should feel smooth and reassuring - like "we've got you, just follow these 5 simple steps."
 
-LAYOUT:
-- Background: #0B0E13
-- Centered container (max-width 800px)
-- Progress indicator at top showing 5 steps
-- Main content area (#161B22 card, 32px padding, shadow-lg with indigo glow)
-- Navigation buttons at bottom (Back + Next/Continue)
+Use the same dark theme and components from our other pages.
 
-PROGRESS INDICATOR:
-- 5 step circles horizontally aligned
-- Completed: bg-primary text-primary-foreground
-- Current: border-2 border-primary text-primary
-- Future: border border-border text-muted-foreground
-- Connecting lines: border-border (completed: border-primary)
+**Progress indicator at top:**
+Show 5 steps with circles connected by lines. Completed steps are filled with indigo, current step has an indigo border, future steps are gray. As they move forward, the connecting lines turn indigo too.
 
-STEP 1: CONNECT INTEGRATIONS
-- Title (text-2xl font-bold)
-- Subtitle (text-muted-foreground)
-- Integration cards (grid, use Card component):
-  - Service logo (48px)
-  - Service name (font-semibold text-lg)
-  - Purpose (text-sm text-muted-foreground)
-  - Status: "Not Connected" or <CheckCircle className="text-green-500" />
-  - <Button variant="default">Connect →</Button> or <Button variant="outline">Reconnect</Button>
-- Example: Gmail, Google Sheets
-- Next button disabled until all connected
+**Step 1: Connect Integrations**
+Show cards for each service they need to connect (like Gmail, Google Sheets, QuickBooks, etc.)
 
-STEP 2: CONFIGURE RULES
-- Title (text-2xl font-bold)
-- Subtitle (text-muted-foreground)
-- Form fields (use shadcn/ui components):
-  • <Checkbox /> for categories
-  • <Select /> for dropdowns
-  • <Input /> for text fields
-- All form components from @/components/ui/*
-- Validation handled by component state
-- Error messages: text-destructive
+Each card shows:
+- Service logo/icon
+- Service name
+- Why we need it ("For scanning email receipts")
+- Connection status (either "Not Connected" or a green checkmark)
+- "Connect" button (opens OAuth in popup)
 
-STEP 3: TEST AGENT
-- Title (text-2xl font-bold)
-- Subtitle (text-muted-foreground)
-- Loading: <Loader2 className="animate-spin text-primary" /> + "Testing agent..."
-- Success state:
-  • <CheckCircle className="h-12 w-12 text-green-500" />
-  • "✓ Test successful!" (text-xl font-semibold text-green-500)
-  • Results in Card component (text-muted-foreground)
-  • <Button variant="default">Looks good!</Button>
-- Error state: <XCircle className="text-destructive" /> + error + <Button variant="outline">Try Again</Button>
+The "Next" button stays disabled until all required integrations are connected.
 
-STEP 4: SUBSCRIBE
-- Title (text-2xl font-bold)
-- Two tier cards side-by-side (use Card component):
+**Step 2: Configure Rules**
+This is where they set up how the agent should work. Use form components from shadcn/ui.
 
-  UTILITY: bg-card border-border with <Badge variant="utility">
-  PREMIUM: bg-card border-2 border-primary with <Badge variant="premium">
+For example, for Expense Manager:
+- Checkboxes to select expense categories (Travel, Meals, Software, etc.)
+- Dropdown for how often they want notifications
+- Text input for their Google Sheet URL
+- Toggle switch for auto-categorization
 
-  Each card shows:
-  - Header with tier name
-  - Price (text-3xl font-bold text-primary)
-  - Features list (text-muted-foreground)
-  - <Button> for selection
+Show validation errors in red if they miss required fields.
 
-- Stripe integration via modal
-- Note about charging (text-xs text-muted-foreground italic)
+**Step 3: Test Agent**
+Run a test to make sure everything works before going live.
 
-STEP 5: SUCCESS
-- <CheckCircle className="h-16 w-16 text-green-500" />
-- Title: "🎉 Agent is Live!" (text-3xl font-bold)
-- Message (text-lg text-muted-foreground max-w-2xl)
-- <Button variant="default">Go to Dashboard →</Button>
-- <Button variant="outline">Activate Another Agent</Button>
+Show a loading spinner (use Loader2 from Lucide React with spin animation) with "Testing agent..." text.
 
-BOTTOM NAVIGATION:
-- "← Back" button (outline, left side, #E5E7EB text, #374151 border) - disabled on Step 1
-- "Continue →" or "Next Step →" button (indigo gradient #4F46E5 → #3730A3, right side, #F9FAFB text)
-- On Step 4, button says "Complete Setup"
-- Center-aligned on mobile
+Then show results in a card:
+- Green checkmark icon if successful
+- What the test found (like "Found 1 receipt from Starbucks for $42.50")
+- "Looks good!" button to continue
 
-Use Tailwind CSS, add form validation, smooth step transitions (fade in/out), maintain dark design consistency.
+If test fails, show error message with "Try Again" button.
+
+**Step 4: Subscribe**
+Show the pricing tier options side by side (only if agent has multiple tiers).
+
+For Utility-only agents, just show the one tier.
+For Premium agents, show both Utility and Premium cards with the Premium one highlighted.
+
+Each card shows price, features list, and a button to select that tier.
+
+When they click, open Stripe checkout modal (we'll integrate this later, for now just simulate it).
+
+**Step 5: Success!**
+Big celebration screen:
+- Large green checkmark icon
+- "🎉 Agent is Live!" heading
+- Explanation of what happens next
+- "Go to Dashboard" button (primary)
+- "Activate Another Agent" button (secondary)
+
+**Navigation:**
+- "Back" button on left (disabled on step 1)
+- "Continue" or "Next Step" button on right
+- On step 4, button says "Complete Setup"
+- Buttons stack on mobile
+
+**Design notes:**
+- Use Card, Button, Input, Select, Checkbox components from shadcn/ui
+- Use Loader2 and CheckCircle icons from Lucide React
+- Green for success states (text-green-500)
+- Smooth fade transitions between steps
+- Center the whole wizard (max-width 800px)
+- Add subtle indigo glow to the main card
 ```
 
 ---
@@ -109,13 +95,13 @@ Use Tailwind CSS, add form validation, smooth step transitions (fade in/out), ma
 
 Integration cards:
 1. **Gmail**
-   - Logo: Gmail icon (48px)
+   - Icon: Mail (Lucide React)
    - Purpose: "For scanning email receipts"
    - Status: Not Connected
    - Button: "Connect Gmail →"
 
 2. **Google Sheets**
-   - Logo: Google Sheets icon (48px)
+   - Icon: Sheet icon placeholder
    - Purpose: "For logging expenses"
    - Status: Not Connected
    - Button: "Connect Google Sheets →"
@@ -145,7 +131,7 @@ Form fields:
 
 **Step 3: Test Agent**
 
-Test results box example:
+Test results example:
 ```
 ✓ Test successful!
 
@@ -160,9 +146,7 @@ This expense has been logged to your Google Sheet.
 
 **Step 4: Subscribe**
 
-For Expense Manager, show Utility tier only (no Premium option):
-
-**Utility Tier Card:**
+For Expense Manager (Utility tier only):
 - Price: $69/month
 - Features:
   • Status page
@@ -170,8 +154,6 @@ For Expense Manager, show Utility tier only (no Premium option):
   • Auto-categorization
   • Email support
   • Google Sheets integration
-
-No tier comparison needed (Utility only agent).
 
 **Step 5: Success**
 

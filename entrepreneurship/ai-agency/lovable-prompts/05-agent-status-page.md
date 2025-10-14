@@ -10,200 +10,101 @@
 ## Copy-Paste This Into Lovable:
 
 ```
-Create a simple status page for monitoring a Utility tier AI agent (buyanagent.ai).
+I need a simple status page for Utility tier agents. This is what users see when they click on an agent from their dashboard.
 
-REFERENCE EXISTING CODEBASE:
-- Same design system and components from dashboard
-- Icons: Lucide React (CheckCircle, PauseCircle, XCircle, Settings, etc.)
-- Use Card, Button, Table components from shadcn/ui
-- Same navbar and sidebar from dashboard
+Think of it like a home security app - you just want to know "is it working?" and see basic activity. No fancy charts, just clear status and simple controls.
 
-LAYOUT:
-- Sidebar (240px, #161B22 background, same as Dashboard)
-- Main content area (remaining width, #0B0E13 background)
+Use the same sidebar navigation from the dashboard page.
 
-PAGE HEADER:
-- Back button: "← Back to Dashboard" (#9CA3AF, hover #4F46E5, 14px)
-- Agent title row: Heroicon (48px, #4F46E5) + Agent name (Inter Bold 32px, #F9FAFB) + Tier badge ("UTILITY", #374151 bg, #9CA3AF text)
-- Subtitle: "Status page" (16px, #9CA3AF)
-- Padding: 32px top/bottom
+**Top of page:**
+- "← Back to Dashboard" link
+- Agent icon and name with tier badge
+- Current status with a colored indicator:
+  - Running: green checkmark
+  - Paused: yellow pause icon
+  - Error: red X icon
+- When it last ran or when it runs next
 
-STATUS CARD (use Card component):
-- Title (text-xl font-bold)
-- Status with Lucide icons:
-  • Running: <CheckCircle className="text-green-500" />
-  • Paused: <PauseCircle className="text-amber-500" />
-  • Error: <XCircle className="text-red-500" />
-- Last/next run times (text-sm text-muted-foreground)
+**Activity summary card:**
+Simple 2x2 grid showing key metrics from the last 7 days.
 
-ACTIVITY METRICS CARD:
-- Background: #161B22, 24px padding, below status card, 24px margin-top, #374151 border
-- Title: "Activity (Last 7 Days)" (Inter Bold 20px, #F9FAFB)
-- Simple metrics grid (2x2 on desktop, 1 column on mobile):
-  Each metric:
-  - Big number (Inter Bold 36px, #F9FAFB): "47"
-  - Label below (14px, #9CA3AF): "Emails processed"
-  - Heroicon above number (24px, #6B7280)
-- Example metrics for Email Sweeper:
-  • 47 Emails processed (EnvelopeIcon)
-  • 23 Archived (ArchiveBoxIcon)
-  • 12 Unsubscribed (XCircleIcon)
-  • 8 Deleted (TrashIcon)
-- All in simple card with #1F2937 background, 16px padding, 8px border-radius
+For Email Sweeper, show:
+- 47 Emails processed
+- 23 Archived
+- 12 Unsubscribed
+- 8 Deleted
 
-CONTROL PANEL CARD (use Card component):
-- Title (text-xl font-bold)
-- Separator from shadcn/ui
+Just big numbers with small labels. Use icons from Lucide React to make it visual.
 
-- Essential Controls:
-  Buttons with Lucide icons:
-  • <Button variant="outline"><Pause /> Pause Agent</Button>
-  • <Button variant="outline"><Settings /> Settings</Button>
-  • <Button variant="outline"><Clock /> History</Button>
-  • <Button variant="outline"><Link /> Integrations</Button>
+**Control panel card:**
+Two sections:
 
-- Divider (#374151, 24px margin top/bottom)
+1. Essential controls (every agent has these):
+   - Pause Agent button
+   - Settings button
+   - History button
+   - Manage Integrations button
 
-- Agent-Specific Controls section:
-  Title: "Email Sweeper Controls" (Inter Medium 16px, #E5E7EB, margin-bottom 16px)
+2. Agent-specific controls (unique to each agent type):
 
-  Example controls for Email Sweeper:
-  • "Manage VIP Senders" (outline button with StarIcon from Heroicons, no emoji)
-  • "Noise Filter Sensitivity" (dropdown: Low/Medium/High, 44px height, #1F2937 bg, #374151 border)
-  • "Action Preferences" (dropdown: Unsubscribe/Delete/Archive priority)
-  • "Download Activity Report" (outline button, ArrowDownTrayIcon)
-  • "Scan Frequency" (dropdown: Every 1hr/2hr/4hr/Daily)
+   For Email Sweeper example:
+   - "Manage VIP Senders" button (whitelist certain emails)
+   - Dropdown for noise filter sensitivity (Low/Medium/High)
+   - Dropdown for action preferences (Unsubscribe vs Delete vs Archive priority)
+   - "Download Activity Report" button
+   - Dropdown for scan frequency (Every 1hr/2hr/4hr/Daily)
 
-  Layout: Stack vertically, 12px gap between items
-  Labels: 14px, #E5E7EB, margin-bottom 8px
-  Dropdowns: #1F2937 background, #374151 border, #F9FAFB text
+**Recent activity table:**
+Simple table showing last 10 actions.
 
-- Divider (#374151)
+Columns: Time | What it did | Details
 
-- Quick Actions section:
-  Title: "Quick Actions" (Inter Medium 16px, #E5E7EB, margin 16px top/bottom)
-  Buttons:
-  • "[+ Add VIP Sender]" (outline, PlusIcon from Heroicons)
-  • "Adjust Filters" (outline)
-  • "View Full Log" (outline)
+Example rows:
+- "2 min ago | Archived | Newsletter from TechCrunch"
+- "15 min ago | Unsubscribed | Promotional email from Amazon"
+- "1 hour ago | Deleted | Spam from unknown sender"
 
-ACTIVITY LOG (use Table component from shadcn/ui):
-- Title (text-xl font-bold)
-- <Table> with <TableHead>, <TableBody>, <TableRow>, <TableCell>
-- Columns: Time | Action | Details
-- Zebra striping handled by component
-- "View All →" link (text-primary hover:underline)
+Add "View All →" link at bottom.
 
-RESPONSIVE:
-- Metrics grid: 2x2 on desktop → 1 column on mobile
-- Control panel buttons: horizontal on desktop → stack on mobile
-- All cards full width, proper padding maintained
-
-Use Tailwind CSS, add loading states (pulse animation), maintain consistency with dark dashboard design.
+**Design notes:**
+- Use the same sidebar from dashboard
+- Use Card component for each section
+- Use Table component from shadcn/ui for activity log
+- Icons from Lucide React (CheckCircle, PauseCircle, Settings, Clock, etc.)
+- Keep it simple - this is NOT the Premium dashboard
+- Metrics should stack to 1 column on mobile
 ```
 
 ---
 
-## Sample Control Panels by Agent:
+## Sample Data for Email Sweeper:
 
-### **Email Sweeper (Utility)**
+**Status:**
+- Current: Running (green checkmark)
+- Last run: 2 minutes ago
+- Next run: In 58 minutes
 
-Agent-Specific Controls:
-1. **Manage VIP Senders** (button with StarIcon)
-   - Opens modal with list of whitelisted senders
-   - Add/remove email addresses
+**Activity Metrics (Last 7 Days):**
+- 47 Emails processed
+- 23 Archived
+- 12 Unsubscribed
+- 8 Deleted
 
-2. **Noise Filter Sensitivity** (dropdown)
-   - Options: Low (keeps more), Medium (balanced), High (aggressive)
-   - Default: Medium
+**Agent-Specific Controls:**
+- VIP Senders: Gmail Team, PayPal, Bank notifications
+- Noise Filter: Medium
+- Primary Action: Archive
+- Scan Frequency: Every 1 hour
 
-3. **Action Preferences** (dropdown)
-   - Options: Prioritize Unsubscribe, Prioritize Archive, Prioritize Delete
-   - Default: Prioritize Unsubscribe
-
-4. **Download Activity Report** (button with ArrowDownTrayIcon)
-   - Downloads CSV with all processed emails
-
-5. **Scan Frequency** (dropdown)
-   - Options: Every 1 hour, Every 2 hours, Every 4 hours, Daily
-   - Default: Every 2 hours
-
----
-
-### **Expense Manager (Utility)**
-
-Agent-Specific Controls:
-1. **Manage Categories** (button with FolderIcon)
-   - Opens modal to add/edit/delete expense categories
-
-2. **Category Rules** (button with AdjustmentsHorizontalIcon)
-   - Opens modal to set auto-categorization rules
-   - Example: "Starbucks → Meals"
-
-3. **Select Google Sheet** (dropdown)
-   - Shows list of user's Google Sheets
-   - Change destination sheet
-
-4. **Scan Frequency** (dropdown)
-   - Options: Real-time, Hourly, Daily
-   - Default: Hourly
-
-5. **Download Expense Report** (button with ArrowDownTrayIcon)
-   - Downloads CSV of all expenses
+**Recent Activity:**
+1. 2 min ago | Archived | Newsletter from TechCrunch
+2. 15 min ago | Unsubscribed | Promotional email from Amazon
+3. 1 hour ago | Deleted | Spam from unknown sender
+4. 1 hour ago | Archived | Weekly digest from Substack
+5. 2 hours ago | Archived | GitHub notification
 
 ---
 
-### **Newsletter Digester (Utility)**
+## Next Step:
 
-Agent-Specific Controls:
-1. **Manage Subscriptions** (button with NewspaperIcon)
-   - List of all detected newsletters
-   - Pause/resume individual newsletters
-
-2. **Digest Schedule** (dropdown)
-   - Options: Daily (8am), Daily (6pm), Weekly (Monday 8am)
-   - Default: Daily (8am)
-
-3. **Summary Length** (dropdown)
-   - Options: Brief (1-2 points), Medium (3-5 points), Detailed (5-7 points)
-   - Default: Medium
-
-4. **Scan Frequency** (dropdown)
-   - Options: Every 2 hours, Daily, Manual only
-   - Default: Daily
-
-5. **Download Digest Archive** (button with ArrowDownTrayIcon)
-   - Downloads all past digests
-
----
-
-## Sample Activity Metrics by Agent:
-
-### **Email Sweeper:**
-- Emails processed: 47
-- Archived: 23
-- Unsubscribed: 12
-- Deleted: 8
-
-### **Expense Manager:**
-- Receipts scanned: 15
-- Expenses logged: 15
-- Total amount: $1,247.50
-- Categories: 6
-
-### **Newsletter Digester:**
-- Newsletters tracked: 18
-- Summaries generated: 126
-- Digests sent: 18
-- Time saved: 4.2 hours
-
----
-
-## This Completes Phase 1!
-
-**Phase 1 Summary:**
-✅ 5 pages built (Homepage, Agent Detail, Dashboard, Activation Wizard, Status Page)
-✅ Complete MVP user journey
-✅ Ready to launch Utility tier
-
-**Next:** Phase 2 prompts (Premium Dashboard + Settings)
+After Lovable generates this page, move to **06-premium-dashboard.md** to build the Premium tier analytics interface.

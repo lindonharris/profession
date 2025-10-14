@@ -419,6 +419,59 @@ Solution Approach:
 
 ---
 
+## 📖 Midterm Review Session - 10/13/2025
+
+### Session Overview
+**Location**: TBD
+**Time**: TBD
+**Format**: Review of key concepts and practice problems
+
+### 🎯 Key Insights
+1. **If you can identify the bottleneck in a problem, you will do a good job answering most of these questions.**
+
+2. **Variability & Process Performance**: A process with variability and one clear bottleneck might have higher output compared to a process with random blocking and starving that doesn't follow a standard pattern. Predictable constraints are easier to manage than unpredictable variability throughout the system.
+
+3. **Max/Min Rate Analysis**: Good way of thinking about problems is considering what is the maximum rate, what is the minimum rate, and what are the ceilings and floors to those rates on each of the functions in a process. When there is no high-low overlap, you know with more certainty whether there is blocking or starving.
+
+4. **Buffer Placement**: Put buffers right before bottlenecks. This protects the bottleneck from starvation and ensures maximum utilization of the constraint resource.
+
+5. **Little's Law - Common Confusion**:
+   - **CORRECT**: Flow Time = WIP / Throughput Rate (T = I / R)
+   - **INCORRECT**: Flow Time = WIP × Cycle Time
+   - **Conceptual Explanation**: Flow time represents how long a unit spends in the system, which equals the inventory in the system divided by the rate at which units exit. Think of it this way: if you have 10 cars in a car wash (WIP) and cars exit at 2 per hour (throughput rate), each car spends 5 hours in the system (10 / 2 = 5).
+
+6. **System Throughput = Bottleneck Rate**: The conveyor belt will always move at the steady rate dictated by the speed of the bottleneck. The entire system can only produce as fast as its slowest step, regardless of how fast upstream or downstream processes can operate.
+
+7. **Conveyor Belt WIP Calculation**: With conveyor belts, throughput times will always be fixed. They often ask "how much WIP is there?" - it is usually the number of units divided by the length of the conveyor belt. Since flow time is constant on a conveyor, you can calculate WIP using Little's Law: WIP = Throughput Rate × (Belt Length / Belt Speed).
+
+### Topics Covered
+
+#### 1. Process Analysis Fundamentals
+
+
+#### 2. Capacity & Bottleneck Management
+
+
+#### 3. Little's Law Applications
+
+
+#### 4. Cases Review
+
+
+#### 5. Problem-Solving Practice
+
+
+### Key Formulas to Master
+
+
+### Practice Problems
+
+
+### Questions for Session
+
+
+---
+
 ## 🎓 Exam Preparation Checklist
 
 ### Conceptual Understanding

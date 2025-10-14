@@ -89,7 +89,7 @@
 ## Related Documentation
 
 - [README.md](../README.md) - Project overview
-- [02-build/build-overview.md](../02-build/build-overview.md) - Complete build roadmap
+- [BUILD-PLAN.md](../BUILD-PLAN.md) - Complete implementation roadmap
 - [01-strategy/vision.md](../01-strategy/vision.md) - Technical architecture
 - [CHANGELOG.md](../CHANGELOG.md) - Version history
 

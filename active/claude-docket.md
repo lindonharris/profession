@@ -3,13 +3,6 @@
 #### 🚨 High Priority
 
 #### Projects & Features
-- [ ] Create playbook for establishing and maintaining relentless shipping culture 📅 2025-08-25
-  - [ ] Include examples of active company blog pages
-  - [ ] Document standard product rollout strategies
-- [ ] Add brainstorming section to recruiting-base for professional advancement projects 📅 2025-08-22
-  - [ ] Pull insights from Manus and ChatGPT
-  - [ ] Focus on MVP versions of acqui-hire worthy projects
-- [ ] Test building an automation natively without n8n 📅 2025-08-24
 
 ---
 
