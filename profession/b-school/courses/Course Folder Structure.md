@@ -12,6 +12,9 @@ Every course follows this exact structure:
 │   └── [Case Number] [Company].md
 ├── modules/                     # Module-specific notes and frameworks
 │   └── [Module Name].md
+├── feedback/                    # Midterm and final grade feedback
+│   ├── midterm-feedback.md
+│   └── final-feedback.md
 ├── exercises/                   # Practice problems and worksheets
 │   └── [Exercise Name].md
 └── resources/                   # Supplementary materials
@@ -32,6 +35,11 @@ Every course follows this exact structure:
 - Conceptual frameworks and module summaries
 - Organized by course module or topic
 - Cross-referenced with cases
+
+**feedback/**
+- Midterm and final grade feedback
+- Professor comments and performance assessments
+- Tracks progress toward grade goals
 
 ### Supporting Folders (As Needed)
 

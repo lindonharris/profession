@@ -176,52 +176,7 @@ Since Mermaid is available in Obsidian, here's how to translate traditional proc
 
 #### Basic Mermaid Structure
 
-```mermaid
-graph TD
-    %% Use TD for top-down, LR for left-right
-    Start([Input]) --> Task1[Operation 1]
-    Task1 --> Decision{Decision Point}
-    Decision -->|Yes| Task2A[Option A]
-    Decision -->|No| Task2B[Option B]
-    Task2A --> Storage[(WIP)]
-    Task2B --> Storage
-    Storage --> Task3[Final Operation]
-    Task3 --> End([Output])
-```
-
-### Donner PCB Example in Mermaid
-
-```mermaid
-graph TD
-    %% Pre-Production Stage
-    subgraph "Pre-Production"
-        A[Customer Order] --> B[Review Order]
-        B --> C[Check Inventory]
-        C --> D[Prepare Artwork]
-    end
-    
-    %% Preparation Stage with Decision
-    subgraph "Preparation"
-        D --> E[Panel Preparation]
-        E --> F{Order Size?}
-        F -->|">100 boards"| G1[CNC Drill]
-        F -->|"≤100 boards"| G2[Manual Drill]
-        G1 --> H[(WIP Queue)]
-        G2 --> H
-    end
-    
-    %% Image Transfer Stage
-    subgraph "Image Transfer"
-        H --> I[Metallization]
-        I --> J[Dry Film Photo Resist]
-        J --> K[Electroplate]
-        K --> L[Strip & Etch]
-    end
-    
-    %% Include annotations
-    G1 -.->|"Setup: 240 min<br/>Run: 0.08 min/hole"| G1
-    G2 -.->|"Setup: 15 min<br/>Run: 0.50 min/hole"| G2
-```
+_Mermaid examples removed for clarity_
 
 ### Best Practices for Mermaid Process Flows
 
@@ -231,18 +186,10 @@ graph TD
 - Include time/capacity annotations using dotted lines
 
 #### 2. Mermaid-Specific Tips
-```mermaid
-graph TD
-    %% Use comments for documentation
-    Task1[Task with<br/>line break] 
-    %% Use <br/> for multi-line labels
-    
-    Task1 -->|"Flow volume:<br/>50 units/hr"| Task2[Next Task]
-    %% Annotate flows with volumes
-    
-    style Task1 fill:#90EE90
-    %% Use colors sparingly for emphasis
-```
+- Use comments for documentation
+- Use `<br/>` for multi-line labels
+- Annotate flows with volumes
+- Use colors sparingly for emphasis
 
 #### 3. Storage Symbol Workarounds
 Since Mermaid lacks true inverted triangles:
@@ -252,37 +199,7 @@ Since Mermaid lacks true inverted triangles:
 - Add "WIP" or "Storage" text clearly
 
 #### 4. Complex Annotations
-```mermaid
-graph TD
-    A[Drilling] -.->|"Resources: 7 drills<br/>Setup: 15 min<br/>Run: 0.50 min/hole"| A
-    A --> B[(WIP<br/>Avg: 25 boards)]
-```
-
-### Quick Conversion Template
-
-```markdown
-```mermaid
-graph TD
-    %% Define your process flow direction (TD, LR, BT, RL)
-    
-    %% Pre-Production Stage
-    subgraph "Stage Name"
-        Node1[Task Name] --> Node2[Task Name]
-    end
-    
-    %% Decision Points
-    Node2 --> Decision{Criteria?}
-    Decision -->|Option 1| Path1[Task]
-    Decision -->|Option 2| Path2[Task]
-    
-    %% Storage/WIP
-    Path1 --> WIP1[(WIP Storage)]
-    Path2 --> WIP1
-    
-    %% Annotations (use dotted self-references)
-    Node1 -.->|"Setup: X min<br/>Run: Y min/unit"| Node1
-```
-```
+Include resources, setup times, and run times as annotations on tasks
 
 ### Validation Checklist for Mermaid Diagrams
 

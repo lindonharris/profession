@@ -4,9 +4,9 @@
 Central repository for all Harvard Business School case studies. Cases are organized by course, date, and topic for easy reference and cross-linking.
 
 ## Quick Stats
-- **Total Cases**: 54
+- **Total Cases**: 57
 - **Courses Covered**: 7 (START, MKT, STRAT, TOM, LEAD, FRC, FIN1)
-- **Last Updated**: 2025-10-13
+- **Last Updated**: 2025-10-17
 
 ## By Course
 
@@ -39,6 +39,7 @@ Central repository for all Harvard Business School case studies. Cases are organ
 - [[9-121-018 Capitalizing Development Costs at Fiat Chrysler and Volkswagen]] - R&D capitalization, IFRS vs US GAAP, development costs, intangible assets, amortization
 - [[9-113-004 Nalli Silk Sarees (A)]] - Cost measurement, activity-based costing, pricing strategy, product profitability analysis
 - [[9-505-078 Narayana Hrudayalaya Heart Hospital]] - Operations strategy, cost management, and scaling affordable healthcare in emerging markets
+- [[9-117-025 Springfield Hospital]] - Variance analysis, TDABC, capacity cost rate, CABG surgery cost comparison across three hospitals
 
 ### FIN1 (Finance 1)
 - [[2-222-011 Butler Lumber Company]] - Working capital management, growth financing, and banking relationships
@@ -71,6 +72,8 @@ Central repository for all Harvard Business School case studies. Cases are organ
 - [[4-411-031 Erik Peterson at Biometra]] - First-time manager facing organizational dysfunction and product launch crisis
 - [[9-425-061 Radical Transformation at Bayer]] - Organizational transformation through dynamic shared ownership (DSO) and debureaucratization
 - [[9-404-025 C&S Wholesale Grocers]] - Self-managed teams implementation decision in wholesale grocery warehouse operations
+- [[9-800-228 Heidi Roizen]] - Networking, relationship building, and balancing VC role with network maintenance
+- [[9-421-011 Rosalind Fox at John Deere]] - Employee engagement vs financial performance, diversity leadership in manufacturing
 
 ### Entrepreneurship
 - 
@@ -105,6 +108,7 @@ Central repository for all Harvard Business School case studies. Cases are organ
 ### Healthcare & Life Sciences
 - [[9-505-078 Narayana Hrudayalaya Heart Hospital]] - Cardiac care in India
 - [[624-092 Hospital for Special Surgery]] - Orthopedic hospital operations and COVID-19 reopening
+- [[9-117-025 Springfield Hospital]] - CABG surgery cost comparison, variance analysis, TDABC methodology
 
 ### Arts & Entertainment
 - [[N9-725-390 Royal Opera House]] - Performing arts (opera and ballet)
@@ -117,6 +121,9 @@ Central repository for all Harvard Business School case studies. Cases are organ
 - [[N2-524-004 Predicting the Diffusion of New Products]] - John Deere AI farming software
 - [[9-524-044 Travelogo]] - Online travel platform and data analytics
 - [[9-119-032 Stock-Based Compensation at Twitter]] - Social media platform and employee compensation
+
+### Venture Capital
+- [[9-800-228 Heidi Roizen]] - Silicon Valley venture capital and networking
 
 ### Telecommunications
 - [[N2-725-366 Preparing for Growth in the Fiber Optics Industry]] - Fiber optics cable manufacturing and capacity expansion
@@ -148,6 +155,7 @@ Central repository for all Harvard Business School case studies. Cases are organ
 - [[N1-726-353 Yanhai Aluminum]] - Aluminum smelting and green production
 - [[9-223-003 The Mighty Squirrel Brewery and Taproom]] - Craft brewery startup, contract vs owned manufacturing, taproom economics
 - [[N2-625-002 Shad Process Flow Design]] - Electronics assembly simulation and operations exercise
+- [[9-421-011 Rosalind Fox at John Deere]] - Agricultural equipment manufacturing, factory management, leadership and engagement
 
 ### Automotive Manufacturing
 - [[9-121-018 Capitalizing Development Costs at Fiat Chrysler and Volkswagen]] - Auto industry R&D, IFRS vs US GAAP accounting standards
@@ -199,6 +207,9 @@ Central repository for all Harvard Business School case studies. Cases are organ
 - [[9-621-006 Student Success at Georgia State University]] - United States (Atlanta, Georgia)
 - [[9-404-025 C&S Wholesale Grocers]] - United States (Brattleboro, Vermont)
 - [[9-222-018 Hamilton An American Musical]] - United States (New York City)
+- [[9-800-228 Heidi Roizen]] - United States (Silicon Valley, California)
+- [[9-421-011 Rosalind Fox at John Deere]] - United States (Des Moines/Ankeny, Iowa)
+- [[9-117-025 Springfield Hospital]] - United States (Western region), Southwest US, Asia (emerging country)
 
 ### Europe
 - [[N9-725-390 Royal Opera House]] - United Kingdom
@@ -246,6 +257,9 @@ Central repository for all Harvard Business School case studies. Cases are organ
 - [[9-521-027 Digital Marketing at HBS Online]] - Digital marketing attribution and ROI optimization
 - [[9-621-006 Student Success at Georgia State University]] - Predictive analytics for student success and retention
 - [[9-523-003 OOFOS Recovery Footwear]] - DTC channel growth and digital marketing budget optimization
+
+### Professional Networks & Relationships
+- [[9-800-228 Heidi Roizen]] - Building and maintaining professional networks in Silicon Valley
 
 ### Globalization
 - 
@@ -352,6 +366,9 @@ Central repository for all Harvard Business School case studies. Cases are organ
 - [[N2-224-114 Selling for a Song]] - Read: 2025-10-13 (FIN1)
 - [[9-502-030 Aqualisa Quartz]] - Read: 2025-10-13 (MKT)
 - [[9-719-420 KITEA]] - Read: 2025-10-13 (STRAT)
+- [[9-800-228 Heidi Roizen]] - Read: 2025-10-16 (LEAD)
+- [[9-421-011 Rosalind Fox at John Deere]] - Read: 2025-10-17 (LEAD)
+- [[9-117-025 Springfield Hospital]] - Read: 2025-10-17 (FRC)
 
 ## Study Groups & Discussions
 

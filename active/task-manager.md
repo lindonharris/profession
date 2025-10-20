@@ -10,46 +10,41 @@
   - [[profession/recruiting/applications/jds/2025-09-15_Blue-Owl-Capital_Credit-Platform-Workouts-Summer-Associate.json]]
   - Apply via company website
   - Contact: Jacalyn Walsh (jacalyn.walsh@blueowl.com)
-- [ ] Submit application: Evercore - Restructuring Summer Associate 📅 2025-12-04
-  - [[profession/recruiting/applications/jds/2025-09-15_Evercore_Liability-Management-Restructuring-Summer-Associate.json]]
-  - Apply via 12Twenty AND company website
-  - Resume and cover letter required
-- [ ] Submit application: Evercore - M&A Summer Associate 📅 2025-12-04
-  - [[profession/recruiting/applications/jds/2025-09-15_Evercore_Strategic-Advisory-MA-Summer-Associate.json]]
-  - Apply via 12Twenty AND company website
-  - Resume and cover letter required
-  - Interview dates: January 6-15, 2026
-- [ ] Find warm intro: Pzena Investment Management - MBA Research Analyst Intern
-  - [[profession/recruiting/applications/jds/2025-09-15_Pzena-Investment-Management_MBA-Research-Analyst-Intern.json]]
-  - Status: Applied 9/15, no warm intro yet
-  - Check: Alumni database, LinkedIn, HBS network
 - [ ] Find warm intro: Blue Owl Capital - Credit Platform, Workouts Summer Associate
   - [[profession/recruiting/applications/jds/2025-09-15_Blue-Owl-Capital_Credit-Platform-Workouts-Summer-Associate.json]]
   - Note: GP Strategic Capital connection to GP stakes interest
-  - Check: Alumni database, LinkedIn, HBS network
-- [ ] Find warm intro: Evercore - Restructuring Summer Associate
-  - [[profession/recruiting/applications/jds/2025-09-15_Evercore_Liability-Management-Restructuring-Summer-Associate.json]]
-  - Check: Alumni database, LinkedIn, HBS network
-- [ ] Find warm intro: Evercore - M&A Summer Associate
-  - [[profession/recruiting/applications/jds/2025-09-15_Evercore_Strategic-Advisory-MA-Summer-Associate.json]]
   - Check: Alumni database, LinkedIn, HBS network
 
 #### To do for me
 
 #### To do for work
-- [ ] LegalNote: Plan and prepare launch promo materials
-- [ ] LegalNote: Investigate Wall St Oasis / Reddit cloning capacities via the web  
-- [ ] Read MIT AI study
+
+#### To do for research
+- [ ] NAIC Research & Response: Read and annotate NAIC 2025 Affirming the Returns report 📅 ASAP
+  - Report location: `C:\Users\lindo\Downloads\NAIC-PR-Final-092925.pdf`
+  - Focus: Top-quartile diverse managers emerging during economic contractions (~15 years ago)
+  - Key insight: Nearly all top-quartile diverse managers today began as emerging firms in macroeconomic contraction
+- [ ] NAIC Research & Response: Annotate key findings on emerging manager performance in constrained markets
+  - Connect to HBS research: How EMs make strategic decisions and sustain performance
+  - Extract relevant data points and insights
+- [ ] NAIC Research & Response: Research performance survey methodology
+  - Context: NAIC doesn't release participating firm names (confidentiality agreement)
+  - Understand data collection and analysis approach
+- [ ] NAIC Research & Response: Draft specific questions for Kristen Perlman
+  - Focus: Performance data and emerging manager insights
+  - Connect to academic research interests
+  - Contact: Kristen Perlman (kperlman@naicpe.com) - VP of Marketing and Insights
+- [ ] NAIC Research & Response: Compose thoughtful response email to Kristen
+  - Reference specific report findings
+  - Connect HBS research to NAIC insights
+  - Cc: Marissa Mahoney (mmahoney@naicpe.com)
+- [ ] NAIC Research & Response: Review and send response to Kristen Perlman
 
 #### To get
 
 
 
 #### Logistics
-- [ ] ⏫ Book flights for Terrence & Morgan wedding in Miami 📅 ASAP
-  - Wedding website: https://withjoy.com/terrencemorgan
-  - Hotel options: Novotel Miami Brickell (2 nights) or AC Hotel Miami Brickell (3 nights)
-  - Check website's Accommodations, Travel, and FAQ pages for booking codes
 
 ---
 

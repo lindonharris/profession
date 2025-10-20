@@ -1,9 +1,10 @@
 ---
 # Case Metadata
+class_number:
 case_number: ""
 title: ""
 course: ""
-date_published: 
+date_published:
 date_read: {{date}}
 professor: ""
 tags: [case-study]
@@ -15,6 +16,10 @@ protagonists: []
 decision_point: ""
 teaching_objectives: []
 ---
+
+# Filename Convention
+# Use format: [class_number] - [case_number] [title].md
+# Example: 01 - 9-723-430 On (A).md
 
 # {{title}}
 
