@@ -1,10 +1,11 @@
 # Canvas Wrapper - Product Specification
 
 **Product Name**: Canvas Wrapper (formerly Canvas Wiz)
-**Status**: UI Prototype Complete (Lovable.dev) - **Continue Frontend in Lovable**
-**Last Updated**: October 17, 2025
+**Status**: Frontend MVP Complete + Backend Integration In Progress
+**Last Updated**: October 20, 2025
 **Owner**: LinDon Harris
 **Repository**: `/mnt/c/Users/lindo/Documents/Github/lovalytics-wiz` (Lovable project)
+**Live Deployment**: https://lovalytics-wiz.lovable.app (temporary domain, will change)
 
 ---
 
@@ -45,13 +46,15 @@ This is our iterative development process for building Canvas Wrapper:
 ## 📍 Where We Are & What's Next
 
 **Current State** (Updated: October 20, 2025):
-- ✅ **ALL SPRINTS COMPLETE** - Frontend MVP fully functional in Lovable.dev
+- ✅ **ALL SPRINTS COMPLETE** - Frontend MVP fully functional at https://lovalytics-wiz.lovable.app
 - ✅ Sprint 1-4: Navigation, Search, Dashboard, Courses, Files, Calendar, Settings
 - ✅ Submission status system (replaced completion tracking with Canvas truth)
 - ✅ Error handling with professional toast notifications
 - ✅ Bloomberg Terminal aesthetic throughout (sharp corners, professional spacing)
-- ✅ Centralized mock data ready for API replacement
-- 🚀 **READY FOR BACKEND INTEGRATION** - Replace mock data with Canvas API
+- ✅ Canvas API integration layer complete (src/lib/canvas-api.ts)
+- ✅ Unified data access layer with mock/live mode toggle
+- ✅ Dashboard updated to use async Canvas API (Step 23/34 complete)
+- 🚀 **BACKEND INTEGRATION IN PROGRESS** - Phase 4: Replacing mock data page-by-page
 
 **Key Insight from Workflow Analysis**:
 Your Direct Access Tools usage shows the real workflow:
@@ -695,12 +698,16 @@ Bloomberg aesthetic throughout.
    - Link extraction from HTML descriptions (parse `assignment.description`)
 
 #### Step 4: Replace Mock Data (Page by Page)
-23. [ ] **Dashboard** (`src/pages/Dashboard.tsx`)
-   - Replace hardcoded `todayAssignments`, `thisWeekAssignments`, `allAssignments`
-   - Use `getAssignments()` filtered by due date
-   - Add loading state (skeleton rows)
-   - Handle empty state ("No assignments due today")
-   - Real submission status from API
+23. [x] **Dashboard** (`src/pages/Dashboard.tsx`) ✅ COMPLETE
+   - ✅ Replaced hardcoded assignments with async `getAllAssignments()`
+   - ✅ Dynamic filtering for "Due Today" and "This Week"
+   - ✅ Added loading state with "Loading assignments..." message
+   - ✅ Added error state with inline error display
+   - ✅ Date parsing helpers (isToday, isThisWeek, parseDate)
+   - ✅ Real-time stats calculations
+   - ✅ Maintains Bloomberg Terminal aesthetic
+   - ✅ Works in mock mode (default) and live mode (when enabled)
+   - ✅ Graceful fallback to mock data on API errors
 
 24. [ ] **Courses** (`src/pages/Courses.tsx`, `src/pages/CourseDetail.tsx`)
    - Replace `mockCourseDetails` with `getCourses()`
